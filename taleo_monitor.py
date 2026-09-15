@@ -43,38 +43,33 @@ def score_match(title: str):
 
 
 def fetch_jobs():
-    """Retourne (total_count_devine, {job_number: job_title})."""
+    """Retourne (total_annonce, {job_number: job_title})."""
     with sync_playwright() as p:
         browser = p.chromium.launch()
         page = browser.new_page()
         page.goto(URL, wait_until="networkidle", timeout=60000)
-
-        # Tente de passer à 100 résultats par page si le sélecteur existe,
-        # pour limiter le nombre de pages à parcourir. Ignoré si absent.
-        try:
-            page.select_option("select[name*='PageSize'], select[id*='PageSize']", "100")
-            page.wait_for_load_state("networkidle", timeout=15000)
-        except Exception:
-            pass
-
         page.wait_for_timeout(3000)  # laisse le temps au rendu JS de finir
 
         jobs = {}
+        announced_total = None
         page_num = 1
         while True:
             text = page.inner_text("body")
             html = page.content()
 
-            # Dump debug (écrasé à chaque page, on garde surtout la dernière
-            # pour l'instant — utile pour calibrer les sélecteurs ensemble).
+            # Dump debug (écrasé à chaque page — reflète donc la dernière page
+            # visitée, utile pour vérifier que la pagination avance bien).
             DEBUG_TXT.write_text(text, encoding="utf-8")
             DEBUG_HTML.write_text(html, encoding="utf-8")
 
-            # Chaque offre affiche "Job Number: 123456" quelque part dans son bloc.
-            # On découpe le texte brut autour de ce marqueur et on essaie de
-            # récupérer le titre = dernière ligne non vide juste avant le marqueur
-            # dans le morceau précédent (approche approximative pour la V1,
-            # à confirmer/ajuster avec debug_page.txt).
+            # Le site affiche directement le total réel : "Search Results (67 jobs found)".
+            if announced_total is None:
+                m_total = re.search(r"Search Results\s*\((\d+)\s*jobs? found\)", text, re.I)
+                if m_total:
+                    announced_total = int(m_total.group(1))
+
+            # Chaque offre affiche "Job Number: 123456 - Lieu" ; le titre est la
+            # dernière ligne non vide juste avant, dans le texte brut de la page.
             chunks = re.split(r"Job Number:\s*", text)
             for i, chunk in enumerate(chunks[1:], start=1):
                 m = re.match(r"(\d+)", chunk.strip())
@@ -86,10 +81,11 @@ def fetch_jobs():
                 if job_number not in jobs:
                     jobs[job_number] = title
 
-            # Pagination : cherche un lien/bouton "page suivante" actif.
-            next_btn = page.query_selector("a[title*='Next'], a[aria-label*='Next']")
-            if next_btn and next_btn.is_enabled():
-                next_btn.click()
+            # Pagination : le site affiche un lien texte "Next" (pas d'attribut
+            # title/aria-label dessus) — on le cherche par son texte exact.
+            next_links = page.locator("a").filter(has_text=re.compile(r"^\s*Next\s*$", re.I))
+            if next_links.count() > 0:
+                next_links.first.click()
                 page.wait_for_load_state("networkidle", timeout=15000)
                 page.wait_for_timeout(2000)
                 page_num += 1
@@ -99,7 +95,8 @@ def fetch_jobs():
                 break
 
         browser.close()
-        return len(jobs), jobs
+        total = announced_total if announced_total is not None else len(jobs)
+        return total, jobs
 
 
 def load_previous_state():
