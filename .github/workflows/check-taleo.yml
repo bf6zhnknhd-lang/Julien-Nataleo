@@ -1,0 +1,37 @@
+name: Check NATO Taleo jobs
+
+on:
+  schedule:
+    # Horaires en UTC. Belgique = UTC+1 (hiver) / UTC+2 (été) — décalage
+    # d'une heure selon la saison, sans conséquence pour cet usage.
+    # Ici : ~9h, ~13h, ~17h heure de Belgique (hiver), du lundi au vendredi.
+    - cron: "0 8,12,16 * * 1-5"
+  workflow_dispatch: {}  # permet de lancer manuellement depuis l'onglet Actions
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Run monitor
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python taleo_monitor.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "taleo-bot"
+          git config user.email "actions@github.com"
+          git add state.json debug_page.txt debug_page.html docs/jobs.json
+          git diff --quiet --cached || git commit -m "Update job state"
+          git push
