@@ -83,9 +83,23 @@ def fetch_jobs():
 
             # Pagination : le site affiche un lien texte "Next" (pas d'attribut
             # title/aria-label dessus) — on le cherche par son texte exact.
+            # Le site affiche "Jobs - Page X out of Y" — bien plus fiable que
+            # l'état (peu fiable) du lien "Next" pour savoir si on est à la
+            # dernière page.
+            m_page = re.search(r"Page\s*(\d+)\s*out of\s*(\d+)", text, re.I)
+            on_last_page = bool(m_page) and int(m_page.group(1)) >= int(m_page.group(2))
+
             next_links = page.locator("a").filter(has_text=re.compile(r"^\s*Next\s*$", re.I))
-            if next_links.count() > 0:
-                next_links.first.click()
+            if not on_last_page and next_links.count() > 0:
+                # Le site marque ce lien aria-disabled="true" même quand il est
+                # réellement cliquable (le vrai état est géré en JS, pas via
+                # l'attribut disabled standard) — Playwright refuse donc de le
+                # cliquer normalement. On déclenche le clic natif DOM à la place,
+                # qui passe par le même onclick JS que ferait un vrai clic.
+                page.evaluate(
+                    "el => el.click()",
+                    next_links.first.element_handle(),
+                )
                 page.wait_for_load_state("networkidle", timeout=15000)
                 page.wait_for_timeout(2000)
                 page_num += 1
