@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Taleo NATO">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon.png">
+<title>Taleo NATO</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  body {
+    margin: 0; font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", sans-serif;
+    background: #0b0d12; color: #e8e9ec;
+    padding-top: env(safe-area-inset-top); padding-bottom: env(safe-area-inset-bottom);
+  }
+  header { padding: 18px 16px 10px; }
+  header h1 { font-size: 22px; margin: 0 0 2px; }
+  header p { margin: 0; color: #8a8f9a; font-size: 13px; }
+  .tabs {
+    display: flex; gap: 8px; padding: 0 16px 12px; position: sticky; top: 0;
+    background: #0b0d12; z-index: 10;
+  }
+  .tab {
+    flex: 1; text-align: center; padding: 10px 0; border-radius: 10px;
+    background: #171a21; color: #a3a8b3; font-size: 14px; font-weight: 600;
+  }
+  .tab.active { background: #2b6fff; color: white; }
+  .list { padding: 0 16px 40px; }
+  .card {
+    background: #14161c; border-radius: 12px; padding: 14px; margin-bottom: 10px;
+    border: 1px solid #21242c;
+  }
+  .card .title { font-size: 15px; font-weight: 600; margin-bottom: 6px; }
+  .card .meta { font-size: 12px; color: #8a8f9a; display: flex; gap: 8px; flex-wrap: wrap; }
+  .badge {
+    display: inline-block; font-size: 11px; font-weight: 700; padding: 2px 8px;
+    border-radius: 20px; margin-right: 6px;
+  }
+  .badge.new { background: #2b6fff33; color: #6fa1ff; }
+  .badge.match { background: #ffb02e33; color: #ffb02e; }
+  .card a { color: #6fa1ff; text-decoration: none; font-size: 13px; }
+  .empty { text-align: center; color: #6a6f7a; padding: 60px 20px; font-size: 14px; }
+  .updated { text-align: center; color: #565b66; font-size: 11px; padding: 6px 0 0; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Offres NATO Taleo</h1>
+  <p id="summary">Chargement…</p>
+</header>
+<div class="tabs">
+  <div class="tab active" data-tab="new">Nouvelles / Correspondances</div>
+  <div class="tab" data-tab="all">Toutes les offres</div>
+</div>
+<div class="list" id="list"></div>
+<p class="updated" id="updated"></p>
+
+<script>
+async function load() {
+  const res = await fetch('jobs.json?_=' + Date.now());
+  const data = await res.json();
+  window.__jobs = data;
+  document.getElementById('summary').textContent = data.total + ' offre(s) en ligne';
+  render('new');
+}
+
+function render(tab) {
+  const data = window.__jobs;
+  const list = document.getElementById('list');
+  let items = data.jobs;
+  if (tab === 'new') {
+    items = items.filter(j => j.is_new || j.match_score > 0);
+  }
+  if (items.length === 0) {
+    list.innerHTML = '<div class="empty">Rien à afficher ici pour le moment.</div>';
+    return;
+  }
+  list.innerHTML = items.map(j => `
+    <div class="card">
+      <div class="title">${j.title}</div>
+      <div class="meta">
+        ${j.is_new ? '<span class="badge new">NOUVEAU</span>' : ''}
+        ${j.match_score > 0 ? `<span class="badge match">⭐ ${j.matched_keywords.join(', ')}</span>` : ''}
+        <span>#${j.job_number}</span>
+      </div>
+      <a href="${j.url}" target="_blank" rel="noopener">Voir l'offre →</a>
+    </div>
+  `).join('');
+}
+
+document.querySelectorAll('.tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    render(tab.dataset.tab);
+  });
+});
+
+load();
+</script>
+</body>
+</html>
