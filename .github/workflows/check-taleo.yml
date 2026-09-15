@@ -1,5 +1,8 @@
 name: Check NATO Taleo jobs
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # Horaires en UTC. Belgique = UTC+1 (hiver) / UTC+2 (été) — décalage
