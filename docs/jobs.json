@@ -2,22 +2,6 @@
   "total": 65,
   "jobs": [
     {
-      "job_number": "261206",
-      "title": "Staff Officer (Budget Analyst)",
-      "location": "Netherlands-Brunssum",
-      "deadline": "20-Sep-2026, 9:59:00 PM",
-      "org": "Joint Force Command Brunssum (JFCBS)",
-      "grade": "NATO Grade G15",
-      "salary": "7,428.83Euro (EUR) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261206",
-      "is_new": false,
-      "match_score": 2,
-      "matched_keywords": [
-        "budget",
-        "staff officer"
-      ]
-    },
-    {
       "job_number": "261433",
       "title": "ACT Financial Controller",
       "location": "United States of America-Norfolk",
@@ -78,123 +62,18 @@
       ]
     },
     {
-      "job_number": "261422",
-      "title": "Project-Linked NATO (PLN) Agenda 2030 - Staff Assistant (Data Manager)",
-      "location": "Italy-Naples",
-      "deadline": "26-Sep-2026, 9:59:00 PM",
-      "org": "Joint Force Command Naples (JFCNP)",
-      "grade": "NATO Grade G10",
-      "salary": "4,150.63Euro (EUR) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261422",
-      "is_new": false,
-      "match_score": 1,
-      "matched_keywords": [
-        "staff assistant"
-      ]
-    },
-    {
-      "job_number": "261485",
-      "title": "Staff Assistant (Functional Area Services)",
-      "location": "Türkiye-Izmir",
-      "deadline": "10-Oct-2026, 9:59:00 PM",
-      "org": "Headquarters Allied Land Command (HQ LANDCOM)",
-      "grade": "NATO Grade G10",
-      "salary": "202,000.00Turkish Lira (TRY) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261485",
-      "is_new": false,
-      "match_score": 1,
-      "matched_keywords": [
-        "staff assistant"
-      ]
-    },
-    {
-      "job_number": "261426",
-      "title": "Staff Assistant (Legal)",
-      "location": "United States of America-Norfolk",
-      "deadline": "05-Oct-2026, 9:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G10",
-      "salary": "6,142.38US Dollar (USD) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261426",
-      "is_new": false,
-      "match_score": 1,
-      "matched_keywords": [
-        "staff assistant"
-      ]
-    },
-    {
-      "job_number": "261427",
-      "title": "Staff Assistant (Project and Office Coordination)",
-      "location": "Belgium-Mons",
-      "deadline": "17-Sep-2026, 9:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G8",
-      "salary": "4,205.48Euro (EUR) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261427",
-      "is_new": false,
-      "match_score": 1,
-      "matched_keywords": [
-        "staff assistant"
-      ]
-    },
-    {
-      "job_number": "261326",
-      "title": "Staff Officer (Audience Research)",
-      "location": "United States of America-Norfolk",
-      "deadline": "27-Sep-2026, 9:59:00 PM",
-      "org": "Joint Force Command Norfolk (JFCNF)",
+      "job_number": "261206",
+      "title": "Staff Officer (Budget Analyst)",
+      "location": "Netherlands-Brunssum",
+      "deadline": "20-Sep-2026, 9:59:00 PM",
+      "org": "Joint Force Command Brunssum (JFCBS)",
       "grade": "NATO Grade G15",
-      "salary": "8,398.96US Dollar (USD) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261326",
+      "salary": "7,428.83Euro (EUR) Monthly",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261206",
       "is_new": false,
       "match_score": 1,
       "matched_keywords": [
-        "staff officer"
-      ]
-    },
-    {
-      "job_number": "260833",
-      "title": "Staff Officer (Data Science)",
-      "location": "United States of America-Norfolk",
-      "deadline": "27-Sep-2026, 9:59:00 PM",
-      "org": "Joint Force Command Norfolk (JFCNF)",
-      "grade": "NATO Grade G17",
-      "salary": "10,723.43US Dollar (USD) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=260833",
-      "is_new": false,
-      "match_score": 1,
-      "matched_keywords": [
-        "staff officer"
-      ]
-    },
-    {
-      "job_number": "261411",
-      "title": "Staff Officer (Site Management)",
-      "location": "Norway-Stavanger",
-      "deadline": "27-Sep-2026, 9:59:00 PM",
-      "org": "Joint Warfare Centre (JWC)",
-      "grade": "NATO Grade G17",
-      "salary": "115,763.00Norwegian Krone (NOK) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261411",
-      "is_new": false,
-      "match_score": 1,
-      "matched_keywords": [
-        "staff officer"
-      ]
-    },
-    {
-      "job_number": "261483",
-      "title": "Staff Officer TOPFAS OPT - NATO 2030",
-      "location": "Belgium-Mons",
-      "deadline": "10-Oct-2026, 9:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G15",
-      "salary": "6,713.06Euro (EUR) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261483",
-      "is_new": false,
-      "match_score": 1,
-      "matched_keywords": [
-        "staff officer"
+        "budget"
       ]
     },
     {
@@ -692,6 +571,19 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261422",
+      "title": "Project-Linked NATO (PLN) Agenda 2030 - Staff Assistant (Data Manager)",
+      "location": "Italy-Naples",
+      "deadline": "26-Sep-2026, 9:59:00 PM",
+      "org": "Joint Force Command Naples (JFCNP)",
+      "grade": "NATO Grade G10",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261422",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261409",
       "title": "Public Key Infrastructure (PKI) Engineer (Project Post)",
       "location": "Belgium-Brussels",
@@ -791,6 +683,97 @@
       "grade": "NATO Grade G17",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261439",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261485",
+      "title": "Staff Assistant (Functional Area Services)",
+      "location": "Türkiye-Izmir",
+      "deadline": "10-Oct-2026, 9:59:00 PM",
+      "org": "Headquarters Allied Land Command (HQ LANDCOM)",
+      "grade": "NATO Grade G10",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261485",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261426",
+      "title": "Staff Assistant (Legal)",
+      "location": "United States of America-Norfolk",
+      "deadline": "05-Oct-2026, 9:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G10",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261426",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261427",
+      "title": "Staff Assistant (Project and Office Coordination)",
+      "location": "Belgium-Mons",
+      "deadline": "17-Sep-2026, 9:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G8",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261427",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261326",
+      "title": "Staff Officer (Audience Research)",
+      "location": "United States of America-Norfolk",
+      "deadline": "27-Sep-2026, 9:59:00 PM",
+      "org": "Joint Force Command Norfolk (JFCNF)",
+      "grade": "NATO Grade G15",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261326",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "260833",
+      "title": "Staff Officer (Data Science)",
+      "location": "United States of America-Norfolk",
+      "deadline": "27-Sep-2026, 9:59:00 PM",
+      "org": "Joint Force Command Norfolk (JFCNF)",
+      "grade": "NATO Grade G17",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=260833",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261411",
+      "title": "Staff Officer (Site Management)",
+      "location": "Norway-Stavanger",
+      "deadline": "27-Sep-2026, 9:59:00 PM",
+      "org": "Joint Warfare Centre (JWC)",
+      "grade": "NATO Grade G17",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261411",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261483",
+      "title": "Staff Officer TOPFAS OPT - NATO 2030",
+      "location": "Belgium-Mons",
+      "deadline": "10-Oct-2026, 9:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G15",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261483",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
