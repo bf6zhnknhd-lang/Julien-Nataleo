@@ -27,12 +27,14 @@ JOBS_JSON = Path("docs/jobs.json")  # lu par la page web (dossier docs/ = GitHub
 
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC")  # ex: "julien-nato-taleo-xk92"
 
-# Mots-clés basés sur le profil de Julien (finance/budget NCIA) — à ajuster
-# librement selon ce qui matche bien ou pas en pratique.
+# Mots-clés basés sur le profil de Julien (finance/budget NCIA) et les postes
+# qu'il vise concrètement (Staff Assistant/Officer Budget, Finance & Travel) —
+# à ajuster librement selon ce qui matche bien ou pas en pratique.
 MATCH_KEYWORDS = [
     "financial", "finance", "budget", "ipsas", "procurement", "contracting",
     "accounting", "audit", "resource management", "cost estimation",
     "business management and control", "cost analysis",
+    "staff assistant", "staff officer", "travel", "treasury", "payroll",
 ]
 
 
@@ -68,18 +70,43 @@ def fetch_jobs():
                 if m_total:
                     announced_total = int(m_total.group(1))
 
-            # Chaque offre affiche "Job Number: 123456 - Lieu" ; le titre est la
-            # dernière ligne non vide juste avant, dans le texte brut de la page.
+            # Chaque offre affiche : "Job Number: 123456 - Lieu", puis
+            # "Application Deadline: ...", puis "NATO Body: Org - Grade: G..".
+            # Le titre est la dernière ligne non vide juste avant, dans le
+            # morceau de texte précédent.
             chunks = re.split(r"Job Number:\s*", text)
             for i, chunk in enumerate(chunks[1:], start=1):
-                m = re.match(r"(\d+)", chunk.strip())
+                stripped = chunk.strip()
+                m = re.match(
+                    r"(?P<jobnum>\d+)\s*-\s*(?P<location>[^\n]+)\s*\n+"
+                    r"Application Deadline:\s*(?P<deadline>[^\n]+)\s*\n+"
+                    r"NATO Body:\s*(?P<org>.+?)\s*-\s*Grade:\s*(?P<grade>[^\n]*)",
+                    stripped,
+                    re.S,
+                )
                 if not m:
-                    continue
-                job_number = m.group(1)
+                    m_num = re.match(r"(\d+)", stripped)
+                    if not m_num:
+                        continue
+                    job_number = m_num.group(1)
+                    location = deadline = org = grade = ""
+                else:
+                    job_number = m.group("jobnum")
+                    location = m.group("location").strip()
+                    deadline = m.group("deadline").strip()
+                    org = m.group("org").strip()
+                    grade = m.group("grade").strip()
+
                 prev_lines = [l.strip() for l in chunks[i - 1].splitlines() if l.strip()]
                 title = prev_lines[-1] if prev_lines else f"Offre {job_number}"
                 if job_number not in jobs:
-                    jobs[job_number] = title
+                    jobs[job_number] = {
+                        "title": title,
+                        "location": location,
+                        "deadline": deadline,
+                        "org": org,
+                        "grade": grade,
+                    }
 
             # Pagination : le site affiche un lien texte "Next" (pas d'attribut
             # title/aria-label dessus) — on le cherche par son texte exact.
@@ -137,14 +164,19 @@ def send_notification(title, message):
 
 
 def build_jobs_export(current_jobs, new_ids):
-    """Construit la liste enrichie (titre, nouveauté, score de correspondance)
-    consommée par la page web, triée : nouvelles + correspondances en premier."""
+    """Construit la liste enrichie (titre, lieu, grade, nouveauté, score de
+    correspondance) consommée par la page web, triée : nouvelles +
+    correspondances en premier."""
     entries = []
-    for job_number, title in current_jobs.items():
-        score, matched_keywords = score_match(title)
+    for job_number, info in current_jobs.items():
+        score, matched_keywords = score_match(info["title"])
         entries.append({
             "job_number": job_number,
-            "title": title,
+            "title": info["title"],
+            "location": info.get("location", ""),
+            "deadline": info.get("deadline", ""),
+            "org": info.get("org", ""),
+            "grade": info.get("grade", ""),
             "url": f"https://nato.taleo.net/careersection/2/jobdetail.ftl?job={job_number}",
             "is_new": job_number in new_ids,
             "match_score": score,
@@ -177,7 +209,7 @@ def main():
         )
     elif new_ids:
         titles = "\n".join(
-            f"• {'⭐ ' if e['is_new'] and e['match_score'] > 0 else ''}{e['title']} (#{e['job_number']})"
+            f"• {'⭐ ' if e['is_new'] and e['match_score'] > 0 else ''}{e['title']} — {e['location']} (#{e['job_number']})"
             for e in entries if e["is_new"]
         )
         header = f"NATO Taleo — {len(new_ids)} nouvelle(s) offre(s)"
@@ -193,4 +225,3 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
-    
