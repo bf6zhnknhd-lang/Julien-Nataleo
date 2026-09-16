@@ -5,10 +5,10 @@ permissions:
 
 on:
   schedule:
-    # Horaires en UTC. Belgique = UTC+1 (hiver) / UTC+2 (été) — décalage
-    # d'une heure selon la saison, sans conséquence pour cet usage.
-    # Ici : ~9h, ~13h, ~17h heure de Belgique (hiver), du lundi au vendredi.
-    - cron: "0 8,12,16 * * 1-5"
+    # Horaires en UTC. Heure d'été belge (UTC+2, actuellement) : 7h/11h/15h
+    # UTC = 9h/13h/17h locale. À l'heure d'hiver (UTC+1, dès fin octobre),
+    # repasser cette ligne à "0 8,12,16 * * 1-5" pour garder 9h/13h/17h local.
+    - cron: "0 7,11,15 * * 1-5"
   workflow_dispatch: {}  # permet de lancer manuellement depuis l'onglet Actions
 
 jobs:
@@ -36,5 +36,6 @@ jobs:
           git config user.name "taleo-bot"
           git config user.email "actions@github.com"
           git add state.json debug_page.txt debug_page.html docs/jobs.json
+          [ -f debug_detail_page.txt ] && git add debug_detail_page.txt || true
           git diff --quiet --cached || git commit -m "Update job state"
           git push
