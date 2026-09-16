@@ -20,9 +20,11 @@ import requests
 from playwright.sync_api import sync_playwright
 
 URL = "https://nato.taleo.net/careersection/2/jobsearch.ftl?lang=en"
+DETAIL_URL = "https://nato.taleo.net/careersection/2/jobdetail.ftl?job={job_number}&lang=en"
 STATE_FILE = Path("state.json")
 DEBUG_TXT = Path("debug_page.txt")
 DEBUG_HTML = Path("debug_page.html")
+DEBUG_DETAIL_TXT = Path("debug_detail_page.txt")  # dernière fiche offre visitée, pour calibrer
 JOBS_JSON = Path("docs/jobs.json")  # lu par la page web (dossier docs/ = GitHub Pages)
 
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC")  # ex: "julien-nato-taleo-xk92"
@@ -33,7 +35,8 @@ NTFY_TOPIC = os.environ.get("NTFY_TOPIC")  # ex: "julien-nato-taleo-xk92"
 MATCH_KEYWORDS = [
     "financial", "finance", "budget", "ipsas", "procurement", "contracting",
     "accounting", "audit", "resource management", "cost estimation",
-    "business management and control", "cost analysis", "travel", "treasury", "payroll",
+    "business management and control", "cost analysis",
+    "staff assistant", "staff officer", "travel", "treasury", "payroll",
 ]
 
 
@@ -43,8 +46,32 @@ def score_match(title: str):
     return len(matched), matched
 
 
+def fetch_salaries(job_numbers):
+    """Visite la fiche détaillée de chaque offre listée (uniquement les
+    correspondances, pour ne pas alourdir le run) et tente d'en extraire le
+    salaire. Retourne {job_number: salaire_ou_chaine_vide}."""
+    salaries = {}
+    if not job_numbers:
+        return salaries
+    with sync_playwright() as p:
+        browser = p.chromium.launch()
+        page = browser.new_page()
+        for job_number in job_numbers:
+            try:
+                page.goto(DETAIL_URL.format(job_number=job_number), wait_until="networkidle", timeout=60000)
+                page.wait_for_timeout(2000)
+                text = page.inner_text("body")
+                DEBUG_DETAIL_TXT.write_text(text, encoding="utf-8")  # dernière fiche visitée
+                m = re.search(r"Salary\s*\(Pay Basis\)\s*:?\s*([^\n]{3,80})", text, re.I)
+                salaries[job_number] = m.group(1).strip() if m else ""
+            except Exception:
+                salaries[job_number] = ""
+        browser.close()
+    return salaries
+
+
 def fetch_jobs():
-    """Retourne (total_annonce, {job_number: job_title})."""
+    """Retourne (total_annonce, {job_number: infos_offre})."""
     with sync_playwright() as p:
         browser = p.chromium.launch()
         page = browser.new_page()
@@ -162,9 +189,9 @@ def send_notification(title, message):
     )
 
 
-def build_jobs_export(current_jobs, new_ids):
-    """Construit la liste enrichie (titre, lieu, grade, nouveauté, score de
-    correspondance) consommée par la page web, triée : nouvelles +
+def build_jobs_export(current_jobs, new_ids, salaries):
+    """Construit la liste enrichie (titre, lieu, grade, salaire, nouveauté,
+    score de correspondance) consommée par la page web, triée : nouvelles +
     correspondances en premier."""
     entries = []
     for job_number, info in current_jobs.items():
@@ -176,6 +203,7 @@ def build_jobs_export(current_jobs, new_ids):
             "deadline": info.get("deadline", ""),
             "org": info.get("org", ""),
             "grade": info.get("grade", ""),
+            "salary": salaries.get(job_number, ""),
             "url": f"https://nato.taleo.net/careersection/2/jobdetail.ftl?job={job_number}",
             "is_new": job_number in new_ids,
             "match_score": score,
@@ -192,7 +220,13 @@ def main():
     new_ids = set(current_jobs) - set(previous_jobs)
     first_run = len(previous_jobs) == 0
 
-    entries = build_jobs_export(current_jobs, new_ids)
+    # Le salaire n'est visible que sur la fiche détaillée de chaque offre (pas
+    # sur la page de recherche) — on ne la visite que pour les offres qui
+    # matchent le profil, pour ne pas ralentir le run sur les 67 offres.
+    matching_ids = [jn for jn, info in current_jobs.items() if score_match(info["title"])[0] > 0]
+    salaries = fetch_salaries(matching_ids)
+
+    entries = build_jobs_export(current_jobs, new_ids, salaries)
     JOBS_JSON.parent.mkdir(parents=True, exist_ok=True)
     JOBS_JSON.write_text(
         json.dumps({"total": total, "jobs": entries}, ensure_ascii=False, indent=2),
