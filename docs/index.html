@@ -87,6 +87,14 @@ function render(tab) {
         ${j.match_score > 0 ? `<span class="badge match">⭐ ${j.matched_keywords.join(', ')}</span>` : ''}
         <span>#${j.job_number}</span>
       </div>
+      <div class="meta" style="margin-top:4px;">
+        <span>📍 ${j.location || '—'}</span>
+        <span>🎖️ ${j.grade || '—'}</span>
+        ${j.salary ? `<span>💶 ${j.salary}</span>` : ''}
+      </div>
+      <div class="meta" style="margin-top:2px;">
+        <span>⏳ ${j.deadline || '—'}</span>
+      </div>
       <a href="${j.url}" target="_blank" rel="noopener">Voir l'offre →</a>
     </div>
   `).join('');
