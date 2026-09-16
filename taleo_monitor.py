@@ -35,8 +35,7 @@ NTFY_TOPIC = os.environ.get("NTFY_TOPIC")  # ex: "julien-nato-taleo-xk92"
 MATCH_KEYWORDS = [
     "financial", "finance", "budget", "ipsas", "procurement", "contracting",
     "accounting", "audit", "resource management", "cost estimation",
-    "business management and control", "cost analysis",
-    "staff assistant", "staff officer", "travel", "treasury", "payroll",
+    "business management and control", "cost analysis", "travel", "treasury", "payroll",
 ]
 
 
