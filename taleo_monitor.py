@@ -30,12 +30,13 @@ JOBS_JSON = Path("docs/jobs.json")  # lu par la page web (dossier docs/ = GitHub
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC")  # ex: "julien-nato-taleo-xk92"
 
 # Mots-clés basés sur le profil de Julien (finance/budget NCIA) et les postes
-# qu'il vise concrètement (Staff Assistant/Officer Budget, Finance & Travel) —
-# à ajuster librement selon ce qui matche bien ou pas en pratique.
+# qu'il vise concrètement — à ajuster librement selon ce qui matche bien ou
+# pas en pratique.
 MATCH_KEYWORDS = [
     "financial", "finance", "budget", "ipsas", "procurement", "contracting",
     "accounting", "audit", "resource management", "cost estimation",
-    "business management and control", "cost analysis", "travel", "treasury", "payroll",
+    "business management and control", "cost analysis",
+    "travel", "treasury", "payroll",
 ]
 
 
@@ -265,7 +266,7 @@ def main():
         )
 
     save_state(current_jobs)
-    print(f"OK — {total} offres détectées, {len(new_ids)} nouvelle(s), {len(new_matches)} correspondance(s).")
+    print(f"OK — {total} offres détectées, {len(new_ids)} nouvelle(s), {len(current_matches)} correspondance(s) actuelle(s) au total (dont {len(new_matches)} nouvelle(s)).")
 
 
 if __name__ == "__main__":
