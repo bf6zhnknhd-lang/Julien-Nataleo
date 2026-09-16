@@ -39,3 +39,4 @@ jobs:
           [ -f debug_detail_page.txt ] && git add debug_detail_page.txt || true
           git diff --quiet --cached || git commit -m "Update job state"
           git push
+
