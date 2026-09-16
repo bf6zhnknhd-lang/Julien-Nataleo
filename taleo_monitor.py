@@ -64,7 +64,8 @@ def fetch_salaries(job_numbers):
                 DEBUG_DETAIL_TXT.write_text(text, encoding="utf-8")  # dernière fiche visitée
                 m = re.search(r"Salary\s*\(Pay Basis\)\s*:?\s*([^\n]{3,80})", text, re.I)
                 salaries[job_number] = m.group(1).strip() if m else ""
-            except Exception:
+            except Exception as e:
+                print(f"Erreur en visitant la fiche de l'offre #{job_number} : {e!r}")
                 salaries[job_number] = ""
         browser.close()
     return salaries
@@ -224,6 +225,7 @@ def main():
     # sur la page de recherche) — on ne la visite que pour les offres qui
     # matchent le profil, pour ne pas ralentir le run sur les 67 offres.
     matching_ids = [jn for jn, info in current_jobs.items() if score_match(info["title"])[0] > 0]
+    print(f"{len(matching_ids)} offre(s) correspondante(s) ce run : {matching_ids}")
     salaries = fetch_salaries(matching_ids)
 
     entries = build_jobs_export(current_jobs, new_ids, salaries)
