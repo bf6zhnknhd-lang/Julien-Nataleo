@@ -234,6 +234,7 @@ def main():
     )
 
     new_matches = [e for e in entries if e["is_new"] and e["match_score"] > 0]
+    current_matches = [e for e in entries if e["match_score"] > 0]
 
     if first_run:
         send_notification(
@@ -249,8 +250,20 @@ def main():
         if new_matches:
             header += f" dont {len(new_matches)} correspondance(s) ⭐"
         send_notification(header, f"Total en ligne : {total}\n\n{titles}")
+    elif current_matches:
+        titles = "\n".join(
+            f"⭐ {e['title']} — {e['location']} (#{e['job_number']})"
+            for e in current_matches
+        )
+        send_notification(
+            f"NATO Taleo — Pas de nouvelle offre, {len(current_matches)} correspondance(s) active(s)",
+            f"Total en ligne : {total}\n\n{titles}",
+        )
     else:
-        print(f"Aucune nouvelle offre. Total actuel : {total}")
+        send_notification(
+            "NATO Taleo — Pas de nouvelle offre",
+            f"Total en ligne : {total}. Aucune correspondance active pour le moment.",
+        )
 
     save_state(current_jobs)
     print(f"OK — {total} offres détectées, {len(new_ids)} nouvelle(s), {len(new_matches)} correspondance(s).")
