@@ -2,6 +2,21 @@
   "total": 65,
   "jobs": [
     {
+      "job_number": "261472",
+      "title": "Assistant (Purchasing and Contracting)",
+      "location": "France-Paris",
+      "deadline": "18-Oct-2026, 9:59:00 PM",
+      "org": "Collaboration Support Office (CSO)",
+      "grade": "NATO Grade G10",
+      "salary": "5,335.54Euro (EUR) Monthly",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261472",
+      "is_new": true,
+      "match_score": 1,
+      "matched_keywords": [
+        "contracting"
+      ]
+    },
+    {
       "job_number": "261433",
       "title": "ACT Financial Controller",
       "location": "United States of America-Norfolk",
@@ -358,19 +373,6 @@
       "grade": "NATO Grade G17",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261484",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261390",
-      "title": "Head (Senior Intelligence Analyst (PMESII) Team 2",
-      "location": "Italy-Naples",
-      "deadline": "16-Sep-2026, 9:59:00 PM",
-      "org": "Joint Force Command Naples (JFCNP)",
-      "grade": "NATO Grade G17",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261390",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []

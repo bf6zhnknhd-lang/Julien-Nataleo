@@ -265,13 +265,6 @@
     "org": "NATO Communications and Information Agency (NCIA)",
     "grade": "NATO Grade G20"
   },
-  "261390": {
-    "title": "Head (Senior Intelligence Analyst (PMESII) Team 2",
-    "location": "Italy-Naples",
-    "deadline": "16-Sep-2026, 9:59:00 PM",
-    "org": "Joint Force Command Naples (JFCNP)",
-    "grade": "NATO Grade G17"
-  },
   "261484": {
     "title": "GEOINT Data Architect",
     "location": "Belgium-Brussels",
@@ -432,6 +425,13 @@
     "deadline": "04-Oct-2026, 9:59:00 PM",
     "org": "NATO International Staff (NATO IS)",
     "grade": "NATO Grade G8-G10"
+  },
+  "261472": {
+    "title": "Assistant (Purchasing and Contracting)",
+    "location": "France-Paris",
+    "deadline": "18-Oct-2026, 9:59:00 PM",
+    "org": "Collaboration Support Office (CSO)",
+    "grade": "NATO Grade G10"
   },
   "261344": {
     "title": "Administrative Tribunal Assistant",
