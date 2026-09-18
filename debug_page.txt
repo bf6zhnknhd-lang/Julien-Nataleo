@@ -7,7 +7,7 @@ My Job Cart|Sign In
 Job SearchMy Jobpage
 Search|Advanced Search|All Jobs
 Jobs available in:
-English (65)
+English (64)
 French (13)
 	
 
@@ -162,7 +162,7 @@ Multiple selections
 You can search for jobs in more than one job field, location and organization. After selecting a value in one of these fields, click "Add..." and make another selection.
 
 Beginning of the main content section.
-Search Results (65 jobs found)
+Search Results (64 jobs found)
 Results per page
 5
 10
@@ -174,15 +174,6 @@ Job Title (Ascending Order)
 Job Title (Descending Order)
 Location (Ascending Order)
 Location (Descending Order)
-
-	
-Cyber Security Engineer 
-Job Number: 261435 - Belgium-Mons
-Application Deadline: 27-Sep-2026, 9:59:00 PM  
-NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G15
-Apply|Add to My Job Cart
-
- 
 
 	
 Cyber Security Defender - Network Security Tool Manager 

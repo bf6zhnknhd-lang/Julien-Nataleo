@@ -1,5 +1,5 @@
 {
-  "total": 65,
+  "total": 64,
   "jobs": [
     {
       "job_number": "261433",
@@ -711,19 +711,6 @@
       "grade": "NATO Grade G10",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261426",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261427",
-      "title": "Staff Assistant (Project and Office Coordination)",
-      "location": "Belgium-Mons",
-      "deadline": "17-Sep-2026, 9:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G8",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261427",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
