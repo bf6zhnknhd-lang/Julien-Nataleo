@@ -195,6 +195,20 @@
     "org": "NATO International Staff (NATO IS)",
     "grade": "NATO Grade G17"
   },
+  "261504": {
+    "title": "Officer, Risk Management",
+    "location": "Belgium-Brussels",
+    "deadline": "11-Oct-2026, 9:59:00 PM",
+    "org": "NATO International Staff (NATO IS)",
+    "grade": "NATO Grade G17-G20"
+  },
+  "261500": {
+    "title": "Officer, Defence Industrial Capacity",
+    "location": "Belgium-Brussels",
+    "deadline": "19-Oct-2026, 9:59:00 PM",
+    "org": "NATO International Staff (NATO IS)",
+    "grade": "NATO Grade G15-G17"
+  },
   "261457": {
     "title": "Officer, Business Management Systems",
     "location": "Belgium-Brussels",
@@ -208,6 +222,13 @@
     "deadline": "20-Sep-2026, 9:59:00 PM",
     "org": "Science and Technology Organization (STO)",
     "grade": "NATO Grade G15"
+  },
+  "261487": {
+    "title": "Officer, AFSC and Multinational Capability Delivery",
+    "location": "Belgium-Brussels",
+    "deadline": "25-Oct-2026, 10:59:00 PM",
+    "org": "NATO International Staff (NATO IS)",
+    "grade": "NATO Grade G15-G17"
   },
   "261404": {
     "title": "Mechanical, Electrical and Plumbing (MEP) Project Manager",
@@ -247,7 +268,7 @@
   "261407": {
     "title": "IKM Analyst",
     "location": "Türkiye-Izmir",
-    "deadline": "22-Sep-2026, 9:59:00 PM",
+    "deadline": "06-Oct-2026, 9:59:00 PM",
     "org": "Headquarters Allied Land Command (HQ LANDCOM)",
     "grade": "NATO Grade G15"
   },
@@ -320,6 +341,13 @@
     "deadline": "06-Oct-2026, 9:59:00 PM",
     "org": "NATO Communications and Information Agency (NCIA)",
     "grade": "NATO Grade G22"
+  },
+  "261482": {
+    "title": "Database Manager-PLN (readvertisement)",
+    "location": "Poland-Bydgoszcz",
+    "deadline": "18-Oct-2026, 9:59:00 PM",
+    "org": "Joint Force Training Centre (JFTC)",
+    "grade": "NATO Grade G12"
   },
   "261475": {
     "title": "Data Scientist (AI)",
