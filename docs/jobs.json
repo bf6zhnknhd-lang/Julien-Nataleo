@@ -1,57 +1,20 @@
 {
-  "total": 68,
+  "total": 69,
   "jobs": [
     {
-      "job_number": "261482",
-      "title": "Database Manager-PLN (readvertisement)",
-      "location": "Poland-Bydgoszcz",
+      "job_number": "261521",
+      "title": "Office Head (Travel)",
+      "location": "United States of America-Norfolk",
       "deadline": "18-Oct-2026, 9:59:00 PM",
-      "org": "Joint Force Training Centre (JFTC)",
-      "grade": "NATO Grade G12",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261482",
+      "org": "Joint Force Command Norfolk (JFCNF)",
+      "grade": "NATO Grade G10",
+      "salary": "6,142.38US Dollar (USD) Monthly",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261521",
       "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261487",
-      "title": "Officer, AFSC and Multinational Capability Delivery",
-      "location": "Belgium-Brussels",
-      "deadline": "25-Oct-2026, 10:59:00 PM",
-      "org": "NATO International Staff (NATO IS)",
-      "grade": "NATO Grade G15-G17",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261487",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261500",
-      "title": "Officer, Defence Industrial Capacity",
-      "location": "Belgium-Brussels",
-      "deadline": "19-Oct-2026, 9:59:00 PM",
-      "org": "NATO International Staff (NATO IS)",
-      "grade": "NATO Grade G15-G17",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261500",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261504",
-      "title": "Officer, Risk Management",
-      "location": "Belgium-Brussels",
-      "deadline": "11-Oct-2026, 9:59:00 PM",
-      "org": "NATO International Staff (NATO IS)",
-      "grade": "NATO Grade G17-G20",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261504",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
+      "match_score": 1,
+      "matched_keywords": [
+        "travel"
+      ]
     },
     {
       "job_number": "261433",
@@ -339,6 +302,19 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261482",
+      "title": "Database Manager-PLN (readvertisement)",
+      "location": "Poland-Bydgoszcz",
+      "deadline": "18-Oct-2026, 9:59:00 PM",
+      "org": "Joint Force Training Centre (JFTC)",
+      "grade": "NATO Grade G12",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261482",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261272",
       "title": "Deputy Chief Information Officer",
       "location": "Belgium-Brussels, Belgium-Mons",
@@ -521,6 +497,19 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261487",
+      "title": "Officer, AFSC and Multinational Capability Delivery",
+      "location": "Belgium-Brussels",
+      "deadline": "25-Oct-2026, 10:59:00 PM",
+      "org": "NATO International Staff (NATO IS)",
+      "grade": "NATO Grade G15-G17",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261487",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261367",
       "title": "Officer, Analysis",
       "location": "Belgium-Brussels",
@@ -542,6 +531,32 @@
       "grade": "NATO Grade G11-G15",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261457",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261500",
+      "title": "Officer, Defence Industrial Capacity",
+      "location": "Belgium-Brussels",
+      "deadline": "19-Oct-2026, 9:59:00 PM",
+      "org": "NATO International Staff (NATO IS)",
+      "grade": "NATO Grade G15-G17",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261500",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261504",
+      "title": "Officer, Risk Management",
+      "location": "Belgium-Brussels",
+      "deadline": "11-Oct-2026, 9:59:00 PM",
+      "org": "NATO International Staff (NATO IS)",
+      "grade": "NATO Grade G17-G20",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261504",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
