@@ -21,30 +21,45 @@
   header h1 { font-size: 22px; margin: 0 0 2px; }
   header p { margin: 0; color: #8a8f9a; font-size: 13px; }
   .tabs {
-    display: flex; gap: 8px; padding: 0 16px 12px; position: sticky; top: 0;
-    background: #0b0d12; z-index: 10;
+    display: grid; grid-template-columns: 1fr 1fr; gap: 8px; padding: 0 16px 8px;
+    position: sticky; top: 0; background: #0b0d12; z-index: 10;
   }
   .tab {
-    flex: 1; text-align: center; padding: 10px 0; border-radius: 10px;
-    background: #171a21; color: #a3a8b3; font-size: 14px; font-weight: 600;
+    text-align: center; padding: 10px 0; border-radius: 10px;
+    background: #171a21; color: #a3a8b3; font-size: 13px; font-weight: 600;
   }
   .tab.active { background: #2b6fff; color: white; }
+  .search {
+    margin: 0 16px 12px; padding: 10px 12px; border-radius: 10px; border: 1px solid #21242c;
+    background: #14161c; color: #e8e9ec; font-size: 14px; width: calc(100% - 32px);
+  }
+  .search::placeholder { color: #565b66; }
   .list { padding: 0 16px 40px; }
   .card {
     background: #14161c; border-radius: 12px; padding: 14px; margin-bottom: 10px;
     border: 1px solid #21242c;
   }
   .card .title { font-size: 15px; font-weight: 600; margin-bottom: 6px; }
-  .card .meta { font-size: 12px; color: #8a8f9a; display: flex; gap: 8px; flex-wrap: wrap; }
+  .card .meta { font-size: 12px; color: #8a8f9a; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
   .badge {
     display: inline-block; font-size: 11px; font-weight: 700; padding: 2px 8px;
     border-radius: 20px; margin-right: 6px;
   }
   .badge.new { background: #2b6fff33; color: #6fa1ff; }
   .badge.match { background: #ffb02e33; color: #ffb02e; }
+  .badge.urgent { background: #ff453a33; color: #ff6a61; }
+  .badge.removed { background: #565b6633; color: #9096a1; }
+  .deadline-soon { color: #ff6a61; font-weight: 700; }
   .card a { color: #6fa1ff; text-decoration: none; font-size: 13px; }
+  .status-select {
+    margin-top: 8px; width: 100%; padding: 8px; border-radius: 8px; border: 1px solid #21242c;
+    background: #0b0d12; color: #e8e9ec; font-size: 12px;
+  }
   .empty { text-align: center; color: #6a6f7a; padding: 60px 20px; font-size: 14px; }
   .updated { text-align: center; color: #565b66; font-size: 11px; padding: 6px 0 0; }
+  .stats-box { padding: 0 16px 40px; }
+  .stats-box svg { width: 100%; height: auto; }
+  .stats-legend { font-size: 12px; color: #8a8f9a; text-align: center; margin-top: 8px; }
 </style>
 </head>
 <body>
@@ -55,11 +70,37 @@
 <div class="tabs">
   <div class="tab active" data-tab="new">Nouvelles / Correspondances</div>
   <div class="tab" data-tab="all">Toutes les offres</div>
+  <div class="tab" data-tab="history">Historique</div>
+  <div class="tab" data-tab="stats">Stats</div>
 </div>
+<input class="search" id="search" placeholder="Rechercher un titre ou un lieu…" style="display:none;">
 <div class="list" id="list"></div>
+<div class="stats-box" id="statsBox" style="display:none;"></div>
 <p class="updated" id="updated"></p>
 
 <script>
+const STATUS_OPTIONS = ["Non postulé", "Postulé", "Entretien", "Refusé"];
+
+function getStatus(jobNumber) {
+  try {
+    return localStorage.getItem('status:' + jobNumber) || STATUS_OPTIONS[0];
+  } catch (e) { return STATUS_OPTIONS[0]; }
+}
+function setStatus(jobNumber, value) {
+  try { localStorage.setItem('status:' + jobNumber, value); } catch (e) {}
+}
+
+function isDeadlineSoon(deadlineStr) {
+  if (!deadlineStr) return false;
+  // Format attendu : "31-Dec-2026, 10:59:00 PM"
+  const m = deadlineStr.match(/(\d{1,2})-(\w{3})-(\d{4})/);
+  if (!m) return false;
+  const months = {Jan:0,Feb:1,Mar:2,Apr:3,May:4,Jun:5,Jul:6,Aug:7,Sep:8,Oct:9,Nov:10,Dec:11};
+  const d = new Date(Date.UTC(+m[3], months[m[2]] ?? 0, +m[1]));
+  const days = (d - new Date()) / 86400000;
+  return days >= 0 && days <= 7;
+}
+
 async function load() {
   const res = await fetch('jobs.json?_=' + Date.now());
   const data = await res.json();
@@ -68,23 +109,22 @@ async function load() {
   render('new');
 }
 
-function render(tab) {
-  const data = window.__jobs;
+function renderJobsList(items) {
   const list = document.getElementById('list');
-  let items = data.jobs;
-  if (tab === 'new') {
-    items = items.filter(j => j.is_new || j.match_score > 0);
-  }
   if (items.length === 0) {
     list.innerHTML = '<div class="empty">Rien à afficher ici pour le moment.</div>';
     return;
   }
-  list.innerHTML = items.map(j => `
+  list.innerHTML = items.map(j => {
+    const soon = isDeadlineSoon(j.deadline);
+    const status = getStatus(j.job_number);
+    return `
     <div class="card">
       <div class="title">${j.title}</div>
       <div class="meta">
         ${j.is_new ? '<span class="badge new">NOUVEAU</span>' : ''}
         ${j.match_score > 0 ? `<span class="badge match">⭐ ${j.matched_keywords.join(', ')}</span>` : ''}
+        ${soon ? '<span class="badge urgent">ÉCHÉANCE PROCHE</span>' : ''}
         <span>#${j.job_number}</span>
       </div>
       <div class="meta" style="margin-top:4px;">
@@ -93,11 +133,92 @@ function render(tab) {
         ${j.salary ? `<span>💶 ${j.salary}</span>` : ''}
       </div>
       <div class="meta" style="margin-top:2px;">
-        <span>⏳ ${j.deadline || '—'}</span>
+        <span class="${soon ? 'deadline-soon' : ''}">⏳ ${j.deadline || '—'}</span>
       </div>
       <a href="${j.url}" target="_blank" rel="noopener">Voir l'offre →</a>
+      <select class="status-select" data-job="${j.job_number}">
+        ${STATUS_OPTIONS.map(s => `<option value="${s}" ${s === status ? 'selected' : ''}>${s}</option>`).join('')}
+      </select>
+    </div>`;
+  }).join('');
+
+  list.querySelectorAll('.status-select').forEach(sel => {
+    sel.addEventListener('change', () => setStatus(sel.dataset.job, sel.value));
+  });
+}
+
+function renderHistory(items) {
+  const list = document.getElementById('list');
+  if (items.length === 0) {
+    list.innerHTML = '<div class="empty">Aucune offre retirée pour le moment.</div>';
+    return;
+  }
+  list.innerHTML = items.slice().reverse().map(h => `
+    <div class="card">
+      <div class="title">${h.title}</div>
+      <div class="meta">
+        <span class="badge removed">RETIRÉE</span>
+        <span>#${h.job_number}</span>
+      </div>
+      <div class="meta" style="margin-top:4px;">
+        <span>📍 ${h.location || '—'}</span>
+        <span>Retirée le ${new Date(h.removed_at).toLocaleDateString('fr-FR')}</span>
+      </div>
     </div>
   `).join('');
+}
+
+function renderStats(points) {
+  const box = document.getElementById('statsBox');
+  if (!points || points.length === 0) {
+    box.innerHTML = '<div class="empty">Pas encore assez de données. Reviens après quelques runs.</div>';
+    return;
+  }
+  const w = 340, h = 180, pad = 24;
+  const maxTotal = Math.max(...points.map(p => p.total), 1);
+  const maxMatches = Math.max(...points.map(p => p.matches), 1);
+  const scaleX = i => pad + (i / Math.max(points.length - 1, 1)) * (w - 2 * pad);
+  const scaleYTotal = v => h - pad - (v / maxTotal) * (h - 2 * pad);
+  const scaleYMatches = v => h - pad - (v / Math.max(maxMatches, 1)) * (h - 2 * pad);
+  const lineTotal = points.map((p, i) => `${scaleX(i)},${scaleYTotal(p.total)}`).join(' ');
+  const lineMatches = points.map((p, i) => `${scaleX(i)},${scaleYMatches(p.matches)}`).join(' ');
+  box.innerHTML = `
+    <svg viewBox="0 0 ${w} ${h}" xmlns="http://www.w3.org/2000/svg">
+      <polyline points="${lineTotal}" fill="none" stroke="#6fa1ff" stroke-width="2" />
+      <polyline points="${lineMatches}" fill="none" stroke="#ffb02e" stroke-width="2" />
+    </svg>
+    <div class="stats-legend">
+      <span style="color:#6fa1ff;">● Total offres</span> &nbsp; <span style="color:#ffb02e;">● Correspondances</span>
+    </div>
+  `;
+}
+
+function render(tab) {
+  const data = window.__jobs;
+  document.getElementById('search').style.display = (tab === 'all') ? 'block' : 'none';
+  document.getElementById('list').style.display = (tab === 'stats') ? 'none' : 'block';
+  document.getElementById('statsBox').style.display = (tab === 'stats') ? 'block' : 'none';
+
+  if (tab === 'stats') {
+    fetch('history_stats.json?_=' + Date.now()).then(r => r.json()).then(renderStats).catch(() => renderStats([]));
+    return;
+  }
+  if (tab === 'history') {
+    fetch('history.json?_=' + Date.now()).then(r => r.json()).then(renderHistory).catch(() => renderHistory([]));
+    return;
+  }
+
+  let items = data.jobs;
+  if (tab === 'new') {
+    items = items.filter(j => j.is_new || j.match_score > 0);
+  }
+  if (tab === 'all') {
+    const q = (document.getElementById('search').value || '').toLowerCase();
+    if (q) {
+      items = items.filter(j => (j.title + ' ' + j.location).toLowerCase().includes(q));
+    }
+  }
+  renderJobsList(items);
 }
 
 document.querySelectorAll('.tab').forEach(tab => {
@@ -107,6 +228,7 @@ document.querySelectorAll('.tab').forEach(tab => {
     render(tab.dataset.tab);
   });
 });
+document.getElementById('search').addEventListener('input', () => render('all'));
 
 load();
 </script>
