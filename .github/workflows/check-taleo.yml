@@ -7,8 +7,11 @@ on:
   schedule:
     # Horaires en UTC. Heure d'été belge (UTC+2, actuellement) : 7h/11h/15h
     # UTC = 9h/13h/17h locale. À l'heure d'hiver (UTC+1, dès fin octobre),
-    # repasser cette ligne à "0 8,12,16 * * 1-5" pour garder 9h/13h/17h local.
-    - cron: "0 7,11,15 * * 1-5"
+    # repasser cette ligne à "0 8,12,16 * * *" pour garder 9h/13h/17h local.
+    - cron: "0 7,11,15 * * *"
+    # Résumé hebdomadaire : lundi ~8h locale (décalé pour ne pas tomber sur le
+    # même créneau que le run quotidien de 7h UTC).
+    - cron: "0 6 * * 1"
   workflow_dispatch: {}  # permet de lancer manuellement depuis l'onglet Actions
 
 jobs:
@@ -29,13 +32,14 @@ jobs:
       - name: Run monitor
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          WEEKLY_SUMMARY: ${{ github.event.schedule == '0 6 * * 1' && 'true' || '' }}
         run: python taleo_monitor.py
 
       - name: Commit updated state
         run: |
           git config user.name "taleo-bot"
           git config user.email "actions@github.com"
-          git add state.json debug_page.txt debug_page.html docs/jobs.json
+          git add state.json debug_page.txt debug_page.html docs/jobs.json docs/history.json docs/history_stats.json
           [ -f debug_detail_page.txt ] && git add debug_detail_page.txt || true
           git diff --quiet --cached || git commit -m "Update job state"
           # Si un autre run a poussé entre-temps (chevauchement), on fusionne
