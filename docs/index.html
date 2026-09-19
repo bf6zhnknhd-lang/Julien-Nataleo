@@ -6,6 +6,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Taleo NATO">
+<meta name="theme-color" content="#0a1628">
 <link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="icon.png">
 <title>Taleo NATO</title>
@@ -14,49 +15,58 @@
   * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
   body {
     margin: 0; font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", sans-serif;
-    background: #0b0d12; color: #e8e9ec;
+    background: #0a1628; color: #e9edf3;
     padding-top: env(safe-area-inset-top); padding-bottom: env(safe-area-inset-bottom);
   }
-  header { padding: 18px 16px 10px; }
-  header h1 { font-size: 22px; margin: 0 0 2px; }
-  header p { margin: 0; color: #8a8f9a; font-size: 13px; }
+  header { padding: 20px 16px 12px; display: flex; align-items: center; gap: 10px; }
+  header .star {
+    width: 30px; height: 30px; flex-shrink: 0;
+  }
+  header .titles { display: flex; flex-direction: column; }
+  header .tag {
+    font-size: 10px; letter-spacing: 2px; color: #6fa1e0; font-weight: 700;
+    text-transform: uppercase; margin-bottom: 2px;
+  }
+  header h1 { font-size: 20px; margin: 0; letter-spacing: 0.3px; }
+  header p { margin: 2px 0 0; color: #8fa3bd; font-size: 13px; }
   .tabs {
     display: grid; grid-template-columns: 1fr 1fr; gap: 8px; padding: 0 16px 8px;
-    position: sticky; top: 0; background: #0b0d12; z-index: 10;
+    position: sticky; top: 0; background: #0a1628; z-index: 10;
   }
   .tab {
     text-align: center; padding: 10px 0; border-radius: 10px;
-    background: #171a21; color: #a3a8b3; font-size: 13px; font-weight: 600;
+    background: #10233b; color: #8fa3bd; font-size: 13px; font-weight: 600;
+    border: 1px solid #1c3a5e;
   }
-  .tab.active { background: #2b6fff; color: white; }
+  .tab.active { background: #0057b8; color: white; border-color: #0057b8; }
   .search {
-    margin: 0 16px 12px; padding: 10px 12px; border-radius: 10px; border: 1px solid #21242c;
-    background: #14161c; color: #e8e9ec; font-size: 14px; width: calc(100% - 32px);
+    margin: 0 16px 12px; padding: 10px 12px; border-radius: 10px; border: 1px solid #1c3a5e;
+    background: #0f2036; color: #e9edf3; font-size: 14px; width: calc(100% - 32px);
   }
-  .search::placeholder { color: #565b66; }
+  .search::placeholder { color: #5c7392; }
   .list { padding: 0 16px 40px; }
   .card {
-    background: #14161c; border-radius: 12px; padding: 14px; margin-bottom: 10px;
-    border: 1px solid #21242c;
+    background: #0f2036; border-radius: 12px; padding: 14px; margin-bottom: 10px;
+    border: 1px solid #1c3a5e;
   }
   .card .title { font-size: 15px; font-weight: 600; margin-bottom: 6px; }
-  .card .meta { font-size: 12px; color: #8a8f9a; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .card .meta { font-size: 12px; color: #8fa3bd; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
   .badge {
     display: inline-block; font-size: 11px; font-weight: 700; padding: 2px 8px;
     border-radius: 20px; margin-right: 6px;
   }
-  .badge.new { background: #2b6fff33; color: #6fa1ff; }
-  .badge.match { background: #ffb02e33; color: #ffb02e; }
-  .badge.urgent { background: #ff453a33; color: #ff6a61; }
-  .badge.removed { background: #565b6633; color: #9096a1; }
-  .deadline-soon { color: #ff6a61; font-weight: 700; }
-  .card a { color: #6fa1ff; text-decoration: none; font-size: 13px; }
+  .badge.new { background: #0057b833; color: #6fa1e0; }
+  .badge.match { background: #d4a11733; color: #e0b83e; }
+  .badge.urgent { background: #c0293333; color: #ff7a70; }
+  .badge.removed { background: #5c739233; color: #9fb1c9; }
+  .deadline-soon { color: #ff7a70; font-weight: 700; }
+  .card a { color: #6fa1e0; text-decoration: none; font-size: 13px; }
   .status-select {
-    margin-top: 8px; width: 100%; padding: 8px; border-radius: 8px; border: 1px solid #21242c;
-    background: #0b0d12; color: #e8e9ec; font-size: 12px;
+    margin-top: 8px; width: 100%; padding: 8px; border-radius: 8px; border: 1px solid #1c3a5e;
+    background: #0a1628; color: #e9edf3; font-size: 12px;
   }
-  .empty { text-align: center; color: #6a6f7a; padding: 60px 20px; font-size: 14px; }
-  .updated { text-align: center; color: #565b66; font-size: 11px; padding: 6px 0 0; }
+  .empty { text-align: center; color: #5c7392; padding: 60px 20px; font-size: 14px; }
+  .updated { text-align: center; color: #4a6180; font-size: 11px; padding: 6px 0 0; }
   .stats-box { padding: 0 16px 40px; }
   .stats-box svg { width: 100%; height: auto; }
   .stats-legend { font-size: 12px; color: #8a8f9a; text-align: center; margin-top: 8px; }
@@ -64,8 +74,21 @@
 </head>
 <body>
 <header>
-  <h1>Offres NATO Taleo</h1>
-  <p id="summary">Chargement…</p>
+  <svg class="star" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="50" r="46" fill="none" stroke="#0057b8" stroke-width="4"/>
+    <g fill="#e9edf3">
+      <polygon points="50,8 58,42 50,50 42,42"/>
+      <polygon points="92,50 58,58 50,50 58,42"/>
+      <polygon points="50,92 42,58 50,50 58,58"/>
+      <polygon points="8,50 42,42 50,50 42,58"/>
+    </g>
+    <circle cx="50" cy="50" r="6" fill="#0057b8"/>
+  </svg>
+  <div class="titles">
+    <span class="tag">Suivi des offres</span>
+    <h1>Taleo NATO</h1>
+    <p id="summary">Chargement…</p>
+  </div>
 </header>
 <div class="tabs">
   <div class="tab active" data-tab="new">Nouvelles / Correspondances</div>
