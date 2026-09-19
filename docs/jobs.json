@@ -2,21 +2,6 @@
   "total": 69,
   "jobs": [
     {
-      "job_number": "261521",
-      "title": "Office Head (Travel)",
-      "location": "United States of America-Norfolk",
-      "deadline": "18-Oct-2026, 9:59:00 PM",
-      "org": "Joint Force Command Norfolk (JFCNF)",
-      "grade": "NATO Grade G10",
-      "salary": "6,142.38US Dollar (USD) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261521",
-      "is_new": true,
-      "match_score": 1,
-      "matched_keywords": [
-        "travel"
-      ]
-    },
-    {
       "job_number": "261433",
       "title": "ACT Financial Controller",
       "location": "United States of America-Norfolk",
@@ -89,6 +74,21 @@
       "match_score": 1,
       "matched_keywords": [
         "financial"
+      ]
+    },
+    {
+      "job_number": "261521",
+      "title": "Office Head (Travel)",
+      "location": "United States of America-Norfolk",
+      "deadline": "18-Oct-2026, 9:59:00 PM",
+      "org": "Joint Force Command Norfolk (JFCNF)",
+      "grade": "NATO Grade G10",
+      "salary": "6,142.38US Dollar (USD) Monthly",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261521",
+      "is_new": false,
+      "match_score": 1,
+      "matched_keywords": [
+        "travel"
       ]
     },
     {
