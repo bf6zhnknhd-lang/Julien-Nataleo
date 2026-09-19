@@ -2,6 +2,36 @@
   "total": 69,
   "jobs": [
     {
+      "job_number": "261369",
+      "title": "Budget Officer",
+      "location": "Belgium-Brussels",
+      "deadline": "27-Sep-2026, 9:59:00 PM",
+      "org": "Science and Technology Organization (STO)",
+      "grade": "NATO Grade G15",
+      "salary": "6,713.06Euro (EUR) Monthly",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261369",
+      "is_new": false,
+      "match_score": 3,
+      "matched_keywords": [
+        "budget"
+      ]
+    },
+    {
+      "job_number": "261206",
+      "title": "Staff Officer (Budget Analyst)",
+      "location": "Netherlands-Brunssum",
+      "deadline": "20-Sep-2026, 9:59:00 PM",
+      "org": "Joint Force Command Brunssum (JFCBS)",
+      "grade": "NATO Grade G15",
+      "salary": "7,428.83Euro (EUR) Monthly",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261206",
+      "is_new": false,
+      "match_score": 3,
+      "matched_keywords": [
+        "budget"
+      ]
+    },
+    {
       "job_number": "261433",
       "title": "ACT Financial Controller",
       "location": "United States of America-Norfolk",
@@ -11,7 +41,7 @@
       "salary": "14,453.57US Dollar (USD) Monthly",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261433",
       "is_new": false,
-      "match_score": 1,
+      "match_score": 2,
       "matched_keywords": [
         "financial"
       ]
@@ -26,24 +56,9 @@
       "salary": "5,335.54Euro (EUR) Monthly",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261472",
       "is_new": false,
-      "match_score": 1,
+      "match_score": 2,
       "matched_keywords": [
         "contracting"
-      ]
-    },
-    {
-      "job_number": "261369",
-      "title": "Budget Officer",
-      "location": "Belgium-Brussels",
-      "deadline": "27-Sep-2026, 9:59:00 PM",
-      "org": "Science and Technology Organization (STO)",
-      "grade": "NATO Grade G15",
-      "salary": "6,713.06Euro (EUR) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261369",
-      "is_new": false,
-      "match_score": 1,
-      "matched_keywords": [
-        "budget"
       ]
     },
     {
@@ -56,7 +71,7 @@
       "salary": "10,662.45Euro (EUR) Monthly",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261441",
       "is_new": false,
-      "match_score": 1,
+      "match_score": 2,
       "matched_keywords": [
         "finance"
       ]
@@ -71,7 +86,7 @@
       "salary": "4,205.48Euro (EUR) Monthly",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261266",
       "is_new": false,
-      "match_score": 1,
+      "match_score": 2,
       "matched_keywords": [
         "financial"
       ]
@@ -89,21 +104,6 @@
       "match_score": 1,
       "matched_keywords": [
         "travel"
-      ]
-    },
-    {
-      "job_number": "261206",
-      "title": "Staff Officer (Budget Analyst)",
-      "location": "Netherlands-Brunssum",
-      "deadline": "20-Sep-2026, 9:59:00 PM",
-      "org": "Joint Force Command Brunssum (JFCBS)",
-      "grade": "NATO Grade G15",
-      "salary": "7,428.83Euro (EUR) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261206",
-      "is_new": false,
-      "match_score": 1,
-      "matched_keywords": [
-        "budget"
       ]
     },
     {
@@ -912,5 +912,6 @@
       "match_score": 0,
       "matched_keywords": []
     }
-  ]
+  ],
+  "generated_at": "2026-09-19T08:00:30.455781+00:00"
 }
