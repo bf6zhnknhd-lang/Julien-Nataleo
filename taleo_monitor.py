@@ -4,8 +4,11 @@ Surveillance des offres d'emploi NATO Taleo.
 - Charge la page de recherche avec un navigateur headless (le site est en JS,
   un simple requests.get() ne suffit pas).
 - Extrait le nombre total d'offres et la liste des offres (numéro + titre).
-- Compare avec le dernier état connu (state.json) pour détecter les nouvelles.
-- Envoie une notification push iPhone via ntfy.sh.
+- Compare avec le dernier état connu (state.json) pour détecter les nouvelles
+  ET les offres retirées (historique).
+- Journalise un point de statistique à chaque run (total / correspondances).
+- Envoie une notification push iPhone via ntfy.sh, avec priorité relevée si
+  une échéance approche.
 - Sauvegarde toujours un dump brut de la page (debug_page.txt / debug_page.html)
   pour qu'on puisse calibrer les sélecteurs si l'extraction est incomplète.
 """
@@ -14,6 +17,7 @@ import json
 import os
 import re
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
@@ -25,25 +29,43 @@ STATE_FILE = Path("state.json")
 DEBUG_TXT = Path("debug_page.txt")
 DEBUG_HTML = Path("debug_page.html")
 DEBUG_DETAIL_TXT = Path("debug_detail_page.txt")  # dernière fiche offre visitée, pour calibrer
-JOBS_JSON = Path("docs/jobs.json")  # lu par la page web (dossier docs/ = GitHub Pages)
+JOBS_JSON = Path("docs/jobs.json")          # lu par la page web (dossier docs/ = GitHub Pages)
+HISTORY_JSON = Path("docs/history.json")    # offres retirées/pourvues au fil du temps
+STATS_JSON = Path("docs/history_stats.json")  # un point par run : total + correspondances
 
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC")  # ex: "julien-nato-taleo-xk92"
+WEEKLY_SUMMARY = os.environ.get("WEEKLY_SUMMARY", "").lower() in ("1", "true", "yes")
 
-# Mots-clés basés sur le profil de Julien (finance/budget NCIA) et les postes
-# qu'il vise concrètement — à ajuster librement selon ce qui matche bien ou
-# pas en pratique.
-MATCH_KEYWORDS = [
-    "financial", "finance", "budget", "ipsas", "procurement", "contracting",
-    "accounting", "audit", "resource management", "cost estimation",
-    "business management and control", "cost analysis",
-    "travel", "treasury", "payroll",
-]
+MAX_HISTORY_ENTRIES = 300
+MAX_STATS_POINTS = 200
+URGENT_DEADLINE_DAYS = 3  # priorité ntfy relevée si une échéance tombe sous ce seuil
+
+# Mots-clés pondérés (poids plus élevé = plus déterminant pour le score de
+# correspondance) — à ajuster librement selon ce qui matche bien en pratique.
+MATCH_KEYWORDS = {
+    "budget": 3, "ipsas": 3, "financial": 2, "finance": 2, "procurement": 2,
+    "accounting": 2, "cost estimation": 2, "cost analysis": 2,
+    "business management and control": 2, "contracting": 2, "audit": 1,
+    "resource management": 1, "travel": 1, "treasury": 1, "payroll": 1,
+}
 
 
 def score_match(title: str):
     title_lower = title.lower()
     matched = [kw for kw in MATCH_KEYWORDS if kw in title_lower]
-    return len(matched), matched
+    score = sum(MATCH_KEYWORDS[kw] for kw in matched)
+    return score, matched
+
+
+def parse_deadline(deadline_str):
+    """Parse une échéance du type '31-Dec-2026, 10:59:00 PM' -> datetime, ou
+    None si le format ne correspond pas (on ne bloque jamais dessus)."""
+    if not deadline_str:
+        return None
+    try:
+        return datetime.strptime(deadline_str.strip(), "%d-%b-%Y, %I:%M:%S %p").replace(tzinfo=timezone.utc)
+    except ValueError:
+        return None
 
 
 def fetch_salaries(job_numbers):
@@ -135,14 +157,14 @@ def fetch_jobs():
                         "grade": grade,
                     }
 
-            # Pagination : le site affiche un lien texte "Next" (pas d'attribut
-            # title/aria-label dessus) — on le cherche par son texte exact.
             # Le site affiche "Jobs - Page X out of Y" — bien plus fiable que
             # l'état (peu fiable) du lien "Next" pour savoir si on est à la
             # dernière page.
             m_page = re.search(r"Page\s*(\d+)\s*out of\s*(\d+)", text, re.I)
             on_last_page = bool(m_page) and int(m_page.group(1)) >= int(m_page.group(2))
 
+            # Le site affiche un lien texte "Next" (pas d'attribut
+            # title/aria-label dessus) — on le cherche par son texte exact.
             next_links = page.locator("a").filter(has_text=re.compile(r"^\s*Next\s*$", re.I))
             if not on_last_page and next_links.count() > 0:
                 # Le site marque ce lien aria-disabled="true" même quand il est
@@ -167,17 +189,51 @@ def fetch_jobs():
         return total, jobs
 
 
-def load_previous_state():
-    if STATE_FILE.exists():
-        return json.loads(STATE_FILE.read_text(encoding="utf-8"))
-    return {}
+def load_json(path, default):
+    if path.exists():
+        try:
+            return json.loads(path.read_text(encoding="utf-8"))
+        except Exception:
+            return default
+    return default
 
 
-def save_state(jobs):
-    STATE_FILE.write_text(json.dumps(jobs, ensure_ascii=False, indent=2), encoding="utf-8")
+def save_json(path, data):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
-def send_notification(title, message):
+def update_history(previous_jobs, current_jobs):
+    """Ajoute au fichier d'historique les offres qui ont disparu depuis le
+    dernier run (retirées ou pourvues). Retourne la liste complète (limitée)."""
+    history = load_json(HISTORY_JSON, [])
+    removed_ids = set(previous_jobs) - set(current_jobs)
+    now = datetime.now(timezone.utc).isoformat()
+    for job_number in removed_ids:
+        info = previous_jobs[job_number]
+        history.append({
+            "job_number": job_number,
+            "title": info.get("title", ""),
+            "location": info.get("location", ""),
+            "removed_at": now,
+        })
+    history = history[-MAX_HISTORY_ENTRIES:]
+    save_json(HISTORY_JSON, history)
+    return history
+
+
+def update_stats(total, matches_count):
+    stats = load_json(STATS_JSON, [])
+    stats.append({
+        "date": datetime.now(timezone.utc).isoformat(),
+        "total": total,
+        "matches": matches_count,
+    })
+    stats = stats[-MAX_STATS_POINTS:]
+    save_json(STATS_JSON, stats)
+
+
+def send_notification(title, message, priority="default"):
     if not NTFY_TOPIC:
         print("NTFY_TOPIC non défini — notification non envoyée.")
         print(f"[{title}] {message}")
@@ -185,7 +241,7 @@ def send_notification(title, message):
     requests.post(
         f"https://ntfy.sh/{NTFY_TOPIC}",
         data=message.encode("utf-8"),
-        headers={"Title": title.encode("utf-8"), "Priority": "default"},
+        headers={"Title": title.encode("utf-8"), "Priority": priority},
         timeout=15,
     )
 
@@ -216,29 +272,50 @@ def build_jobs_export(current_jobs, new_ids, salaries):
 
 def main():
     total, current_jobs = fetch_jobs()
-    previous_jobs = load_previous_state()
+    previous_jobs = load_previous_state = load_json(STATE_FILE, {})
 
     new_ids = set(current_jobs) - set(previous_jobs)
     first_run = len(previous_jobs) == 0
 
+    history = update_history(previous_jobs, current_jobs)
+
     # Le salaire n'est visible que sur la fiche détaillée de chaque offre (pas
     # sur la page de recherche) — on ne la visite que pour les offres qui
-    # matchent le profil, pour ne pas ralentir le run sur les 67 offres.
+    # matchent le profil, pour ne pas ralentir le run sur toutes les offres.
     matching_ids = [jn for jn, info in current_jobs.items() if score_match(info["title"])[0] > 0]
     print(f"{len(matching_ids)} offre(s) correspondante(s) ce run : {matching_ids}")
     salaries = fetch_salaries(matching_ids)
 
     entries = build_jobs_export(current_jobs, new_ids, salaries)
-    JOBS_JSON.parent.mkdir(parents=True, exist_ok=True)
-    JOBS_JSON.write_text(
-        json.dumps({"total": total, "jobs": entries}, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
+    save_json(JOBS_JSON, {"total": total, "jobs": entries, "generated_at": datetime.now(timezone.utc).isoformat()})
 
     new_matches = [e for e in entries if e["is_new"] and e["match_score"] > 0]
     current_matches = [e for e in entries if e["match_score"] > 0]
+    update_stats(total, len(current_matches))
 
-    if first_run:
+    # Priorité relevée si une offre nouvelle ou correspondante a une échéance
+    # proche (sous URGENT_DEADLINE_DAYS jours).
+    now = datetime.now(timezone.utc)
+    urgent = False
+    for e in entries:
+        if e["is_new"] or e["match_score"] > 0:
+            dl = parse_deadline(e["deadline"])
+            if dl and (dl - now).days <= URGENT_DEADLINE_DAYS:
+                urgent = True
+                break
+    priority = "high" if urgent else "default"
+
+    if WEEKLY_SUMMARY:
+        titles = "\n".join(
+            f"⭐ {e['title']} — {e['location']} (#{e['job_number']})"
+            for e in current_matches
+        ) or "Aucune correspondance active cette semaine."
+        send_notification(
+            f"NATO Taleo — Résumé hebdomadaire ({total} offres, {len(current_matches)} correspondance(s))",
+            titles,
+            priority=priority,
+        )
+    elif first_run:
         send_notification(
             "NATO Taleo — Suivi activé",
             f"{total} offre(s) en ligne actuellement. Les prochaines vérifications signaleront les nouveautés.",
@@ -251,24 +328,26 @@ def main():
         header = f"NATO Taleo — {len(new_ids)} nouvelle(s) offre(s)"
         if new_matches:
             header += f" dont {len(new_matches)} correspondance(s) ⭐"
-        send_notification(header, f"Total en ligne : {total}\n\n{titles}")
+        if urgent:
+            header += " ⚠️ échéance proche"
+        send_notification(header, f"Total en ligne : {total}\n\n{titles}", priority=priority)
     elif current_matches:
         titles = "\n".join(
             f"⭐ {e['title']} — {e['location']} (#{e['job_number']})"
             for e in current_matches
         )
-        send_notification(
-            f"NATO Taleo — Pas de nouvelle offre, {len(current_matches)} correspondance(s) active(s)",
-            f"Total en ligne : {total}\n\n{titles}",
-        )
+        header = f"NATO Taleo — Pas de nouvelle offre, {len(current_matches)} correspondance(s) active(s)"
+        if urgent:
+            header += " ⚠️ échéance proche"
+        send_notification(header, f"Total en ligne : {total}\n\n{titles}", priority=priority)
     else:
         send_notification(
             "NATO Taleo — Pas de nouvelle offre",
             f"Total en ligne : {total}. Aucune correspondance active pour le moment.",
         )
 
-    save_state(current_jobs)
-    print(f"OK — {total} offres détectées, {len(new_ids)} nouvelle(s), {len(current_matches)} correspondance(s) actuelle(s) au total (dont {len(new_matches)} nouvelle(s)).")
+    save_json(STATE_FILE, current_jobs)
+    print(f"OK — {total} offres détectées, {len(new_ids)} nouvelle(s), {len(current_matches)} correspondance(s) actuelle(s) au total (dont {len(new_matches)} nouvelle(s)). {len(history)} offre(s) dans l'historique.")
 
 
 if __name__ == "__main__":
