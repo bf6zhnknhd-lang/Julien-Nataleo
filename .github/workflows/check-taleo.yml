@@ -38,5 +38,8 @@ jobs:
           git add state.json debug_page.txt debug_page.html docs/jobs.json
           [ -f debug_detail_page.txt ] && git add debug_detail_page.txt || true
           git diff --quiet --cached || git commit -m "Update job state"
+          # Si un autre run a poussé entre-temps (chevauchement), on fusionne
+          # en gardant notre version (ce sont des fichiers auto-générés à
+          # chaque run, donc la plus récente est toujours la bonne).
+          git pull --no-rebase -X ours --no-edit origin main
           git push
-
