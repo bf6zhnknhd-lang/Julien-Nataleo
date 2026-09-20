@@ -61,12 +61,13 @@
   .badge.removed { background: #5c739233; color: #9fb1c9; }
   .deadline-soon { color: #ff7a70; font-weight: 700; }
   .card a { color: #6fa1e0; text-decoration: none; font-size: 13px; }
-  .card-actions { display: flex; align-items: center; justify-content: space-between; margin-top: 8px; gap: 8px; }
+  .card-actions { display: flex; align-items: center; flex-wrap: wrap; margin-top: 8px; gap: 8px; }
   .interview-btn {
     background: #0057b8; color: white; border: none; border-radius: 8px;
     padding: 6px 12px; font-size: 12px; font-weight: 600;
   }
   .interview-btn:active { opacity: 0.8; }
+  .hirevue-btn { background: #2a4a6b; }
   .status-select {
     margin-top: 8px; width: 100%; padding: 8px; border-radius: 8px; border: 1px solid #1c3a5e;
     background: #0a1628; color: #e9edf3; font-size: 12px;
@@ -166,7 +167,10 @@ function renderJobsList(items) {
       </div>
       <div class="card-actions">
         <a href="${j.url}" target="_blank" rel="noopener">Voir l'offre →</a>
-        ${j.match_score > 0 ? `<button class="interview-btn" data-job="${j.job_number}" data-title="${j.title.replace(/"/g, '&quot;')}" data-org="${(j.org || '').replace(/"/g, '&quot;')}" data-location="${(j.location || '').replace(/"/g, '&quot;')}" data-grade="${(j.grade || '').replace(/"/g, '&quot;')}">🎯 Entretien</button>` : ''}
+        ${j.match_score > 0 ? `
+          <button class="interview-btn" data-kind="entretien" data-job="${j.job_number}" data-title="${j.title.replace(/"/g, '&quot;')}" data-org="${(j.org || '').replace(/"/g, '&quot;')}" data-location="${(j.location || '').replace(/"/g, '&quot;')}" data-grade="${(j.grade || '').replace(/"/g, '&quot;')}">🎯 Entretien</button>
+          <button class="interview-btn hirevue-btn" data-kind="hirevue" data-job="${j.job_number}" data-title="${j.title.replace(/"/g, '&quot;')}" data-org="${(j.org || '').replace(/"/g, '&quot;')}" data-location="${(j.location || '').replace(/"/g, '&quot;')}" data-grade="${(j.grade || '').replace(/"/g, '&quot;')}">🎥 HireVue</button>
+        ` : ''}
       </div>
       <select class="status-select" data-job="${j.job_number}">
         ${STATUS_OPTIONS.map(s => `<option value="${s}" ${s === status ? 'selected' : ''}>${s}</option>`).join('')}
@@ -184,7 +188,16 @@ function renderJobsList(items) {
 }
 
 function copyInterviewPrompt(d) {
-  const prompt = `Prépare-moi un dossier d'entretien complet pour cette offre NATO Taleo :
+  const isHireVue = d.kind === 'hirevue';
+  const prompt = isHireVue
+    ? `Prépare-moi pour le HireVue (entretien vidéo différé) de cette offre NATO Taleo :
+- Offre : ${d.title} (#${d.job})
+- Organisme : ${d.org || 'à préciser'}
+- Lieu : ${d.location || 'à préciser'}
+- Grade : ${d.grade || 'à préciser'}
+
+Le HireVue est un entretien vidéo enregistré (sans intervieweur en direct, temps de réponse limité par question). Fais une recherche rapide sur cet organisme et ce poste, puis donne-moi : les questions les plus probables à ce stade (motivation, présentation, disponibilité, valeurs OTAN), des réponses structurées et concises adaptées à mon profil (NCIA, Avnet, Toyota, IPSAS, NFRs, cycle budgétaire, procurement), et des conseils de forme propres à l'exercice (durée, ton, cadrage caméra, gestion du stress face caméra).`
+    : `Prépare-moi un dossier d'entretien complet pour cette offre NATO Taleo :
 - Offre : ${d.title} (#${d.job}) 
 - Organisme : ${d.org || 'à préciser'}
 - Lieu : ${d.location || 'à préciser'}
@@ -193,7 +206,7 @@ function copyInterviewPrompt(d) {
 Fais une recherche sur cet organisme et ce lieu de mission (base, contexte, missions), et prépare-moi des questions d'entretien probables avec des réponses adaptées à mon profil (NCIA, Avnet, Toyota, IPSAS, NFRs, cycle budgétaire, procurement).`;
 
   const done = () => {
-    const btn = document.querySelector(`.interview-btn[data-job="${d.job}"]`);
+    const btn = document.querySelector(`.interview-btn[data-kind="${d.kind}"][data-job="${d.job}"]`);
     if (btn) {
       const original = btn.textContent;
       btn.textContent = '✅ Copié !';
