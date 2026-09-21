@@ -1,6 +1,19 @@
 {
-  "total": 63,
+  "total": 64,
   "jobs": [
+    {
+      "job_number": "261489",
+      "title": "Staff Assistant - (Wargaming / Modelling and Simulation Facilitator)",
+      "location": "United Kingdom-Northwood",
+      "deadline": "11-Oct-2026, 9:59:00 PM",
+      "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
+      "grade": "NATO Grade G10",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261489",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
     {
       "job_number": "261369",
       "title": "Budget Officer",
@@ -833,5 +846,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-09-21T07:10:46.054869+00:00"
+  "generated_at": "2026-09-21T11:09:30.102163+00:00"
 }
