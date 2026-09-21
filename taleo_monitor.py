@@ -223,11 +223,14 @@ def update_history(previous_jobs, current_jobs):
     now = datetime.now(timezone.utc).isoformat()
     for job_number in removed_ids:
         info = previous_jobs[job_number]
+        score, matched_keywords = score_match(info.get("title", ""), info.get("location", ""))
         history.append({
             "job_number": job_number,
             "title": info.get("title", ""),
             "location": info.get("location", ""),
             "url": f"https://nato.taleo.net/careersection/2/jobdetail.ftl?job={job_number}",
+            "was_match": score > 0,
+            "matched_keywords": matched_keywords,
             "removed_at": now,
         })
     history = history[-MAX_HISTORY_ENTRIES:]
