@@ -39,6 +39,11 @@
     border: 1px solid #1c3a5e;
   }
   .tab.active { background: #0057b8; color: white; border-color: #0057b8; }
+  .tab-badge {
+    display: inline-block; margin-left: 6px; background: #ff7a70; color: #10233b;
+    font-size: 11px; font-weight: 800; padding: 1px 7px; border-radius: 10px;
+    vertical-align: middle;
+  }
   .search {
     margin: 0 16px 12px; padding: 10px 12px; border-radius: 10px; border: 1px solid #1c3a5e;
     background: #0f2036; color: #e9edf3; font-size: 14px; width: calc(100% - 32px);
@@ -98,7 +103,7 @@
   </div>
 </header>
 <div class="tabs">
-  <div class="tab active" data-tab="new">Nouvelles / Correspondances</div>
+  <div class="tab active" data-tab="new">Nouvelles / Correspondances<span class="tab-badge" id="matchBadge" style="display:none;"></span></div>
   <div class="tab" data-tab="all">Toutes les offres</div>
   <div class="tab" data-tab="history">Historique</div>
   <div class="tab" data-tab="stats">Stats</div>
@@ -136,6 +141,14 @@ async function load() {
   const data = await res.json();
   window.__jobs = data;
   document.getElementById('summary').textContent = data.total + ' offre(s) en ligne';
+
+  const matchCount = data.jobs.filter(j => j.is_new || j.match_score > 0).length;
+  const badge = document.getElementById('matchBadge');
+  if (matchCount > 0) {
+    badge.textContent = matchCount;
+    badge.style.display = 'inline-block';
+  }
+
   render('new');
 }
 
@@ -240,6 +253,7 @@ function renderHistory(items) {
         <span>📍 ${h.location || '—'}</span>
         <span>Retirée le ${new Date(h.removed_at).toLocaleDateString('fr-FR')}</span>
       </div>
+      ${h.url ? `<div class="card-actions"><a href="${h.url}" target="_blank" rel="noopener">Voir l'offre →</a></div>` : ''}
     </div>
   `).join('');
 }
