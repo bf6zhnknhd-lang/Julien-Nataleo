@@ -41,19 +41,31 @@ MAX_STATS_POINTS = 200
 URGENT_DEADLINE_DAYS = 3  # priorité ntfy relevée si une échéance tombe sous ce seuil
 
 # Mots-clés pondérés (poids plus élevé = plus déterminant pour le score de
-# correspondance) — à ajuster librement selon ce qui matche bien en pratique.
+# correspondance) — élargi à tout ce qui touche à la finance de près ou de
+# loin. À ajuster librement selon ce qui matche bien en pratique.
 MATCH_KEYWORDS = {
     "budget": 3, "ipsas": 3, "financial": 2, "finance": 2, "procurement": 2,
     "accounting": 2, "cost estimation": 2, "cost analysis": 2,
     "business management and control": 2, "contracting": 2, "audit": 1,
     "resource management": 1, "travel": 1, "treasury": 1, "payroll": 1,
+    "buyer": 2, "controller": 2, "accountant": 2, "cost engineer": 1,
+    "economist": 1, "financial analyst": 2, "expenditure": 1, "fiscal": 1,
+    "cost control": 1, "financial management": 2, "financial reporting": 1,
 }
 
+# Seules les offres situées dans ces pays comptent comme correspondance
+# (contrairement au grade et à l'organisme, qu'on garde ouverts). Le champ
+# lieu est au format "Pays-Ville" (ex. "Belgium-Brussels").
+ALLOWED_COUNTRIES = ["Belgium", "Netherlands", "Germany"]
 
-def score_match(title: str):
+
+def score_match(title: str, location: str = ""):
     title_lower = title.lower()
     matched = [kw for kw in MATCH_KEYWORDS if kw in title_lower]
     score = sum(MATCH_KEYWORDS[kw] for kw in matched)
+    if score > 0 and ALLOWED_COUNTRIES:
+        if not any(location.startswith(c) for c in ALLOWED_COUNTRIES):
+            return 0, []
     return score, matched
 
 
@@ -252,7 +264,7 @@ def build_jobs_export(current_jobs, new_ids, salaries):
     correspondances en premier."""
     entries = []
     for job_number, info in current_jobs.items():
-        score, matched_keywords = score_match(info["title"])
+        score, matched_keywords = score_match(info["title"], info.get("location", ""))
         entries.append({
             "job_number": job_number,
             "title": info["title"],
@@ -282,7 +294,7 @@ def main():
     # Le salaire n'est visible que sur la fiche détaillée de chaque offre (pas
     # sur la page de recherche) — on ne la visite que pour les offres qui
     # matchent le profil, pour ne pas ralentir le run sur toutes les offres.
-    matching_ids = [jn for jn, info in current_jobs.items() if score_match(info["title"])[0] > 0]
+    matching_ids = [jn for jn, info in current_jobs.items() if score_match(info["title"], info.get("location", ""))[0] > 0]
     print(f"{len(matching_ids)} offre(s) correspondante(s) ce run : {matching_ids}")
     salaries = fetch_salaries(matching_ids)
 
@@ -352,4 +364,3 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
-
