@@ -227,6 +227,7 @@ def update_history(previous_jobs, current_jobs):
             "job_number": job_number,
             "title": info.get("title", ""),
             "location": info.get("location", ""),
+            "url": f"https://nato.taleo.net/careersection/2/jobdetail.ftl?job={job_number}",
             "removed_at": now,
         })
     history = history[-MAX_HISTORY_ENTRIES:]
