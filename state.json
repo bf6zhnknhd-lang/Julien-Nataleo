@@ -62,13 +62,6 @@
     "org": "Joint Force Command Norfolk (JFCNF)",
     "grade": "NATO Grade G17"
   },
-  "261206": {
-    "title": "Staff Officer (Budget Analyst)",
-    "location": "Netherlands-Brunssum",
-    "deadline": "20-Sep-2026, 9:59:00 PM",
-    "org": "Joint Force Command Brunssum (JFCBS)",
-    "grade": "NATO Grade G15"
-  },
   "261326": {
     "title": "Staff Officer (Audience Research)",
     "location": "United States of America-Norfolk",
@@ -174,20 +167,6 @@
     "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
     "grade": "NATO Grade G10"
   },
-  "261393": {
-    "title": "Officer, Strategy Implementation",
-    "location": "Belgium-Brussels",
-    "deadline": "20-Sep-2026, 9:59:00 PM",
-    "org": "Science and Technology Organization (STO)",
-    "grade": "NATO Grade G15"
-  },
-  "261225": {
-    "title": "Officer, Standards Quality Assurance",
-    "location": "Belgium-Brussels",
-    "deadline": "20-Sep-2026, 9:59:00 PM",
-    "org": "NATO International Staff (NATO IS)",
-    "grade": "NATO Grade G15-G17"
-  },
   "261192": {
     "title": "Officer, Security Architecture and Cyber Capabilities",
     "location": "Belgium-Brussels",
@@ -215,13 +194,6 @@
     "deadline": "11-Oct-2026, 9:59:00 PM",
     "org": "NATO International Staff (NATO IS)",
     "grade": "NATO Grade G11-G15"
-  },
-  "261367": {
-    "title": "Officer, Analysis",
-    "location": "Belgium-Brussels",
-    "deadline": "20-Sep-2026, 9:59:00 PM",
-    "org": "Science and Technology Organization (STO)",
-    "grade": "NATO Grade G15"
   },
   "261487": {
     "title": "Officer, AFSC and Multinational Capability Delivery",
@@ -264,13 +236,6 @@
     "deadline": "22-Sep-2026, 9:59:00 PM",
     "org": "Defence Innovation Accelerator for the North Atlantic (DIANA)",
     "grade": "NATO Grade G17"
-  },
-  "261402": {
-    "title": "ISR Planning & Execution Officer",
-    "location": "Belgium-Brussels",
-    "deadline": "20-Sep-2026, 9:59:00 PM",
-    "org": "Battlefield Information Collection and Exploitation System (BICES)",
-    "grade": "NATO Grade G15-G17"
   },
   "261407": {
     "title": "IKM Analyst",
@@ -460,13 +425,6 @@
     "deadline": "18-Oct-2026, 9:59:00 PM",
     "org": "Collaboration Support Office (CSO)",
     "grade": "NATO Grade G10"
-  },
-  "261344": {
-    "title": "Administrative Tribunal Assistant",
-    "location": "Belgium-Brussels",
-    "deadline": "20-Sep-2026, 9:59:00 PM",
-    "org": "NATO International Staff (NATO IS)",
-    "grade": "NATO Grade G8-G10"
   },
   "261471": {
     "title": "Administrative Assistants DCOS Support/ DCOS Operations",

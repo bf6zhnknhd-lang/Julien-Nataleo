@@ -1,5 +1,5 @@
 {
-  "total": 69,
+  "total": 63,
   "jobs": [
     {
       "job_number": "261369",
@@ -10,21 +10,6 @@
       "grade": "NATO Grade G15",
       "salary": "6,713.06Euro (EUR) Monthly",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261369",
-      "is_new": false,
-      "match_score": 3,
-      "matched_keywords": [
-        "budget"
-      ]
-    },
-    {
-      "job_number": "261206",
-      "title": "Staff Officer (Budget Analyst)",
-      "location": "Netherlands-Brunssum",
-      "deadline": "20-Sep-2026, 9:59:00 PM",
-      "org": "Joint Force Command Brunssum (JFCBS)",
-      "grade": "NATO Grade G15",
-      "salary": "7,428.83Euro (EUR) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261206",
       "is_new": false,
       "match_score": 3,
       "matched_keywords": [
@@ -115,19 +100,6 @@
       "grade": "NATO Grade G8",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261471",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261344",
-      "title": "Administrative Tribunal Assistant",
-      "location": "Belgium-Brussels",
-      "deadline": "20-Sep-2026, 9:59:00 PM",
-      "org": "NATO International Staff (NATO IS)",
-      "grade": "NATO Grade G8-G10",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261344",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -432,19 +404,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261402",
-      "title": "ISR Planning & Execution Officer",
-      "location": "Belgium-Brussels",
-      "deadline": "20-Sep-2026, 9:59:00 PM",
-      "org": "Battlefield Information Collection and Exploitation System (BICES)",
-      "grade": "NATO Grade G15-G17",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261402",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261415",
       "title": "IT Operations & Service Manager",
       "location": "CA-Halifax",
@@ -510,19 +469,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261367",
-      "title": "Officer, Analysis",
-      "location": "Belgium-Brussels",
-      "deadline": "20-Sep-2026, 9:59:00 PM",
-      "org": "Science and Technology Organization (STO)",
-      "grade": "NATO Grade G15",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261367",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261457",
       "title": "Officer, Business Management Systems",
       "location": "Belgium-Brussels",
@@ -570,32 +516,6 @@
       "grade": "NATO Grade G17",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261192",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261225",
-      "title": "Officer, Standards Quality Assurance",
-      "location": "Belgium-Brussels",
-      "deadline": "20-Sep-2026, 9:59:00 PM",
-      "org": "NATO International Staff (NATO IS)",
-      "grade": "NATO Grade G15-G17",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261225",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261393",
-      "title": "Officer, Strategy Implementation",
-      "location": "Belgium-Brussels",
-      "deadline": "20-Sep-2026, 9:59:00 PM",
-      "org": "Science and Technology Organization (STO)",
-      "grade": "NATO Grade G15",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261393",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -913,5 +833,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-09-20T20:00:52.246893+00:00"
+  "generated_at": "2026-09-21T06:02:21.606844+00:00"
 }
