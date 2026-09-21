@@ -167,6 +167,13 @@
     "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
     "grade": "NATO Grade G17"
   },
+  "261524": {
+    "title": "Project Coord (Information Services-COI Enabling)",
+    "location": "United States of America-Norfolk",
+    "deadline": "12-Oct-2026, 9:59:00 PM",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G17"
+  },
   "261301": {
     "title": "Project Assistant (Version Control)",
     "location": "Belgium-Mons",
