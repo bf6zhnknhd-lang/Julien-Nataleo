@@ -1,15 +1,15 @@
 {
-  "total": 65,
+  "total": 66,
   "jobs": [
     {
-      "job_number": "261524",
-      "title": "Project Coord (Information Services-COI Enabling)",
-      "location": "United States of America-Norfolk",
+      "job_number": "261523",
+      "title": "Principal Project Managers (Multiple Posts Available) - Brussels and The Hague",
+      "location": "Belgium-Brussels, Netherlands-The Hague",
       "deadline": "12-Oct-2026, 9:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G17",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G20",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261524",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261523",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
@@ -543,6 +543,19 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261524",
+      "title": "Project Coord (Information Services-COI Enabling)",
+      "location": "United States of America-Norfolk",
+      "deadline": "12-Oct-2026, 9:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G17",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261524",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261278",
       "title": "Project Manager (Maritime C2 Data Integration)",
       "location": "United Kingdom-Northwood",
@@ -855,5 +868,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-09-21T15:08:59.594860+00:00"
+  "generated_at": "2026-09-21T20:18:13.150132+00:00"
 }
