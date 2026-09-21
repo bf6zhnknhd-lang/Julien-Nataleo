@@ -2,19 +2,6 @@
   "total": 64,
   "jobs": [
     {
-      "job_number": "261489",
-      "title": "Staff Assistant - (Wargaming / Modelling and Simulation Facilitator)",
-      "location": "United Kingdom-Northwood",
-      "deadline": "11-Oct-2026, 9:59:00 PM",
-      "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
-      "grade": "NATO Grade G10",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261489",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261369",
       "title": "Budget Officer",
       "location": "Belgium-Brussels",
@@ -30,33 +17,18 @@
       ]
     },
     {
-      "job_number": "261433",
-      "title": "ACT Financial Controller",
-      "location": "United States of America-Norfolk",
-      "deadline": "21-Sep-2026, 9:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G22",
-      "salary": "14,453.57US Dollar (USD) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261433",
-      "is_new": false,
-      "match_score": 2,
-      "matched_keywords": [
-        "financial"
-      ]
-    },
-    {
-      "job_number": "261472",
-      "title": "Assistant (Purchasing and Contracting)",
-      "location": "France-Paris",
-      "deadline": "18-Oct-2026, 9:59:00 PM",
-      "org": "Collaboration Support Office (CSO)",
+      "job_number": "261340",
+      "title": "Buyer",
+      "location": "Germany-Wesel",
+      "deadline": "11-Oct-2026, 9:59:00 PM",
+      "org": "Joint Force Command Brunssum (JFCBS)",
       "grade": "NATO Grade G10",
-      "salary": "5,335.54Euro (EUR) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261472",
+      "salary": "5,260.65Euro (EUR) Monthly",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261340",
       "is_new": false,
       "match_score": 2,
       "matched_keywords": [
-        "contracting"
+        "buyer"
       ]
     },
     {
@@ -90,19 +62,17 @@
       ]
     },
     {
-      "job_number": "261521",
-      "title": "Office Head (Travel)",
+      "job_number": "261433",
+      "title": "ACT Financial Controller",
       "location": "United States of America-Norfolk",
-      "deadline": "18-Oct-2026, 9:59:00 PM",
-      "org": "Joint Force Command Norfolk (JFCNF)",
-      "grade": "NATO Grade G10",
-      "salary": "6,142.38US Dollar (USD) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261521",
+      "deadline": "21-Sep-2026, 9:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G22",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261433",
       "is_new": false,
-      "match_score": 1,
-      "matched_keywords": [
-        "travel"
-      ]
+      "match_score": 0,
+      "matched_keywords": []
     },
     {
       "job_number": "261471",
@@ -113,6 +83,19 @@
       "grade": "NATO Grade G8",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261471",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261472",
+      "title": "Assistant (Purchasing and Contracting)",
+      "location": "France-Paris",
+      "deadline": "18-Oct-2026, 9:59:00 PM",
+      "org": "Collaboration Support Office (CSO)",
+      "grade": "NATO Grade G10",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261472",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -165,19 +148,6 @@
       "grade": "NATO Grade G15",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261414",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261340",
-      "title": "Buyer",
-      "location": "Germany-Wesel",
-      "deadline": "11-Oct-2026, 9:59:00 PM",
-      "org": "Joint Force Command Brunssum (JFCBS)",
-      "grade": "NATO Grade G10",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261340",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -469,6 +439,19 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261521",
+      "title": "Office Head (Travel)",
+      "location": "United States of America-Norfolk",
+      "deadline": "18-Oct-2026, 9:59:00 PM",
+      "org": "Joint Force Command Norfolk (JFCNF)",
+      "grade": "NATO Grade G10",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261521",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261487",
       "title": "Officer, AFSC and Multinational Capability Delivery",
       "location": "Belgium-Brussels",
@@ -716,6 +699,19 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261489",
+      "title": "Staff Assistant - (Wargaming / Modelling and Simulation Facilitator)",
+      "location": "United Kingdom-Northwood",
+      "deadline": "11-Oct-2026, 9:59:00 PM",
+      "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
+      "grade": "NATO Grade G10",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261489",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261326",
       "title": "Staff Officer (Audience Research)",
       "location": "United States of America-Norfolk",
@@ -846,5 +842,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-09-21T11:09:30.102163+00:00"
+  "generated_at": "2026-09-21T11:37:55.273985+00:00"
 }
