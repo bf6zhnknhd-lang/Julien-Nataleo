@@ -1,6 +1,45 @@
 {
-  "total": 64,
+  "total": 67,
   "jobs": [
+    {
+      "job_number": "261506",
+      "title": "Branch Head (Requirements Management)",
+      "location": "Germany-Geilenkirchen",
+      "deadline": "03-Nov-2026, 10:59:00 PM",
+      "org": "HQ NAEW & C Force Geilenkirchen",
+      "grade": "NATO Grade G17",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261506",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261508",
+      "title": "Staff Officer (Fusion Analyst)",
+      "location": "Belgium-Mons",
+      "deadline": "12-Oct-2026, 9:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G12",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261508",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261490",
+      "title": "Staff Officer - (Wargaming / Modelling and Simulation Facilitator)",
+      "location": "United Kingdom-Northwood",
+      "deadline": "11-Oct-2026, 9:59:00 PM",
+      "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
+      "grade": "NATO Grade G15",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261490",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
     {
       "job_number": "261369",
       "title": "Budget Officer",
@@ -842,5 +881,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-09-22T11:09:28.903330+00:00"
+  "generated_at": "2026-09-22T15:09:22.313411+00:00"
 }

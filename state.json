@@ -48,12 +48,26 @@
     "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
     "grade": "NATO Grade G15"
   },
+  "261490": {
+    "title": "Staff Officer - (Wargaming / Modelling and Simulation Facilitator)",
+    "location": "United Kingdom-Northwood",
+    "deadline": "11-Oct-2026, 9:59:00 PM",
+    "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
+    "grade": "NATO Grade G15"
+  },
   "261411": {
     "title": "Staff Officer (Site Management)",
     "location": "Norway-Stavanger",
     "deadline": "27-Sep-2026, 9:59:00 PM",
     "org": "Joint Warfare Centre (JWC)",
     "grade": "NATO Grade G17"
+  },
+  "261508": {
+    "title": "Staff Officer (Fusion Analyst)",
+    "location": "Belgium-Mons",
+    "deadline": "12-Oct-2026, 9:59:00 PM",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G12"
   },
   "260833": {
     "title": "Staff Officer (Data Science)",
@@ -425,6 +439,13 @@
     "deadline": "27-Sep-2026, 9:59:00 PM",
     "org": "Science and Technology Organization (STO)",
     "grade": "NATO Grade G15"
+  },
+  "261506": {
+    "title": "Branch Head (Requirements Management)",
+    "location": "Germany-Geilenkirchen",
+    "deadline": "03-Nov-2026, 10:59:00 PM",
+    "org": "HQ NAEW & C Force Geilenkirchen",
+    "grade": "NATO Grade G17"
   },
   "261452": {
     "title": "Assistant, Records Management (1 post + reserve List)",
