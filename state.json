@@ -426,13 +426,6 @@
     "org": "Science and Technology Organization (STO)",
     "grade": "NATO Grade G15"
   },
-  "261434": {
-    "title": "Branch Head (Civilian Personnel)",
-    "location": "United States of America-Norfolk",
-    "deadline": "21-Sep-2026, 9:59:00 PM",
-    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-    "grade": "NATO Grade G20"
-  },
   "261452": {
     "title": "Assistant, Records Management (1 post + reserve List)",
     "location": "Belgium-Brussels",
@@ -453,12 +446,5 @@
     "deadline": "30-Sep-2026, 9:59:00 PM",
     "org": "Joint Force Command Naples (JFCNP)",
     "grade": "NATO Grade G8"
-  },
-  "261433": {
-    "title": "ACT Financial Controller",
-    "location": "United States of America-Norfolk",
-    "deadline": "21-Sep-2026, 9:59:00 PM",
-    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-    "grade": "NATO Grade G22"
   }
 }

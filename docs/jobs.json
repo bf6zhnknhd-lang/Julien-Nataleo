@@ -1,19 +1,6 @@
 {
-  "total": 66,
+  "total": 64,
   "jobs": [
-    {
-      "job_number": "261523",
-      "title": "Principal Project Managers (Multiple Posts Available) - Brussels and The Hague",
-      "location": "Belgium-Brussels, Netherlands-The Hague",
-      "deadline": "12-Oct-2026, 9:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G20",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261523",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
     {
       "job_number": "261369",
       "title": "Budget Officer",
@@ -75,19 +62,6 @@
       ]
     },
     {
-      "job_number": "261433",
-      "title": "ACT Financial Controller",
-      "location": "United States of America-Norfolk",
-      "deadline": "21-Sep-2026, 9:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G22",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261433",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261471",
       "title": "Administrative Assistants DCOS Support/ DCOS Operations",
       "location": "Italy-Naples",
@@ -122,19 +96,6 @@
       "grade": "NATO Grade G8-G10",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261452",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261434",
-      "title": "Branch Head (Civilian Personnel)",
-      "location": "United States of America-Norfolk",
-      "deadline": "21-Sep-2026, 9:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G20",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261434",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -530,6 +491,19 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261523",
+      "title": "Principal Project Managers (Multiple Posts Available) - Brussels and The Hague",
+      "location": "Belgium-Brussels, Netherlands-The Hague",
+      "deadline": "12-Oct-2026, 9:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G20",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261523",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261301",
       "title": "Project Assistant (Version Control)",
       "location": "Belgium-Mons",
@@ -868,5 +842,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-09-21T20:18:13.150132+00:00"
+  "generated_at": "2026-09-22T07:10:00.040152+00:00"
 }

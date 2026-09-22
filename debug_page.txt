@@ -7,7 +7,7 @@ My Job Cart|Sign In
 Job SearchMy Jobpage
 Search|Advanced Search|All Jobs
 Jobs available in:
-English (66)
+English (64)
 French (13)
 	
 
@@ -162,7 +162,7 @@ Multiple selections
 You can search for jobs in more than one job field, location and organization. After selecting a value in one of these fields, click "Add..." and make another selection.
 
 Beginning of the main content section.
-Search Results (66 jobs found)
+Search Results (64 jobs found)
 Results per page
 5
 10
@@ -275,15 +275,6 @@ Apply|Add to My Job Cart
  
 
 	
-Branch Head (Civilian Personnel) 
-Job Number: 261434 - United States of America-Norfolk
-Application Deadline: 21-Sep-2026, 9:59:00 PM  
-NATO Body: Headquarters Supreme Allied Commander Transformation (HQ SACT) - Grade: NATO Grade G20
-Apply|Add to My Job Cart
-
- 
-
-	
 Assistant, Records Management (1 post + reserve List) 
 Job Number: 261452 - Belgium-Brussels
 Application Deadline: 04-Oct-2026, 9:59:00 PM  
@@ -306,15 +297,6 @@ Administrative Assistants DCOS Support/ DCOS Operations 
 Job Number: 261471 - Italy-Naples
 Application Deadline: 30-Sep-2026, 9:59:00 PM  
 NATO Body: Joint Force Command Naples (JFCNP) - Grade: NATO Grade G8
-Apply|Add to My Job Cart
-
- 
-
-	
-ACT Financial Controller 
-Job Number: 261433 - United States of America-Norfolk
-Application Deadline: 21-Sep-2026, 9:59:00 PM  
-NATO Body: Headquarters Supreme Allied Commander Transformation (HQ SACT) - Grade: NATO Grade G22
 Apply|Add to My Job Cart
 
  
