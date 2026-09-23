@@ -1,45 +1,6 @@
 {
-  "total": 67,
+  "total": 65,
   "jobs": [
-    {
-      "job_number": "261506",
-      "title": "Branch Head (Requirements Management)",
-      "location": "Germany-Geilenkirchen",
-      "deadline": "03-Nov-2026, 10:59:00 PM",
-      "org": "HQ NAEW & C Force Geilenkirchen",
-      "grade": "NATO Grade G17",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261506",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261508",
-      "title": "Staff Officer (Fusion Analyst)",
-      "location": "Belgium-Mons",
-      "deadline": "12-Oct-2026, 9:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G12",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261508",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261490",
-      "title": "Staff Officer - (Wargaming / Modelling and Simulation Facilitator)",
-      "location": "United Kingdom-Northwood",
-      "deadline": "11-Oct-2026, 9:59:00 PM",
-      "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
-      "grade": "NATO Grade G15",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261490",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
     {
       "job_number": "261369",
       "title": "Budget Officer",
@@ -140,6 +101,19 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261506",
+      "title": "Branch Head (Requirements Management)",
+      "location": "Germany-Geilenkirchen",
+      "deadline": "03-Nov-2026, 10:59:00 PM",
+      "org": "HQ NAEW & C Force Geilenkirchen",
+      "grade": "NATO Grade G17",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261506",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261366",
       "title": "Building Area Warden - Local Wage Rate",
       "location": "Netherlands-Brunssum",
@@ -148,19 +122,6 @@
       "grade": "LWR",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261366",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261414",
-      "title": "Business Analyst",
-      "location": "CA-Halifax",
-      "deadline": "22-Sep-2026, 9:59:00 PM",
-      "org": "Defence Innovation Accelerator for the North Atlantic (DIANA)",
-      "grade": "NATO Grade G15",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261414",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -395,19 +356,6 @@
       "grade": "NATO Grade G15",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261407",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261415",
-      "title": "IT Operations & Service Manager",
-      "location": "CA-Halifax",
-      "deadline": "22-Sep-2026, 9:59:00 PM",
-      "org": "Defence Innovation Accelerator for the North Atlantic (DIANA)",
-      "grade": "NATO Grade G17",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261415",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -777,6 +725,19 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261508",
+      "title": "Staff Officer (Fusion Analyst)",
+      "location": "Belgium-Mons",
+      "deadline": "12-Oct-2026, 9:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G12",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261508",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261411",
       "title": "Staff Officer (Site Management)",
       "location": "Norway-Stavanger",
@@ -785,6 +746,19 @@
       "grade": "NATO Grade G17",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261411",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261490",
+      "title": "Staff Officer - (Wargaming / Modelling and Simulation Facilitator)",
+      "location": "United Kingdom-Northwood",
+      "deadline": "11-Oct-2026, 9:59:00 PM",
+      "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
+      "grade": "NATO Grade G15",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261490",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -881,5 +855,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-09-22T15:09:22.313411+00:00"
+  "generated_at": "2026-09-23T07:10:31.095827+00:00"
 }
