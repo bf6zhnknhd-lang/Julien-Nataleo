@@ -1,6 +1,19 @@
 {
-  "total": 65,
+  "total": 66,
   "jobs": [
+    {
+      "job_number": "261529",
+      "title": "Staff Officer (Industrial Security)",
+      "location": "Norway-Stavanger",
+      "deadline": "24-Oct-2026, 9:59:00 PM",
+      "org": "Joint Warfare Centre (JWC)",
+      "grade": "NATO Grade G15",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261529",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
     {
       "job_number": "261369",
       "title": "Budget Officer",
@@ -855,5 +868,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-09-24T11:09:40.464958+00:00"
+  "generated_at": "2026-09-24T15:10:32.936916+00:00"
 }
