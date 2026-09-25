@@ -1,19 +1,6 @@
 {
-  "total": 66,
+  "total": 64,
   "jobs": [
-    {
-      "job_number": "261529",
-      "title": "Staff Officer (Industrial Security)",
-      "location": "Norway-Stavanger",
-      "deadline": "24-Oct-2026, 9:59:00 PM",
-      "org": "Joint Warfare Centre (JWC)",
-      "grade": "NATO Grade G15",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261529",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
     {
       "job_number": "261369",
       "title": "Budget Officer",
@@ -265,19 +252,6 @@
       "grade": "NATO Grade G22",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261272",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261397",
-      "title": "Engineer (Requirements Analyst)",
-      "location": "Belgium-Mons",
-      "deadline": "24-Sep-2026, 9:59:00 PM",
-      "org": "NATO CIS Group (NCISG)",
-      "grade": "NATO Grade G15",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261397",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -647,19 +621,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261461",
-      "title": "Senior Business Analyst",
-      "location": "Netherlands-The Hague",
-      "deadline": "24-Sep-2026, 9:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G17",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261461",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261439",
       "title": "Senior CIS Security Officer",
       "location": "Belgium-Mons",
@@ -746,6 +707,19 @@
       "grade": "NATO Grade G12",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261508",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261529",
+      "title": "Staff Officer (Industrial Security)",
+      "location": "Norway-Stavanger",
+      "deadline": "24-Oct-2026, 9:59:00 PM",
+      "org": "Joint Warfare Centre (JWC)",
+      "grade": "NATO Grade G15",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261529",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -868,5 +842,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-09-24T15:10:32.936916+00:00"
+  "generated_at": "2026-09-25T07:10:33.576869+00:00"
 }
