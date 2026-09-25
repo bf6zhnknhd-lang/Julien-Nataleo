@@ -1,20 +1,18 @@
 {
-  "total": 65,
+  "total": 66,
   "jobs": [
     {
-      "job_number": "261486",
-      "title": "Staff Assistant (Finance) - NATO 2030",
-      "location": "Netherlands-Brunssum",
+      "job_number": "261527",
+      "title": "Defence Industrial Capacity Analyst",
+      "location": "Belgium-Brussels",
       "deadline": "25-Oct-2026, 10:59:00 PM",
-      "org": "Joint Force Command Brunssum (JFCBS)",
-      "grade": "NATO Grade G10",
-      "salary": "5,244.12Euro (EUR) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261486",
+      "org": "NATO International Staff (NATO IS)",
+      "grade": "NATO Grade G11-G15",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261527",
       "is_new": true,
-      "match_score": 2,
-      "matched_keywords": [
-        "finance"
-      ]
+      "match_score": 0,
+      "matched_keywords": []
     },
     {
       "job_number": "261369",
@@ -74,6 +72,21 @@
       "match_score": 2,
       "matched_keywords": [
         "financial"
+      ]
+    },
+    {
+      "job_number": "261486",
+      "title": "Staff Assistant (Finance) - NATO 2030",
+      "location": "Netherlands-Brunssum",
+      "deadline": "25-Oct-2026, 10:59:00 PM",
+      "org": "Joint Force Command Brunssum (JFCBS)",
+      "grade": "NATO Grade G10",
+      "salary": "5,244.12Euro (EUR) Monthly",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261486",
+      "is_new": false,
+      "match_score": 2,
+      "matched_keywords": [
+        "finance"
       ]
     },
     {
@@ -857,5 +870,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-09-25T11:09:56.768114+00:00"
+  "generated_at": "2026-09-25T15:10:25.872138+00:00"
 }
