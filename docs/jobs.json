@@ -1,6 +1,21 @@
 {
-  "total": 64,
+  "total": 65,
   "jobs": [
+    {
+      "job_number": "261486",
+      "title": "Staff Assistant (Finance) - NATO 2030",
+      "location": "Netherlands-Brunssum",
+      "deadline": "25-Oct-2026, 10:59:00 PM",
+      "org": "Joint Force Command Brunssum (JFCBS)",
+      "grade": "NATO Grade G10",
+      "salary": "5,244.12Euro (EUR) Monthly",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261486",
+      "is_new": true,
+      "match_score": 2,
+      "matched_keywords": [
+        "finance"
+      ]
+    },
     {
       "job_number": "261369",
       "title": "Budget Officer",
@@ -842,5 +857,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-09-25T07:10:33.576869+00:00"
+  "generated_at": "2026-09-25T11:09:56.768114+00:00"
 }
