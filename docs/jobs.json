@@ -1,19 +1,6 @@
 {
-  "total": 66,
+  "total": 65,
   "jobs": [
-    {
-      "job_number": "261527",
-      "title": "Defence Industrial Capacity Analyst",
-      "location": "Belgium-Brussels",
-      "deadline": "25-Oct-2026, 10:59:00 PM",
-      "org": "NATO International Staff (NATO IS)",
-      "grade": "NATO Grade G11-G15",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261527",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
     {
       "job_number": "261369",
       "title": "Budget Officer",
@@ -272,6 +259,19 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261527",
+      "title": "Defence Industrial Capacity Analyst",
+      "location": "Belgium-Brussels",
+      "deadline": "25-Oct-2026, 10:59:00 PM",
+      "org": "NATO International Staff (NATO IS)",
+      "grade": "NATO Grade G11-G15",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261527",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261272",
       "title": "Deputy Chief Information Officer",
       "location": "Belgium-Brussels, Belgium-Mons",
@@ -501,19 +501,6 @@
       "grade": "NATO Grade G20",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261523",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261301",
-      "title": "Project Assistant (Version Control)",
-      "location": "Belgium-Mons",
-      "deadline": "25-Sep-2026, 9:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G10",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261301",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -870,5 +857,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-09-25T15:10:25.872138+00:00"
+  "generated_at": "2026-09-26T07:09:12.986722+00:00"
 }

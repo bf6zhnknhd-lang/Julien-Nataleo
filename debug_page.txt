@@ -7,7 +7,7 @@ My Job Cart|Sign In
 Job SearchMy Jobpage
 Search|Advanced Search|All Jobs
 Jobs available in:
-English (66)
+English (65)
 French (15)
 	
 
@@ -163,7 +163,7 @@ Multiple selections
 You can search for jobs in more than one job field, location and organization. After selecting a value in one of these fields, click "Add..." and make another selection.
 
 Beginning of the main content section.
-Search Results (66 jobs found)
+Search Results (65 jobs found)
 Results per page
 5
 10
@@ -175,15 +175,6 @@ Job Title (Ascending Order)
 Job Title (Descending Order)
 Location (Ascending Order)
 Location (Descending Order)
-
-	
-Database Manager-PLN (readvertisement) 
-Job Number: 261482 - Poland-Bydgoszcz
-Application Deadline: 18-Oct-2026, 9:59:00 PM  
-NATO Body: Joint Force Training Centre (JFTC) - Grade: NATO Grade G12
-Apply|Add to My Job Cart
-
- 
 
 	
 Data Scientist (AI) 
