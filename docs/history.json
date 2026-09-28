@@ -115,5 +115,126 @@
     "was_match": false,
     "matched_keywords": [],
     "removed_at": "2026-09-27T07:09:23.855699+00:00"
+  },
+  {
+    "job_number": "261326",
+    "title": "Staff Officer (Audience Research)",
+    "location": "United States of America-Norfolk",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261326",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-09-28T06:02:05.756153+00:00"
+  },
+  {
+    "job_number": "261437",
+    "title": "Cyber Security Defender (SIEM & Splunk)",
+    "location": "Belgium-Mons",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261437",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-09-28T06:02:05.756153+00:00"
+  },
+  {
+    "job_number": "261369",
+    "title": "Budget Officer",
+    "location": "Belgium-Brussels",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261369",
+    "was_match": true,
+    "matched_keywords": [
+      "budget"
+    ],
+    "removed_at": "2026-09-28T06:02:05.756153+00:00"
+  },
+  {
+    "job_number": "261192",
+    "title": "Officer, Security Architecture and Cyber Capabilities",
+    "location": "Belgium-Brussels",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261192",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-09-28T06:02:05.756153+00:00"
+  },
+  {
+    "job_number": "261409",
+    "title": "Public Key Infrastructure (PKI) Engineer (Project Post)",
+    "location": "Belgium-Brussels",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261409",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-09-28T06:02:05.756153+00:00"
+  },
+  {
+    "job_number": "261266",
+    "title": "Financial Assistant (Project post)",
+    "location": "Belgium-Brussels",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261266",
+    "was_match": true,
+    "matched_keywords": [
+      "financial"
+    ],
+    "removed_at": "2026-09-28T06:02:05.756153+00:00"
+  },
+  {
+    "job_number": "260833",
+    "title": "Staff Officer (Data Science)",
+    "location": "United States of America-Norfolk",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=260833",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-09-28T06:02:05.756153+00:00"
+  },
+  {
+    "job_number": "261411",
+    "title": "Staff Officer (Site Management)",
+    "location": "Norway-Stavanger",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261411",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-09-28T06:02:05.756153+00:00"
+  },
+  {
+    "job_number": "261366",
+    "title": "Building Area Warden - Local Wage Rate",
+    "location": "Netherlands-Brunssum",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261366",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-09-28T06:02:05.756153+00:00"
+  },
+  {
+    "job_number": "261403",
+    "title": "Logistics Coordinator",
+    "location": "Belgium-Brussels",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261403",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-09-28T06:02:05.756153+00:00"
+  },
+  {
+    "job_number": "261435",
+    "title": "Cyber Security Engineer",
+    "location": "Belgium-Mons",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261435",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-09-28T06:02:05.756153+00:00"
+  },
+  {
+    "job_number": "261436",
+    "title": "Cyber Security Defender - Network Security Tool Manager",
+    "location": "Belgium-Mons",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261436",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-09-28T06:02:05.756153+00:00"
+  },
+  {
+    "job_number": "261439",
+    "title": "Senior CIS Security Officer",
+    "location": "Belgium-Mons",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261439",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-09-28T06:02:05.756153+00:00"
   }
 ]

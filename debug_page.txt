@@ -7,8 +7,8 @@ My Job Cart|Sign In
 Job SearchMy Jobpage
 Search|Advanced Search|All Jobs
 Jobs available in:
-English (63)
-French (15)
+English (51)
+French (12)
 	
 
 
@@ -163,7 +163,7 @@ Multiple selections
 You can search for jobs in more than one job field, location and organization. After selecting a value in one of these fields, click "Add..." and make another selection.
 
 Beginning of the main content section.
-Search Results (63 jobs found)
+Search Results (51 jobs found)
 Results per page
 5
 10
@@ -175,114 +175,6 @@ Job Title (Ascending Order)
 Job Title (Descending Order)
 Location (Ascending Order)
 Location (Descending Order)
-
-	
-Data Engineer 
-Job Number: 261279 - United Kingdom-Northwood
-Application Deadline: 30-Sep-2026, 9:59:00 PM  
-NATO Body: Headquarters Allied Maritime Command (HQ MARCOM) - Grade: NATO Grade G15
-Apply|Add to My Job Cart
-
- 
-
-	
-Cyber Security Engineer 
-Job Number: 261435 - Belgium-Mons
-Application Deadline: 27-Sep-2026, 9:59:00 PM  
-NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G15
-Apply|Add to My Job Cart
-
- 
-
-	
-Cyber Security Defender - Network Security Tool Manager 
-Job Number: 261436 - Belgium-Mons
-Application Deadline: 27-Sep-2026, 9:59:00 PM  
-NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G15
-Apply|Add to My Job Cart
-
- 
-
-	
-Cyber Security Defender (SIEM & Splunk) 
-Job Number: 261437 - Belgium-Mons
-Application Deadline: 27-Sep-2026, 9:59:00 PM  
-NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G15
-Apply|Add to My Job Cart
-
- 
-
-	
-Construction Security Expert 
-Job Number: 261444 - Belgium-Brussels
-Application Deadline: 02-Nov-2026, 10:59:00 PM  
-NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G12
-Apply|Add to My Job Cart
-
- 
-
-	
-Chief, Product Line (3 roles) 
-Job Number: 261420 - Belgium-Brussels
-Application Deadline: 06-Oct-2026, 9:59:00 PM  
-NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G22
-Apply|Add to My Job Cart
-
- 
-
-	
-Buyer 
-Job Number: 261340 - Germany-Wesel
-Application Deadline: 11-Oct-2026, 9:59:00 PM  
-NATO Body: Joint Force Command Brunssum (JFCBS) - Grade: NATO Grade G10
-Apply|Add to My Job Cart
-
- 
-
-	
-Building Area Warden - Local Wage Rate 
-Job Number: 261366 - Netherlands-Brunssum
-Application Deadline: 27-Sep-2026, 9:59:00 PM  
-NATO Body: Joint Force Command Brunssum (JFCBS) - Grade: LWR
-Apply|Add to My Job Cart
-
- 
-
-	
-Budget Officer  
-Job Number: 261369 - Belgium-Brussels
-Application Deadline: 27-Sep-2026, 9:59:00 PM  
-NATO Body: Science and Technology Organization (STO) - Grade: NATO Grade G15
-Apply|Add to My Job Cart
-
- 
-
-	
-Branch Head (Requirements Management) 
-Job Number: 261506 - Germany-Geilenkirchen
-Application Deadline: 03-Nov-2026, 10:59:00 PM  
-NATO Body: HQ NAEW & C Force Geilenkirchen - Grade: NATO Grade G17
-Apply|Add to My Job Cart
-
- 
-
-	
-Assistant, Records Management (1 post + reserve List) 
-Job Number: 261452 - Belgium-Brussels
-Application Deadline: 04-Oct-2026, 9:59:00 PM  
-NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G8-G10
-Apply|Add to My Job Cart
-
- 
-
-	
-Assistant (Purchasing and Contracting) 
-Job Number: 261472 - France-Paris
-Application Deadline: 18-Oct-2026, 9:59:00 PM  
-NATO Body: Collaboration Support Office (CSO) - Grade: NATO Grade G10
-Apply|Add to My Job Cart
-
- 
 
 	
 Administrative Assistants DCOS Support/ DCOS Operations 
