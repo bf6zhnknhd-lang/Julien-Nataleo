@@ -1,15 +1,41 @@
 {
-  "total": 53,
+  "total": 56,
   "jobs": [
     {
-      "job_number": "261606",
-      "title": "Staff Officer (Cyber Awareness)",
+      "job_number": "261608",
+      "title": "Intelligence, Surveillance and Reconnaissance (ISR) Systems Administrator",
+      "location": "Belgium-Brussels",
+      "deadline": "08-Nov-2026, 10:59:00 PM",
+      "org": "Battlefield Information Collection and Exploitation System (BICES)",
+      "grade": "NATO Grade G12",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261608",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261610",
+      "title": "Staff Assistant (Exercise Support)",
       "location": "Germany-Ulm",
       "deadline": "31-Oct-2026, 10:59:00 PM",
       "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
-      "grade": "NATO Grade G17",
+      "grade": "NATO Grade G12",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261606",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261610",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261609",
+      "title": "Staff Officer (Plans, Policy and Exercises)",
+      "location": "Germany-Ulm",
+      "deadline": "31-Oct-2026, 10:59:00 PM",
+      "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+      "grade": "NATO Grade G15",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261609",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
@@ -567,6 +593,19 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261606",
+      "title": "Staff Officer (Cyber Awareness)",
+      "location": "Germany-Ulm",
+      "deadline": "31-Oct-2026, 10:59:00 PM",
+      "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+      "grade": "NATO Grade G17",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261606",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261508",
       "title": "Staff Officer (Fusion Analyst)",
       "location": "Belgium-Mons",
@@ -697,5 +736,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-09-30T11:10:16.139542+00:00"
+  "generated_at": "2026-09-30T15:14:04.675110+00:00"
 }
