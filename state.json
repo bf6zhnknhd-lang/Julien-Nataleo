@@ -244,13 +244,6 @@
     "org": "NATO International Staff (NATO IS)",
     "grade": "NATO Grade G4"
   },
-  "261416": {
-    "title": "Enterprise Solutions Architect",
-    "location": "CA-Halifax",
-    "deadline": "29-Sep-2026, 9:59:00 PM",
-    "org": "Defence Innovation Accelerator for the North Atlantic (DIANA)",
-    "grade": "NATO Grade G20"
-  },
   "261488": {
     "title": "Engineer Resource and Logistic Specialist",
     "location": "Türkiye-Izmir",
@@ -355,6 +348,13 @@
     "deadline": "18-Oct-2026, 9:59:00 PM",
     "org": "Collaboration Support Office (CSO)",
     "grade": "NATO Grade G10"
+  },
+  "261601": {
+    "title": "Analyst (Operations Assessment Collective Training Requirement)",
+    "location": "Türkiye-Izmir",
+    "deadline": "30-Oct-2026, 10:59:00 PM",
+    "org": "Headquarters Allied Land Command (HQ LANDCOM)",
+    "grade": "NATO Grade G15"
   },
   "261471": {
     "title": "Administrative Assistants DCOS Support/ DCOS Operations",
