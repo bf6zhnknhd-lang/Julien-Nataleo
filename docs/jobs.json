@@ -1,15 +1,15 @@
 {
-  "total": 52,
+  "total": 53,
   "jobs": [
     {
-      "job_number": "261601",
-      "title": "Analyst (Operations Assessment Collective Training Requirement)",
-      "location": "Türkiye-Izmir",
-      "deadline": "30-Oct-2026, 10:59:00 PM",
-      "org": "Headquarters Allied Land Command (HQ LANDCOM)",
-      "grade": "NATO Grade G15",
+      "job_number": "261606",
+      "title": "Staff Officer (Cyber Awareness)",
+      "location": "Germany-Ulm",
+      "deadline": "31-Oct-2026, 10:59:00 PM",
+      "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+      "grade": "NATO Grade G17",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261601",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261606",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
@@ -68,6 +68,19 @@
       "grade": "NATO Grade G8",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261471",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261601",
+      "title": "Analyst (Operations Assessment Collective Training Requirement)",
+      "location": "Türkiye-Izmir",
+      "deadline": "30-Oct-2026, 10:59:00 PM",
+      "org": "Headquarters Allied Land Command (HQ LANDCOM)",
+      "grade": "NATO Grade G15",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261601",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -684,5 +697,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-09-30T07:11:52.209749+00:00"
+  "generated_at": "2026-09-30T11:10:16.139542+00:00"
 }
