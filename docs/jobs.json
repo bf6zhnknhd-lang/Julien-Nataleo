@@ -1,45 +1,6 @@
 {
-  "total": 56,
+  "total": 49,
   "jobs": [
-    {
-      "job_number": "261608",
-      "title": "Intelligence, Surveillance and Reconnaissance (ISR) Systems Administrator",
-      "location": "Belgium-Brussels",
-      "deadline": "08-Nov-2026, 10:59:00 PM",
-      "org": "Battlefield Information Collection and Exploitation System (BICES)",
-      "grade": "NATO Grade G12",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261608",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261610",
-      "title": "Staff Assistant (Exercise Support)",
-      "location": "Germany-Ulm",
-      "deadline": "31-Oct-2026, 10:59:00 PM",
-      "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
-      "grade": "NATO Grade G12",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261610",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261609",
-      "title": "Staff Officer (Plans, Policy and Exercises)",
-      "location": "Germany-Ulm",
-      "deadline": "31-Oct-2026, 10:59:00 PM",
-      "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
-      "grade": "NATO Grade G15",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261609",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
     {
       "job_number": "261340",
       "title": "Buyer",
@@ -84,19 +45,6 @@
       "matched_keywords": [
         "finance"
       ]
-    },
-    {
-      "job_number": "261471",
-      "title": "Administrative Assistants DCOS Support/ DCOS Operations",
-      "location": "Italy-Naples",
-      "deadline": "30-Sep-2026, 9:59:00 PM",
-      "org": "Joint Force Command Naples (JFCNP)",
-      "grade": "NATO Grade G8",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261471",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
     },
     {
       "job_number": "261601",
@@ -172,32 +120,6 @@
       "grade": "NATO Grade G12",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261444",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261279",
-      "title": "Data Engineer",
-      "location": "United Kingdom-Northwood",
-      "deadline": "30-Sep-2026, 9:59:00 PM",
-      "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
-      "grade": "NATO Grade G15",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261279",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261288",
-      "title": "Data Integration Specialist",
-      "location": "United Kingdom-Northwood",
-      "deadline": "30-Sep-2026, 9:59:00 PM",
-      "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
-      "grade": "NATO Grade G12",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261288",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -294,19 +216,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261432",
-      "title": "Exercise and Resource Coordination Manager",
-      "location": "Belgium-Mons",
-      "deadline": "30-Sep-2026, 9:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G17",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261432",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261484",
       "title": "GEOINT Data Architect",
       "location": "Belgium-Brussels",
@@ -315,19 +224,6 @@
       "grade": "NATO Grade G17",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261484",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261418",
-      "title": "Head CSE",
-      "location": "Italy-Sigonella",
-      "deadline": "30-Sep-2026, 9:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G20",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261418",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -354,6 +250,19 @@
       "grade": "NATO Grade G15",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261407",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261608",
+      "title": "Intelligence, Surveillance and Reconnaissance (ISR) Systems Administrator",
+      "location": "Belgium-Brussels",
+      "deadline": "08-Nov-2026, 10:59:00 PM",
+      "org": "Battlefield Information Collection and Exploitation System (BICES)",
+      "grade": "NATO Grade G12",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261608",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -476,32 +385,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261278",
-      "title": "Project Manager (Maritime C2 Data Integration)",
-      "location": "United Kingdom-Northwood",
-      "deadline": "30-Sep-2026, 9:59:00 PM",
-      "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
-      "grade": "NATO Grade G17",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261278",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "260008",
-      "title": "Requirements & Performance Manager",
-      "location": "Belgium-Mons",
-      "deadline": "30-Sep-2026, 9:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G15",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=260008",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261473",
       "title": "SA (2030 OPFOR Sustainment Expert)",
       "location": "Norway-Stavanger",
@@ -549,6 +432,19 @@
       "grade": "NATO Grade G17",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261497",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261610",
+      "title": "Staff Assistant (Exercise Support)",
+      "location": "Germany-Ulm",
+      "deadline": "31-Oct-2026, 10:59:00 PM",
+      "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+      "grade": "NATO Grade G12",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261610",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -627,6 +523,19 @@
       "grade": "NATO Grade G15",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261529",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261609",
+      "title": "Staff Officer (Plans, Policy and Exercises)",
+      "location": "Germany-Ulm",
+      "deadline": "31-Oct-2026, 10:59:00 PM",
+      "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+      "grade": "NATO Grade G15",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261609",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -736,5 +645,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-09-30T15:14:04.675110+00:00"
+  "generated_at": "2026-10-01T07:12:21.225242+00:00"
 }

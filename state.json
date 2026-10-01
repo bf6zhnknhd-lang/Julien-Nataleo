@@ -146,20 +146,6 @@
     "org": "Joint Warfare Centre (JWC)",
     "grade": "NATO Grade G12"
   },
-  "260008": {
-    "title": "Requirements & Performance Manager",
-    "location": "Belgium-Mons",
-    "deadline": "30-Sep-2026, 9:59:00 PM",
-    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-    "grade": "NATO Grade G15"
-  },
-  "261278": {
-    "title": "Project Manager (Maritime C2 Data Integration)",
-    "location": "United Kingdom-Northwood",
-    "deadline": "30-Sep-2026, 9:59:00 PM",
-    "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
-    "grade": "NATO Grade G17"
-  },
   "261524": {
     "title": "Project Coord (Information Services-COI Enabling)",
     "location": "United States of America-Norfolk",
@@ -244,25 +230,11 @@
     "org": "NATO Communications and Information Agency (NCIA)",
     "grade": "NATO Grade G17"
   },
-  "261418": {
-    "title": "Head CSE",
-    "location": "Italy-Sigonella",
-    "deadline": "30-Sep-2026, 9:59:00 PM",
-    "org": "NATO Communications and Information Agency (NCIA)",
-    "grade": "NATO Grade G20"
-  },
   "261484": {
     "title": "GEOINT Data Architect",
     "location": "Belgium-Brussels",
     "deadline": "18-Oct-2026, 9:59:00 PM",
     "org": "International Military Staff (NATO IMS)",
-    "grade": "NATO Grade G17"
-  },
-  "261432": {
-    "title": "Exercise and Resource Coordination Manager",
-    "location": "Belgium-Mons",
-    "deadline": "30-Sep-2026, 9:59:00 PM",
-    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
     "grade": "NATO Grade G17"
   },
   "261463": {
@@ -321,20 +293,6 @@
     "org": "Headquarters Allied Land Command (HQ LANDCOM)",
     "grade": "NATO Grade G15"
   },
-  "261288": {
-    "title": "Data Integration Specialist",
-    "location": "United Kingdom-Northwood",
-    "deadline": "30-Sep-2026, 9:59:00 PM",
-    "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
-    "grade": "NATO Grade G12"
-  },
-  "261279": {
-    "title": "Data Engineer",
-    "location": "United Kingdom-Northwood",
-    "deadline": "30-Sep-2026, 9:59:00 PM",
-    "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
-    "grade": "NATO Grade G15"
-  },
   "261444": {
     "title": "Construction Security Expert",
     "location": "Belgium-Brussels",
@@ -383,12 +341,5 @@
     "deadline": "30-Oct-2026, 10:59:00 PM",
     "org": "Headquarters Allied Land Command (HQ LANDCOM)",
     "grade": "NATO Grade G15"
-  },
-  "261471": {
-    "title": "Administrative Assistants DCOS Support/ DCOS Operations",
-    "location": "Italy-Naples",
-    "deadline": "30-Sep-2026, 9:59:00 PM",
-    "org": "Joint Force Command Naples (JFCNP)",
-    "grade": "NATO Grade G8"
   }
 }
