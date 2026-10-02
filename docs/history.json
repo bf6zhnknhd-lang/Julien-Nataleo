@@ -308,5 +308,16 @@
     "was_match": false,
     "matched_keywords": [],
     "removed_at": "2026-10-01T07:12:10.334375+00:00"
+  },
+  {
+    "job_number": "261441",
+    "title": "Director of Finance (A8)",
+    "location": "Germany-Ramstein-Miesenbach",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261441",
+    "was_match": true,
+    "matched_keywords": [
+      "finance"
+    ],
+    "removed_at": "2026-10-02T07:11:12.106932+00:00"
   }
 ]

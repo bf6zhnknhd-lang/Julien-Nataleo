@@ -1,32 +1,6 @@
 {
-  "total": 51,
+  "total": 50,
   "jobs": [
-    {
-      "job_number": "261603",
-      "title": "Head of Learning Innovation and Digital Transformation",
-      "location": "Portugal-Oeiras",
-      "deadline": "15-Oct-2026, 9:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G20",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261603",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261619",
-      "title": "Principal Technician (ICT Systems)",
-      "location": "United Kingdom-Northwood",
-      "deadline": "18-Oct-2026, 9:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G12",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261619",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
     {
       "job_number": "261340",
       "title": "Buyer",
@@ -40,21 +14,6 @@
       "match_score": 2,
       "matched_keywords": [
         "buyer"
-      ]
-    },
-    {
-      "job_number": "261441",
-      "title": "Director of Finance (A8)",
-      "location": "Germany-Ramstein-Miesenbach",
-      "deadline": "01-Oct-2026, 9:59:00 PM",
-      "org": "Headquarters Allied Air Command (HQ AIRCOM)",
-      "grade": "NATO Grade G20",
-      "salary": "10,662.45Euro (EUR) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261441",
-      "is_new": false,
-      "match_score": 2,
-      "matched_keywords": [
-        "finance"
       ]
     },
     {
@@ -255,6 +214,19 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261603",
+      "title": "Head of Learning Innovation and Digital Transformation",
+      "location": "Portugal-Oeiras",
+      "deadline": "15-Oct-2026, 9:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G20",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261603",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261419",
       "title": "Head, Service Operations Branch",
       "location": "Germany-Uedem",
@@ -393,6 +365,19 @@
       "grade": "NATO Grade G20",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261523",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261619",
+      "title": "Principal Technician (ICT Systems)",
+      "location": "United Kingdom-Northwood",
+      "deadline": "18-Oct-2026, 9:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G12",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261619",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -671,5 +656,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-01T15:16:03.799746+00:00"
+  "generated_at": "2026-10-02T07:11:20.658364+00:00"
 }
