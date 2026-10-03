@@ -2,32 +2,6 @@
   "total": 53,
   "jobs": [
     {
-      "job_number": "261599",
-      "title": "Commercial Operations Officer",
-      "location": "CA-Halifax",
-      "deadline": "31-Oct-2026, 10:59:00 PM",
-      "org": "Defence Innovation Accelerator for the North Atlantic (DIANA)",
-      "grade": "NATO Grade G15",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261599",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261424",
-      "title": "Staff Officer (Recruitment) - NATO 2030",
-      "location": "Germany-Ramstein-Miesenbach",
-      "deadline": "01-Nov-2026, 10:59:00 PM",
-      "org": "Headquarters Allied Air Command (HQ AIRCOM)",
-      "grade": "NATO Grade G15",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261424",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261340",
       "title": "Buyer",
       "location": "Germany-Wesel",
@@ -118,6 +92,19 @@
       "grade": "NATO Grade G22",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261420",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261599",
+      "title": "Commercial Operations Officer",
+      "location": "CA-Halifax",
+      "deadline": "31-Oct-2026, 10:59:00 PM",
+      "org": "Defence Innovation Accelerator for the North Atlantic (DIANA)",
+      "grade": "NATO Grade G15",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261599",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -604,6 +591,19 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261424",
+      "title": "Staff Officer (Recruitment) - NATO 2030",
+      "location": "Germany-Ramstein-Miesenbach",
+      "deadline": "01-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Allied Air Command (HQ AIRCOM)",
+      "grade": "NATO Grade G15",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261424",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261490",
       "title": "Staff Officer - (Wargaming / Modelling and Simulation Facilitator)",
       "location": "United Kingdom-Northwood",
@@ -695,5 +695,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-03T07:14:39.108310+00:00"
+  "generated_at": "2026-10-03T12:48:38.027417+00:00"
 }
