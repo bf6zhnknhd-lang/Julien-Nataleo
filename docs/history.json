@@ -319,5 +319,23 @@
       "finance"
     ],
     "removed_at": "2026-10-02T07:11:12.106932+00:00"
+  },
+  {
+    "job_number": "261453",
+    "title": "Support Analyst (CapDev)",
+    "location": "Belgium-Mons",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261453",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-10-03T07:14:31.260827+00:00"
+  },
+  {
+    "job_number": "261442",
+    "title": "Scientist (Quantum)",
+    "location": "Italy-La Spezia",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261442",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-10-03T07:14:31.260827+00:00"
   }
 ]
