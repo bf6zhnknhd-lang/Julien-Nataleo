@@ -2,45 +2,6 @@
   "total": 53,
   "jobs": [
     {
-      "job_number": "261605",
-      "title": "Engineer (Interoperability V&V)",
-      "location": "United States of America-Norfolk",
-      "deadline": "26-Oct-2026, 10:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G15",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261605",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261611",
-      "title": "Staff Officer (Change Management)",
-      "location": "United States of America-Norfolk",
-      "deadline": "19-Oct-2026, 9:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G17",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261611",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261612",
-      "title": "Staff Officer (Treasury & Accounting Operations)",
-      "location": "United States of America-Norfolk",
-      "deadline": "26-Oct-2026, 10:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G17",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261612",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261340",
       "title": "Buyer",
       "location": "Germany-Wesel",
@@ -209,6 +170,19 @@
       "grade": "NATO Grade G15",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261579",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261605",
+      "title": "Engineer (Interoperability V&V)",
+      "location": "United States of America-Norfolk",
+      "deadline": "26-Oct-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G15",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261605",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -539,6 +513,19 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261611",
+      "title": "Staff Officer (Change Management)",
+      "location": "United States of America-Norfolk",
+      "deadline": "19-Oct-2026, 9:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G17",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261611",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261606",
       "title": "Staff Officer (Cyber Awareness)",
       "location": "Germany-Ulm",
@@ -599,6 +586,19 @@
       "grade": "NATO Grade G15",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261424",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261612",
+      "title": "Staff Officer (Treasury & Accounting Operations)",
+      "location": "United States of America-Norfolk",
+      "deadline": "26-Oct-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G17",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261612",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -695,5 +695,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-05T06:06:27.685563+00:00"
+  "generated_at": "2026-10-05T07:15:38.001460+00:00"
 }
