@@ -48,6 +48,13 @@
     "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
     "grade": "NATO Grade G15"
   },
+  "261612": {
+    "title": "Staff Officer (Treasury & Accounting Operations)",
+    "location": "United States of America-Norfolk",
+    "deadline": "26-Oct-2026, 10:59:00 PM",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G17"
+  },
   "261424": {
     "title": "Staff Officer (Recruitment) - NATO 2030",
     "location": "Germany-Ramstein-Miesenbach",
@@ -81,6 +88,13 @@
     "location": "Germany-Ulm",
     "deadline": "31-Oct-2026, 10:59:00 PM",
     "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+    "grade": "NATO Grade G17"
+  },
+  "261611": {
+    "title": "Staff Officer (Change Management)",
+    "location": "United States of America-Norfolk",
+    "deadline": "19-Oct-2026, 9:59:00 PM",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
     "grade": "NATO Grade G17"
   },
   "261489": {
@@ -124,13 +138,6 @@
     "deadline": "10-Oct-2026, 9:59:00 PM",
     "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
     "grade": "NATO Grade G17"
-  },
-  "261467": {
-    "title": "Security Infrastructure Specialist (Firewall/Network Security)",
-    "location": "Belgium-Mons",
-    "deadline": "04-Oct-2026, 9:59:00 PM",
-    "org": "NATO Communications and Information Agency (NCIA)",
-    "grade": "NATO Grade G15"
   },
   "261618": {
     "title": "SA (2030 Wargaming Advisor) / SA (2030 Wargaming Advisor Maritime Operations)",
@@ -216,13 +223,6 @@
     "org": "Joint Force Command Norfolk (JFCNF)",
     "grade": "NATO Grade G10"
   },
-  "261404": {
-    "title": "Mechanical, Electrical and Plumbing (MEP) Project Manager",
-    "location": "Belgium-Brussels",
-    "deadline": "04-Oct-2026, 9:59:00 PM",
-    "org": "NATO International Staff (NATO IS)",
-    "grade": "NATO Grade G11-G15"
-  },
   "260402": {
     "title": "Legal Executive Officer",
     "location": "Belgium-Mons",
@@ -277,6 +277,13 @@
     "location": "Türkiye-Izmir",
     "deadline": "11-Oct-2026, 9:59:00 PM",
     "org": "Headquarters Allied Land Command (HQ LANDCOM)",
+    "grade": "NATO Grade G15"
+  },
+  "261605": {
+    "title": "Engineer (Interoperability V&V)",
+    "location": "United States of America-Norfolk",
+    "deadline": "26-Oct-2026, 10:59:00 PM",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
     "grade": "NATO Grade G15"
   },
   "261579": {
@@ -348,13 +355,6 @@
     "deadline": "03-Nov-2026, 10:59:00 PM",
     "org": "HQ NAEW & C Force Geilenkirchen",
     "grade": "NATO Grade G17"
-  },
-  "261452": {
-    "title": "Assistant, Records Management (1 post + reserve List)",
-    "location": "Belgium-Brussels",
-    "deadline": "04-Oct-2026, 9:59:00 PM",
-    "org": "NATO International Staff (NATO IS)",
-    "grade": "NATO Grade G8-G10"
   },
   "261472": {
     "title": "Assistant (Purchasing and Contracting)",
