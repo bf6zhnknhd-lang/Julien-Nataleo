@@ -219,6 +219,17 @@ def update_history(previous_jobs, current_jobs):
     """Ajoute au fichier d'historique les offres qui ont disparu depuis le
     dernier run (retirées ou pourvues). Retourne la liste complète (limitée)."""
     history = load_json(HISTORY_JSON, [])
+
+    # Rattrapage : les entrées créées avant l'ajout de was_match/url n'ont pas
+    # ces champs — on les complète ici plutôt que d'attendre un nouveau retrait.
+    for h in history:
+        if "was_match" not in h:
+            score, matched_keywords = score_match(h.get("title", ""), h.get("location", ""))
+            h["was_match"] = score > 0
+            h["matched_keywords"] = matched_keywords
+        if "url" not in h:
+            h["url"] = f"https://nato.taleo.net/careersection/2/jobdetail.ftl?job={h['job_number']}"
+
     removed_ids = set(previous_jobs) - set(current_jobs)
     now = datetime.now(timezone.utc).isoformat()
     for job_number in removed_ids:
@@ -229,6 +240,9 @@ def update_history(previous_jobs, current_jobs):
             "title": info.get("title", ""),
             "location": info.get("location", ""),
             "url": f"https://nato.taleo.net/careersection/2/jobdetail.ftl?job={job_number}",
+            "org": info.get("org", ""),
+            "grade": info.get("grade", ""),
+            "first_seen": info.get("first_seen", ""),
             "was_match": score > 0,
             "matched_keywords": matched_keywords,
             "removed_at": now,
@@ -276,6 +290,7 @@ def build_jobs_export(current_jobs, new_ids, salaries):
             "deadline": info.get("deadline", ""),
             "org": info.get("org", ""),
             "grade": info.get("grade", ""),
+            "first_seen": info.get("first_seen", ""),
             "salary": salaries.get(job_number, ""),
             "url": f"https://nato.taleo.net/careersection/2/jobdetail.ftl?job={job_number}",
             "is_new": job_number in new_ids,
@@ -292,6 +307,14 @@ def main():
 
     new_ids = set(current_jobs) - set(previous_jobs)
     first_run = len(previous_jobs) == 0
+
+    # Date de première détection : conservée depuis le run précédent si elle
+    # existe, sinon c'est ce run (offre nouvelle, ou déjà en ligne avant que
+    # cette date soit suivie — on ne peut pas la connaître plus tôt).
+    run_time = datetime.now(timezone.utc).isoformat()
+    for job_number, info in current_jobs.items():
+        previous = previous_jobs.get(job_number) or {}
+        info["first_seen"] = previous.get("first_seen") or run_time
 
     history = update_history(previous_jobs, current_jobs)
 
@@ -368,4 +391,3 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
-
