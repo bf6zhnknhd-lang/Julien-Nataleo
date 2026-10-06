@@ -2,6 +2,19 @@
   "total": 53,
   "jobs": [
     {
+      "job_number": "261628",
+      "title": "Staff Officer (Cyber Security/Incident Response Manager)",
+      "location": "United States of America-Norfolk",
+      "deadline": "26-Oct-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G15",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261628",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261340",
       "title": "Buyer",
       "location": "Germany-Wesel",
@@ -487,19 +500,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261426",
-      "title": "Staff Assistant (Legal)",
-      "location": "United States of America-Norfolk",
-      "deadline": "05-Oct-2026, 9:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G10",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261426",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261489",
       "title": "Staff Assistant - (Wargaming / Modelling and Simulation Facilitator)",
       "location": "United Kingdom-Northwood",
@@ -695,5 +695,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-05T15:13:09.200979+00:00"
+  "generated_at": "2026-10-06T07:11:55.805542+00:00"
 }
