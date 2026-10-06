@@ -3,37 +3,57 @@
     "job_number": "261393",
     "title": "Officer, Strategy Implementation",
     "location": "Belgium-Brussels",
-    "removed_at": "2026-09-21T06:02:00.974819+00:00"
+    "removed_at": "2026-09-21T06:02:00.974819+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261393"
   },
   {
     "job_number": "261206",
     "title": "Staff Officer (Budget Analyst)",
     "location": "Netherlands-Brunssum",
-    "removed_at": "2026-09-21T06:02:00.974819+00:00"
+    "removed_at": "2026-09-21T06:02:00.974819+00:00",
+    "was_match": true,
+    "matched_keywords": [
+      "budget"
+    ],
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261206"
   },
   {
     "job_number": "261344",
     "title": "Administrative Tribunal Assistant",
     "location": "Belgium-Brussels",
-    "removed_at": "2026-09-21T06:02:00.974819+00:00"
+    "removed_at": "2026-09-21T06:02:00.974819+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261344"
   },
   {
     "job_number": "261225",
     "title": "Officer, Standards Quality Assurance",
     "location": "Belgium-Brussels",
-    "removed_at": "2026-09-21T06:02:00.974819+00:00"
+    "removed_at": "2026-09-21T06:02:00.974819+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261225"
   },
   {
     "job_number": "261402",
     "title": "ISR Planning & Execution Officer",
     "location": "Belgium-Brussels",
-    "removed_at": "2026-09-21T06:02:00.974819+00:00"
+    "removed_at": "2026-09-21T06:02:00.974819+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261402"
   },
   {
     "job_number": "261367",
     "title": "Officer, Analysis",
     "location": "Belgium-Brussels",
-    "removed_at": "2026-09-21T06:02:00.974819+00:00"
+    "removed_at": "2026-09-21T06:02:00.974819+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261367"
   },
   {
     "job_number": "261433",
