@@ -152,6 +152,27 @@ async function load() {
   render('new');
 }
 
+function fmtDate(iso) {
+  if (!iso) return '—';
+  const d = new Date(iso);
+  return isNaN(d) ? '—' : d.toLocaleDateString('fr-FR');
+}
+
+function escAttr(v) { return (v || '').replace(/"/g, '&quot;'); }
+
+function interviewButtons(o) {
+  const attrs = `data-job="${o.job_number}" data-title="${escAttr(o.title)}" data-org="${escAttr(o.org)}" data-location="${escAttr(o.location)}" data-grade="${escAttr(o.grade)}"`;
+  return `
+    <button class="interview-btn" data-kind="entretien" ${attrs}>🎯 Entretien</button>
+    <button class="interview-btn hirevue-btn" data-kind="hirevue" ${attrs}>🎥 HireVue</button>`;
+}
+
+function bindInterviewButtons(root) {
+  root.querySelectorAll('.interview-btn').forEach(btn => {
+    btn.addEventListener('click', () => copyInterviewPrompt(btn.dataset));
+  });
+}
+
 function renderJobsList(items) {
   const list = document.getElementById('list');
   if (items.length === 0) {
@@ -177,13 +198,10 @@ function renderJobsList(items) {
       </div>
       <div class="meta" style="margin-top:2px;">
         <span class="${soon ? 'deadline-soon' : ''}">⏳ ${j.deadline || '—'}</span>
+        <span>🆕 Détectée le ${fmtDate(j.first_seen)}</span>
       </div>
       <div class="card-actions">
         <a href="${j.url}" target="_blank" rel="noopener">Voir l'offre →</a>
-        ${j.match_score > 0 ? `
-          <button class="interview-btn" data-kind="entretien" data-job="${j.job_number}" data-title="${j.title.replace(/"/g, '&quot;')}" data-org="${(j.org || '').replace(/"/g, '&quot;')}" data-location="${(j.location || '').replace(/"/g, '&quot;')}" data-grade="${(j.grade || '').replace(/"/g, '&quot;')}">🎯 Entretien</button>
-          <button class="interview-btn hirevue-btn" data-kind="hirevue" data-job="${j.job_number}" data-title="${j.title.replace(/"/g, '&quot;')}" data-org="${(j.org || '').replace(/"/g, '&quot;')}" data-location="${(j.location || '').replace(/"/g, '&quot;')}" data-grade="${(j.grade || '').replace(/"/g, '&quot;')}">🎥 HireVue</button>
-        ` : ''}
       </div>
       <select class="status-select" data-job="${j.job_number}">
         ${STATUS_OPTIONS.map(s => `<option value="${s}" ${s === status ? 'selected' : ''}>${s}</option>`).join('')}
@@ -193,10 +211,6 @@ function renderJobsList(items) {
 
   list.querySelectorAll('.status-select').forEach(sel => {
     sel.addEventListener('change', () => setStatus(sel.dataset.job, sel.value));
-  });
-
-  list.querySelectorAll('.interview-btn').forEach(btn => {
-    btn.addEventListener('click', () => copyInterviewPrompt(btn.dataset));
   });
 }
 
@@ -242,7 +256,11 @@ function renderHistory(items) {
     list.innerHTML = '<div class="empty">Aucune offre retirée pour le moment.</div>';
     return;
   }
-  list.innerHTML = items.slice().reverse().map(h => `
+  list.innerHTML = items.slice().reverse().map(h => {
+    const days = (h.first_seen && h.removed_at)
+      ? Math.max(0, Math.round((new Date(h.removed_at) - new Date(h.first_seen)) / 86400000))
+      : null;
+    return `
     <div class="card" ${h.was_match ? 'style="border-color:#d4a117;"' : ''}>
       <div class="title">${h.title}</div>
       <div class="meta">
@@ -252,11 +270,20 @@ function renderHistory(items) {
       </div>
       <div class="meta" style="margin-top:4px;">
         <span>📍 ${h.location || '—'}</span>
-        <span>Retirée le ${new Date(h.removed_at).toLocaleDateString('fr-FR')}</span>
+        ${h.grade ? `<span>🎖️ ${h.grade}</span>` : ''}
       </div>
-      ${h.url ? `<div class="card-actions"><a href="${h.url}" target="_blank" rel="noopener">Voir l'offre →</a></div>` : ''}
-    </div>
-  `).join('');
+      <div class="meta" style="margin-top:2px;">
+        <span>🆕 Détectée le ${fmtDate(h.first_seen)}</span>
+        <span>Retirée le ${fmtDate(h.removed_at)}</span>
+        ${days !== null ? `<span>(${days} j en ligne)</span>` : ''}
+      </div>
+      <div class="card-actions">
+        ${h.url ? `<a href="${h.url}" target="_blank" rel="noopener">Voir l'offre →</a>` : ''}
+        ${h.was_match ? interviewButtons(h) : ''}
+      </div>
+    </div>`;
+  }).join('');
+  bindInterviewButtons(list);
 }
 
 function renderStats(points) {
@@ -325,4 +352,3 @@ load();
 </script>
 </body>
 </html>
-
