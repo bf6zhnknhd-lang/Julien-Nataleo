@@ -7,7 +7,7 @@ My Job Cart|Sign In
 Job SearchMy Jobpage
 Search|Advanced Search|All Jobs
 Jobs available in:
-English (54)
+English (55)
 French (11)
 	
 
@@ -163,7 +163,7 @@ Multiple selections
 You can search for jobs in more than one job field, location and organization. After selecting a value in one of these fields, click "Add..." and make another selection.
 
 Beginning of the main content section.
-Search Results (54 jobs found)
+Search Results (55 jobs found)
 Results per page
 5
 10
@@ -208,6 +208,15 @@ Analyst (Operations Assessment Collective Training Requirement) 
 Job Number: 261601 - Türkiye-Izmir
 Application Deadline: 30-Oct-2026, 10:59:00 PM  
 NATO Body: Headquarters Allied Land Command (HQ LANDCOM) - Grade: NATO Grade G15
+Apply|Add to My Job Cart
+
+ 
+
+	
+Analyst 
+Job Number: 261641 - Belgium-Mons
+Application Deadline: 06-Nov-2026, 10:59:00 PM  
+NATO Body: Supreme Headquarters Allied Powers Europe (SHAPE) - Grade: NATO Grade G15
 Apply|Add to My Job Cart
 
  
