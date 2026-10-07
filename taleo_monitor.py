@@ -268,12 +268,25 @@ def send_notification(title, message, priority="default"):
         print("NTFY_TOPIC non défini — notification non envoyée.")
         print(f"[{title}] {message}")
         return
-    requests.post(
-        f"https://ntfy.sh/{NTFY_TOPIC}",
-        data=message.encode("utf-8"),
-        headers={"Title": title.encode("utf-8"), "Priority": priority},
-        timeout=15,
-    )
+    import time
+    for attempt in range(1, 5):
+        try:
+            resp = requests.post(
+                f"https://ntfy.sh/{NTFY_TOPIC}",
+                data=message.encode("utf-8"),
+                headers={"Title": title.encode("utf-8"), "Priority": priority},
+                timeout=15,
+            )
+            print(f"ntfy [{title}] tentative {attempt} -> HTTP {resp.status_code} {resp.text[:150]}")
+            if resp.status_code < 300:
+                return True
+            if resp.status_code not in (429, 500, 502, 503, 504):
+                break
+        except Exception as e:
+            print(f"ntfy [{title}] tentative {attempt} -> erreur : {e}")
+        time.sleep(5 * attempt)
+    print(f"⚠️ ntfy : ÉCHEC d'envoi de la notification [{title}]")
+    return False
 
 
 def build_jobs_export(current_jobs, new_ids, salaries):
