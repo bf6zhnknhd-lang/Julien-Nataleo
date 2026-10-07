@@ -1,4 +1,12 @@
 {
+  "261630": {
+    "title": "Chief of Staff, NATO Advisory and Liaison Team (NALT)",
+    "location": "Kosovo-Pristina",
+    "deadline": "21-Oct-2026, 9:59:00 PM",
+    "org": "NATO International Staff (NATO IS)",
+    "grade": "NATO Grade G22",
+    "first_seen": "2026-10-07T16:14:59.153355+00:00"
+  },
   "260215": {
     "title": "Visiting Scientist Programme",
     "location": "Italy-La Spezia",
@@ -166,6 +174,14 @@
     "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
     "grade": "NATO Grade G12",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
+  },
+  "261634": {
+    "title": "Staff Assistant (Civilian Personnel)",
+    "location": "Germany-Geilenkirchen",
+    "deadline": "18-Nov-2026, 10:59:00 PM",
+    "org": "HQ NAEW & C Force Geilenkirchen",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-10-07T16:14:59.153355+00:00"
   },
   "261497": {
     "title": "Senior Analyst (Russia Cyber Domain/Red Team)",
@@ -423,6 +439,14 @@
     "grade": "NATO Grade G10",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
+  "261641": {
+    "title": "Analyst (Political and Security Analysis)",
+    "location": "Belgium-Mons",
+    "deadline": "06-Nov-2026, 10:59:00 PM",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-07T11:10:42.071261+00:00"
+  },
   "261601": {
     "title": "Analyst (Operations Assessment Collective Training Requirement)",
     "location": "Türkiye-Izmir",
@@ -430,13 +454,5 @@
     "org": "Headquarters Allied Land Command (HQ LANDCOM)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
-  },
-  "261641": {
-    "title": "Analyst",
-    "location": "Belgium-Mons",
-    "deadline": "06-Nov-2026, 10:59:00 PM",
-    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-10-07T11:10:42.071261+00:00"
   }
 }

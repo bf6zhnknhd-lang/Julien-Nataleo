@@ -7,8 +7,8 @@ My Job Cart|Sign In
 Job SearchMy Jobpage
 Search|Advanced Search|All Jobs
 Jobs available in:
-English (55)
-French (11)
+English (57)
+French (12)
 	
 
 
@@ -163,7 +163,7 @@ Multiple selections
 You can search for jobs in more than one job field, location and organization. After selecting a value in one of these fields, click "Add..." and make another selection.
 
 Beginning of the main content section.
-Search Results (55 jobs found)
+Search Results (57 jobs found)
 Results per page
 5
 10
@@ -175,6 +175,24 @@ Job Title (Ascending Order)
 Job Title (Descending Order)
 Location (Ascending Order)
 Location (Descending Order)
+
+	
+Construction Security Expert 
+Job Number: 261444 - Belgium-Brussels
+Application Deadline: 02-Nov-2026, 10:59:00 PM  
+NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G12
+Apply|Add to My Job Cart
+
+ 
+
+	
+Commercial Operations Officer 
+Job Number: 261599 - CA-Halifax
+Application Deadline: 31-Oct-2026, 10:59:00 PM  
+NATO Body: Defence Innovation Accelerator for the North Atlantic (DIANA) - Grade: NATO Grade G15
+Apply|Add to My Job Cart
+
+ 
 
 	
 Buyer 
@@ -204,19 +222,19 @@ Apply|Add to My Job Cart
  
 
 	
-Analyst (Operations Assessment Collective Training Requirement) 
-Job Number: 261601 - Türkiye-Izmir
-Application Deadline: 30-Oct-2026, 10:59:00 PM  
-NATO Body: Headquarters Allied Land Command (HQ LANDCOM) - Grade: NATO Grade G15
+Analyst (Political and Security Analysis) 
+Job Number: 261641 - Belgium-Mons
+Application Deadline: 06-Nov-2026, 10:59:00 PM  
+NATO Body: Supreme Headquarters Allied Powers Europe (SHAPE) - Grade: NATO Grade G15
 Apply|Add to My Job Cart
 
  
 
 	
-Analyst 
-Job Number: 261641 - Belgium-Mons
-Application Deadline: 06-Nov-2026, 10:59:00 PM  
-NATO Body: Supreme Headquarters Allied Powers Europe (SHAPE) - Grade: NATO Grade G15
+Analyst (Operations Assessment Collective Training Requirement) 
+Job Number: 261601 - Türkiye-Izmir
+Application Deadline: 30-Oct-2026, 10:59:00 PM  
+NATO Body: Headquarters Allied Land Command (HQ LANDCOM) - Grade: NATO Grade G15
 Apply|Add to My Job Cart
 
  
