@@ -393,5 +393,41 @@
     "was_match": false,
     "matched_keywords": [],
     "removed_at": "2026-10-06T07:11:46.781198+00:00"
+  },
+  {
+    "job_number": "261272",
+    "title": "Deputy Chief Information Officer",
+    "location": "Belgium-Brussels, Belgium-Mons",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261272",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G22",
+    "first_seen": "2026-10-06T11:06:45.981458+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-10-07T07:11:45.193607+00:00"
+  },
+  {
+    "job_number": "261420",
+    "title": "Chief, Product Line (3 roles)",
+    "location": "Belgium-Brussels",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261420",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G22",
+    "first_seen": "2026-10-06T11:06:45.981458+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-10-07T07:11:45.193607+00:00"
+  },
+  {
+    "job_number": "261407",
+    "title": "IKM Analyst",
+    "location": "Türkiye-Izmir",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261407",
+    "org": "Headquarters Allied Land Command (HQ LANDCOM)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-06T11:06:45.981458+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-10-07T07:11:45.193607+00:00"
   }
 ]
