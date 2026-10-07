@@ -140,7 +140,21 @@ async function load() {
   const res = await fetch('jobs.json?_=' + Date.now());
   const data = await res.json();
   window.__jobs = data;
-  document.getElementById('summary').textContent = data.total + ' offre(s) en ligne';
+  let upd = '';
+  if (data.generated_at) {
+    const d = new Date(data.generated_at);
+    if (!isNaN(d)) {
+      upd = ' · 🔄 MAJ ' + d.toLocaleString('fr-FR', {
+        timeZone: 'Europe/Brussels', day: '2-digit', month: '2-digit',
+        hour: '2-digit', minute: '2-digit'
+      }).replace(',', ' à');
+    }
+  }
+  document.getElementById('summary').textContent = data.total + ' offre(s) en ligne' + upd;
+  document.getElementById('updated').textContent = data.generated_at
+    ? 'Dernière mise à jour : ' + new Date(data.generated_at).toLocaleString('fr-FR', {
+        timeZone: 'Europe/Brussels', dateStyle: 'full', timeStyle: 'short' })
+    : '';
 
   const matchCount = data.jobs.filter(j => j.is_new || j.match_score > 0).length;
   const badge = document.getElementById('matchBadge');
