@@ -2,34 +2,6 @@
   "total": 57,
   "jobs": [
     {
-      "job_number": "261630",
-      "title": "Chief of Staff, NATO Advisory and Liaison Team (NALT)",
-      "location": "Kosovo-Pristina",
-      "deadline": "21-Oct-2026, 9:59:00 PM",
-      "org": "NATO International Staff (NATO IS)",
-      "grade": "NATO Grade G22",
-      "first_seen": "2026-10-07T16:14:59.153355+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261630",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261634",
-      "title": "Staff Assistant (Civilian Personnel)",
-      "location": "Germany-Geilenkirchen",
-      "deadline": "18-Nov-2026, 10:59:00 PM",
-      "org": "HQ NAEW & C Force Geilenkirchen",
-      "grade": "NATO Grade G10",
-      "first_seen": "2026-10-07T16:14:59.153355+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261634",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261340",
       "title": "Buyer",
       "location": "Germany-Wesel",
@@ -113,6 +85,20 @@
       "first_seen": "2026-10-06T11:06:45.981458+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261506",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261630",
+      "title": "Chief of Staff, NATO Advisory and Liaison Team (NALT)",
+      "location": "Kosovo-Pristina",
+      "deadline": "21-Oct-2026, 9:59:00 PM",
+      "org": "NATO International Staff (NATO IS)",
+      "grade": "NATO Grade G22",
+      "first_seen": "2026-10-07T16:14:59.153355+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261630",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -524,6 +510,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261634",
+      "title": "Staff Assistant (Civilian Personnel)",
+      "location": "Germany-Geilenkirchen",
+      "deadline": "18-Nov-2026, 10:59:00 PM",
+      "org": "HQ NAEW & C Force Geilenkirchen",
+      "grade": "NATO Grade G10",
+      "first_seen": "2026-10-07T16:14:59.153355+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261634",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261610",
       "title": "Staff Assistant (Exercise Support)",
       "location": "Germany-Ulm",
@@ -804,5 +804,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-07T16:15:07.022438+00:00"
+  "generated_at": "2026-10-07T16:16:59.757046+00:00"
 }
