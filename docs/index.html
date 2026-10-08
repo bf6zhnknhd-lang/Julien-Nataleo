@@ -101,6 +101,7 @@
     <h1>Taleo NATO</h1>
     <p id="summary">Chargement…</p>
   </div>
+  <button id="refreshBtn" onclick="triggerRefresh()" style="margin-left:auto;background:#0057b8;color:#fff;border:0;border-radius:10px;padding:9px 12px;font-size:13px;font-weight:600;">🔄 Actualiser</button>
 </header>
 <div class="tabs">
   <div class="tab active" data-tab="new">Nouvelles / Correspondances<span class="tab-badge" id="matchBadge" style="display:none;"></span></div>
@@ -134,6 +135,54 @@ function isDeadlineSoon(deadlineStr) {
   const d = new Date(Date.UTC(+m[3], months[m[2]] ?? 0, +m[1]));
   const days = (d - new Date()) / 86400000;
   return days >= 0 && days <= 7;
+}
+
+const GH_REPO = 'bf6zhnknhd-lang/Julien-Nataleo';
+const GH_WORKFLOW = 'check-taleo.yml';
+
+async function triggerRefresh() {
+  const btn = document.getElementById('refreshBtn');
+  let token = '';
+  try { token = localStorage.getItem('gh_token') || ''; } catch (e) {}
+  if (!token) {
+    token = (prompt('Colle ton jeton GitHub (une seule fois, il reste sur cet appareil) :') || '').trim();
+    if (!token) return;
+    try { localStorage.setItem('gh_token', token); } catch (e) {}
+  }
+  const before = window.__jobs && window.__jobs.generated_at;
+  btn.disabled = true; btn.textContent = '⏳ Lancement…';
+  try {
+    const r = await fetch(`https://api.github.com/repos/${GH_REPO}/actions/workflows/${GH_WORKFLOW}/dispatches`, {
+      method: 'POST',
+      headers: { 'Authorization': 'Bearer ' + token, 'Accept': 'application/vnd.github+json', 'Content-Type': 'application/json' },
+      body: JSON.stringify({ ref: 'main' })
+    });
+    if (r.status === 401 || r.status === 403 || r.status === 404) {
+      try { localStorage.removeItem('gh_token'); } catch (e) {}
+      alert('Jeton refusé (' + r.status + '). Vérifie ses droits (Actions : lecture et écriture) puis réessaie.');
+      btn.disabled = false; btn.textContent = '🔄 Actualiser'; return;
+    }
+    if (r.status !== 204) throw new Error('HTTP ' + r.status);
+  } catch (e) {
+    alert('Échec du lancement : ' + e.message);
+    btn.disabled = false; btn.textContent = '🔄 Actualiser'; return;
+  }
+  // Attend la fin du run (~2-4 min) en surveillant generated_at
+  btn.textContent = '⏳ En cours (2-4 min)…';
+  for (let i = 0; i < 24; i++) {
+    await new Promise(res => setTimeout(res, 15000));
+    try {
+      const d = await (await fetch('jobs.json?_=' + Date.now(), { cache: 'no-store' })).json();
+      if (d.generated_at && d.generated_at !== before) {
+        btn.textContent = '✅ À jour';
+        await load();
+        setTimeout(() => { btn.disabled = false; btn.textContent = '🔄 Actualiser'; }, 3000);
+        return;
+      }
+    } catch (e) {}
+  }
+  btn.disabled = false; btn.textContent = '🔄 Actualiser';
+  alert('Le run prend plus de temps que prévu. Rouvre l\'appli dans quelques minutes.');
 }
 
 async function load() {
