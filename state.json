@@ -71,6 +71,14 @@
     "grade": "NATO Grade G17",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
+  "261495": {
+    "title": "Staff Officer (Technological Threat Analyst) - NATO 2030",
+    "location": "Netherlands-Brunssum",
+    "deadline": "08-Nov-2026, 10:59:00 PM",
+    "org": "Joint Force Command Brunssum (JFCBS)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-08T11:10:46.697090+00:00"
+  },
   "261424": {
     "title": "Staff Officer (Recruitment) - NATO 2030",
     "location": "Germany-Ramstein-Miesenbach",
@@ -295,6 +303,14 @@
     "grade": "NATO Grade G10",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
+  "261632": {
+    "title": "Network Engineer (LAN & WAN)",
+    "location": "Belgium-Braine l'Alleud",
+    "deadline": "22-Oct-2026, 9:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-08T11:10:46.697090+00:00"
+  },
   "261608": {
     "title": "Intelligence, Surveillance and Reconnaissance (ISR) Systems Administrator",
     "location": "Belgium-Brussels",
@@ -350,6 +366,14 @@
     "org": "Headquarters Allied Land Command (HQ LANDCOM)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
+  },
+  "261649": {
+    "title": "Engineer (MSS Developer) – Temporary Staff",
+    "location": "Germany-Ulm",
+    "deadline": "08-Nov-2026, 10:59:00 PM",
+    "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+    "grade": "NATO Grade G11",
+    "first_seen": "2026-10-08T11:10:46.697090+00:00"
   },
   "261605": {
     "title": "Engineer (Interoperability V&V)",

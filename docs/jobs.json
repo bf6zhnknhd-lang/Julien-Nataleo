@@ -1,6 +1,48 @@
 {
-  "total": 56,
+  "total": 59,
   "jobs": [
+    {
+      "job_number": "261649",
+      "title": "Engineer (MSS Developer) – Temporary Staff",
+      "location": "Germany-Ulm",
+      "deadline": "08-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+      "grade": "NATO Grade G11",
+      "first_seen": "2026-10-08T11:10:46.697090+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261649",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261632",
+      "title": "Network Engineer (LAN & WAN)",
+      "location": "Belgium-Braine l'Alleud",
+      "deadline": "22-Oct-2026, 9:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-10-08T11:10:46.697090+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261632",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261495",
+      "title": "Staff Officer (Technological Threat Analyst) - NATO 2030",
+      "location": "Netherlands-Brunssum",
+      "deadline": "08-Nov-2026, 10:59:00 PM",
+      "org": "Joint Force Command Brunssum (JFCBS)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-10-08T11:10:46.697090+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261495",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
     {
       "job_number": "261340",
       "title": "Buyer",
@@ -790,5 +832,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-08T07:13:35.360756+00:00"
+  "generated_at": "2026-10-08T11:10:54.658659+00:00"
 }
