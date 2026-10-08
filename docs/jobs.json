@@ -1,5 +1,5 @@
 {
-  "total": 57,
+  "total": 56,
   "jobs": [
     {
       "job_number": "261340",
@@ -295,20 +295,6 @@
       "first_seen": "2026-10-06T11:06:45.981458+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261608",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "260402",
-      "title": "Legal Executive Officer",
-      "location": "Belgium-Mons",
-      "deadline": "07-Oct-2026, 9:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-06T11:06:45.981458+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=260402",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -804,5 +790,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-07T17:09:12.385844+00:00"
+  "generated_at": "2026-10-08T07:13:35.360756+00:00"
 }
