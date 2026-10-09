@@ -7,8 +7,8 @@ My Job Cart|Sign In
 Job SearchMy Jobpage
 Search|Advanced Search|All Jobs
 Jobs available in:
-English (60)
-French (13)
+English (61)
+French (14)
 	
 
 
@@ -163,7 +163,7 @@ Multiple selections
 You can search for jobs in more than one job field, location and organization. After selecting a value in one of these fields, click "Add..." and make another selection.
 
 Beginning of the main content section.
-Search Results (60 jobs found)
+Search Results (61 jobs found)
 Results per page
 5
 10
@@ -175,6 +175,15 @@ Job Title (Ascending Order)
 Job Title (Descending Order)
 Location (Ascending Order)
 Location (Descending Order)
+
+	
+Engineer (Digital Infrastructure) 
+Job Number: 261579 - Ukraine-Kyiv
+Application Deadline: 11-Oct-2026, 9:59:00 PM  
+NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G15
+Apply|Add to My Job Cart
+
+ 
 
 	
 Defence Industrial Capacity Analyst 

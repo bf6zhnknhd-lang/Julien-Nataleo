@@ -1,6 +1,20 @@
 {
-  "total": 60,
+  "total": 61,
   "jobs": [
+    {
+      "job_number": "261645",
+      "title": "Officer, Partnerships",
+      "location": "Belgium-Brussels",
+      "deadline": "11-Nov-2026, 10:59:00 PM",
+      "org": "Science and Technology Organization (STO)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-10-09T15:11:28.460945+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261645",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
     {
       "job_number": "261340",
       "title": "Buyer",
@@ -846,5 +860,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-09T12:13:31.363995+00:00"
+  "generated_at": "2026-10-09T15:11:36.336046+00:00"
 }
