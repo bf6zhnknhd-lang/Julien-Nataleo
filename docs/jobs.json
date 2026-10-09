@@ -2,20 +2,6 @@
   "total": 60,
   "jobs": [
     {
-      "job_number": "261629",
-      "title": "Head, Strategic Analysis and Reporting Unit",
-      "location": "Belgium-Brussels",
-      "deadline": "08-Nov-2026, 10:59:00 PM",
-      "org": "NATO International Staff (NATO IS)",
-      "grade": "NATO Grade G15-G17",
-      "first_seen": "2026-10-09T11:10:52.203602+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261629",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261340",
       "title": "Buyer",
       "location": "Germany-Wesel",
@@ -309,6 +295,20 @@
       "first_seen": "2026-10-06T11:06:45.981458+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261419",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261629",
+      "title": "Head, Strategic Analysis and Reporting Unit",
+      "location": "Belgium-Brussels",
+      "deadline": "08-Nov-2026, 10:59:00 PM",
+      "org": "NATO International Staff (NATO IS)",
+      "grade": "NATO Grade G15-G17",
+      "first_seen": "2026-10-09T11:10:52.203602+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261629",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -846,5 +846,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-09T11:11:01.078516+00:00"
+  "generated_at": "2026-10-09T12:13:31.363995+00:00"
 }
