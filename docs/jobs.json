@@ -1,5 +1,5 @@
 {
-  "total": 60,
+  "total": 56,
   "jobs": [
     {
       "job_number": "261340",
@@ -482,20 +482,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261473",
-      "title": "SA (2030 OPFOR Sustainment Expert)",
-      "location": "Norway-Stavanger",
-      "deadline": "10-Oct-2026, 9:59:00 PM",
-      "org": "Joint Warfare Centre (JWC)",
-      "grade": "NATO Grade G12",
-      "first_seen": "2026-10-06T11:06:45.981458+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261473",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261626",
       "title": "SA (2030 Wargaming Advisor) / SA (2030 Wargaming Advisor Air Operations)",
       "location": "Norway-Stavanger",
@@ -524,20 +510,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261497",
-      "title": "Senior Analyst (Russia Cyber Domain/Red Team)",
-      "location": "Belgium-Mons",
-      "deadline": "10-Oct-2026, 9:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G17",
-      "first_seen": "2026-10-06T11:06:45.981458+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261497",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261634",
       "title": "Staff Assistant (Civilian Personnel)",
       "location": "Germany-Geilenkirchen",
@@ -561,20 +533,6 @@
       "first_seen": "2026-10-06T11:06:45.981458+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261610",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261485",
-      "title": "Staff Assistant (Functional Area Services)",
-      "location": "Türkiye-Izmir",
-      "deadline": "10-Oct-2026, 9:59:00 PM",
-      "org": "Headquarters Allied Land Command (HQ LANDCOM)",
-      "grade": "NATO Grade G10",
-      "first_seen": "2026-10-06T11:06:45.981458+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261485",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -762,20 +720,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261483",
-      "title": "Staff Officer TOPFAS OPT - NATO 2030",
-      "location": "Belgium-Mons",
-      "deadline": "10-Oct-2026, 9:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-06T11:06:45.981458+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261483",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "250739",
       "title": "Temporary Staff (DIANA)",
       "location": "United Kingdom-London, EE-Tallinn, CA-Halifax",
@@ -846,5 +790,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-10T15:08:42.170447+00:00"
+  "generated_at": "2026-10-11T07:11:13.053697+00:00"
 }

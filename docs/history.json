@@ -453,5 +453,53 @@
     "was_match": false,
     "matched_keywords": [],
     "removed_at": "2026-10-10T07:10:08.864378+00:00"
+  },
+  {
+    "job_number": "261485",
+    "title": "Staff Assistant (Functional Area Services)",
+    "location": "Türkiye-Izmir",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261485",
+    "org": "Headquarters Allied Land Command (HQ LANDCOM)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-10-06T11:06:45.981458+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-10-11T07:11:03.827675+00:00"
+  },
+  {
+    "job_number": "261483",
+    "title": "Staff Officer TOPFAS OPT - NATO 2030",
+    "location": "Belgium-Mons",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261483",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-06T11:06:45.981458+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-10-11T07:11:03.827675+00:00"
+  },
+  {
+    "job_number": "261497",
+    "title": "Senior Analyst (Russia Cyber Domain/Red Team)",
+    "location": "Belgium-Mons",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261497",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G17",
+    "first_seen": "2026-10-06T11:06:45.981458+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-10-11T07:11:03.827675+00:00"
+  },
+  {
+    "job_number": "261473",
+    "title": "SA (2030 OPFOR Sustainment Expert)",
+    "location": "Norway-Stavanger",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261473",
+    "org": "Joint Warfare Centre (JWC)",
+    "grade": "NATO Grade G12",
+    "first_seen": "2026-10-06T11:06:45.981458+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-10-11T07:11:03.827675+00:00"
   }
 ]
