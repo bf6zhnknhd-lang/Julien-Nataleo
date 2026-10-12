@@ -79,6 +79,14 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
+  "261663": {
+    "title": "Staff Officer (Lessons Learned)",
+    "location": "Germany-Ulm",
+    "deadline": "11-Nov-2026, 10:59:00 PM",
+    "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-12T15:14:50.544692+00:00"
+  },
   "261635": {
     "title": "Staff Officer (Joint Enabling Defence Planning)",
     "location": "Belgium-Mons",
@@ -127,6 +135,14 @@
     "grade": "NATO Grade G17",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
+  "261668": {
+    "title": "Staff Officer (Current Intelligence)",
+    "location": "Germany-Ulm",
+    "deadline": "11-Nov-2026, 10:59:00 PM",
+    "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-12T15:14:50.544692+00:00"
+  },
   "261611": {
     "title": "Staff Officer (Change Management)",
     "location": "United States of America-Norfolk",
@@ -134,6 +150,14 @@
     "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
     "grade": "NATO Grade G17",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
+  },
+  "261665": {
+    "title": "Staff Assistant (Security and CI)",
+    "location": "Germany-Ulm",
+    "deadline": "11-Nov-2026, 10:59:00 PM",
+    "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+    "grade": "NATO Grade G12",
+    "first_seen": "2026-10-12T15:14:50.544692+00:00"
   },
   "261644": {
     "title": "Staff Assistant (Fire Prevention/First Response) Administration (3 Positions)",
@@ -166,6 +190,14 @@
     "org": "Joint Force Command Naples (JFCNP)",
     "grade": "LWR",
     "first_seen": "2026-10-12T07:18:23.718350+00:00"
+  },
+  "261664": {
+    "title": "Staff Assistant (Collation)",
+    "location": "Germany-Ulm",
+    "deadline": "11-Nov-2026, 10:59:00 PM",
+    "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-10-12T15:14:50.544692+00:00"
   },
   "261634": {
     "title": "Staff Assistant (Civilian Personnel)",

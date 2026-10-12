@@ -1,6 +1,62 @@
 {
-  "total": 51,
+  "total": 55,
   "jobs": [
+    {
+      "job_number": "261664",
+      "title": "Staff Assistant (Collation)",
+      "location": "Germany-Ulm",
+      "deadline": "11-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+      "grade": "NATO Grade G10",
+      "first_seen": "2026-10-12T15:14:50.544692+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261664",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261665",
+      "title": "Staff Assistant (Security and CI)",
+      "location": "Germany-Ulm",
+      "deadline": "11-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+      "grade": "NATO Grade G12",
+      "first_seen": "2026-10-12T15:14:50.544692+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261665",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261668",
+      "title": "Staff Officer (Current Intelligence)",
+      "location": "Germany-Ulm",
+      "deadline": "11-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-10-12T15:14:50.544692+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261668",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261663",
+      "title": "Staff Officer (Lessons Learned)",
+      "location": "Germany-Ulm",
+      "deadline": "11-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-10-12T15:14:50.544692+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261663",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
     {
       "job_number": "261486",
       "title": "Staff Assistant (Finance) - NATO 2030",
@@ -718,5 +774,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-12T11:13:03.013004+00:00"
+  "generated_at": "2026-10-12T15:14:55.512134+00:00"
 }

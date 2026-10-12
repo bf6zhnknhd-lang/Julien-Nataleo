@@ -7,7 +7,7 @@ My Job Cart|Sign In
 Job SearchMy Jobpage
 Search|Advanced Search|All Jobs
 Jobs available in:
-English (51)
+English (55)
 French (12)
 	
 
@@ -163,7 +163,7 @@ Multiple selections
 You can search for jobs in more than one job field, location and organization. After selecting a value in one of these fields, click "Add..." and make another selection.
 
 Beginning of the main content section.
-Search Results (51 jobs found)
+Search Results (55 jobs found)
 Results per page
 5
 10
@@ -175,6 +175,42 @@ Job Title (Ascending Order)
 Job Title (Descending Order)
 Location (Ascending Order)
 Location (Descending Order)
+
+	
+Commercial Operations Officer 
+Job Number: 261599 - CA-Halifax
+Application Deadline: 31-Oct-2026, 10:59:00 PM  
+NATO Body: Defence Innovation Accelerator for the North Atlantic (DIANA) - Grade: NATO Grade G15
+Apply|Add to My Job Cart
+
+ 
+
+	
+Branch Head (Requirements Management) 
+Job Number: 261506 - Germany-Geilenkirchen
+Application Deadline: 03-Nov-2026, 10:59:00 PM  
+NATO Body: HQ NAEW & C Force Geilenkirchen - Grade: NATO Grade G17
+Apply|Add to My Job Cart
+
+ 
+
+	
+Assistant (Purchasing and Contracting) 
+Job Number: 261472 - France-Paris
+Application Deadline: 18-Oct-2026, 9:59:00 PM  
+NATO Body: Collaboration Support Office (CSO) - Grade: NATO Grade G10
+Apply|Add to My Job Cart
+
+ 
+
+	
+Analyst (Political and Security Analysis) 
+Job Number: 261641 - Belgium-Mons
+Application Deadline: 06-Nov-2026, 10:59:00 PM  
+NATO Body: Supreme Headquarters Allied Powers Europe (SHAPE) - Grade: NATO Grade G15
+Apply|Add to My Job Cart
+
+ 
 
 	
 Analyst (Operations Assessment Collective Training Requirement) 
