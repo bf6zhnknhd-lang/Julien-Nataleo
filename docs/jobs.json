@@ -1,22 +1,6 @@
 {
-  "total": 56,
+  "total": 49,
   "jobs": [
-    {
-      "job_number": "261340",
-      "title": "Buyer",
-      "location": "Germany-Wesel",
-      "deadline": "11-Oct-2026, 9:59:00 PM",
-      "org": "Joint Force Command Brunssum (JFCBS)",
-      "grade": "NATO Grade G10",
-      "first_seen": "2026-10-06T11:06:45.981458+00:00",
-      "salary": "5,260.65Euro (EUR) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261340",
-      "is_new": false,
-      "match_score": 2,
-      "matched_keywords": [
-        "buyer"
-      ]
-    },
     {
       "job_number": "261486",
       "title": "Staff Assistant (Finance) - NATO 2030",
@@ -160,20 +144,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261579",
-      "title": "Engineer (Digital Infrastructure)",
-      "location": "Ukraine-Kyiv",
-      "deadline": "11-Oct-2026, 9:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-06T11:06:45.981458+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261579",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261605",
       "title": "Engineer (Interoperability V&V)",
       "location": "United States of America-Norfolk",
@@ -197,20 +167,6 @@
       "first_seen": "2026-10-08T11:10:46.697090+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261649",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261488",
-      "title": "Engineer Resource and Logistic Specialist",
-      "location": "Türkiye-Izmir",
-      "deadline": "11-Oct-2026, 9:59:00 PM",
-      "org": "Headquarters Allied Land Command (HQ LANDCOM)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-06T11:06:45.981458+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261488",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -356,20 +312,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261457",
-      "title": "Officer, Business Management Systems",
-      "location": "Belgium-Brussels",
-      "deadline": "11-Oct-2026, 9:59:00 PM",
-      "org": "NATO International Staff (NATO IS)",
-      "grade": "NATO Grade G11-G15",
-      "first_seen": "2026-10-06T11:06:45.981458+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261457",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261500",
       "title": "Officer, Defence Industrial Capacity",
       "location": "Belgium-Brussels",
@@ -407,20 +349,6 @@
       "first_seen": "2026-10-09T15:11:28.460945+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261645",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261504",
-      "title": "Officer, Risk Management",
-      "location": "Belgium-Brussels",
-      "deadline": "11-Oct-2026, 9:59:00 PM",
-      "org": "NATO International Staff (NATO IS)",
-      "grade": "NATO Grade G17-G20",
-      "first_seen": "2026-10-06T11:06:45.981458+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261504",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -533,20 +461,6 @@
       "first_seen": "2026-10-06T11:06:45.981458+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261610",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261489",
-      "title": "Staff Assistant - (Wargaming / Modelling and Simulation Facilitator)",
-      "location": "United Kingdom-Northwood",
-      "deadline": "11-Oct-2026, 9:59:00 PM",
-      "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
-      "grade": "NATO Grade G10",
-      "first_seen": "2026-10-06T11:06:45.981458+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261489",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -706,20 +620,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261490",
-      "title": "Staff Officer - (Wargaming / Modelling and Simulation Facilitator)",
-      "location": "United Kingdom-Northwood",
-      "deadline": "11-Oct-2026, 9:59:00 PM",
-      "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-06T11:06:45.981458+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261490",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "250739",
       "title": "Temporary Staff (DIANA)",
       "location": "United Kingdom-London, EE-Tallinn, CA-Halifax",
@@ -790,5 +690,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-11T15:08:30.494693+00:00"
+  "generated_at": "2026-10-12T06:06:03.264528+00:00"
 }

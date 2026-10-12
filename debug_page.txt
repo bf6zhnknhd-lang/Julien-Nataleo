@@ -7,8 +7,8 @@ My Job Cart|Sign In
 Job SearchMy Jobpage
 Search|Advanced Search|All Jobs
 Jobs available in:
-English (56)
-French (14)
+English (49)
+French (12)
 	
 
 
@@ -163,7 +163,7 @@ Multiple selections
 You can search for jobs in more than one job field, location and organization. After selecting a value in one of these fields, click "Add..." and make another selection.
 
 Beginning of the main content section.
-Search Results (56 jobs found)
+Search Results (49 jobs found)
 Results per page
 5
 10
@@ -177,19 +177,181 @@ Location (Ascending Order)
 Location (Descending Order)
 
 	
-Commercial Operations Officer 
-Job Number: 261599 - CA-Halifax
-Application Deadline: 31-Oct-2026, 10:59:00 PM  
-NATO Body: Defence Innovation Accelerator for the North Atlantic (DIANA) - Grade: NATO Grade G15
+Principal Project Managers (Multiple Posts Available) - Brussels and The Hague  
+Job Number: 261523 - Belgium-Brussels, Netherlands-The Hague
+Application Deadline: 12-Oct-2026, 9:59:00 PM  
+NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G20
 Apply|Add to My Job Cart
 
  
 
 	
-Buyer 
-Job Number: 261340 - Germany-Wesel
-Application Deadline: 11-Oct-2026, 9:59:00 PM  
-NATO Body: Joint Force Command Brunssum (JFCBS) - Grade: NATO Grade G10
+Officer, Partnerships 
+Job Number: 261645 - Belgium-Brussels
+Application Deadline: 11-Nov-2026, 10:59:00 PM  
+NATO Body: Science and Technology Organization (STO) - Grade: NATO Grade G15
+Apply|Add to My Job Cart
+
+ 
+
+	
+Officer, NATO Satellite Office (NASO) Coordination 
+Job Number: 261607 - Belgium-Brussels
+Application Deadline: 03-Nov-2026, 10:59:00 PM  
+NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G15-G17
+Apply|Add to My Job Cart
+
+ 
+
+	
+Officer, Defence Industrial Capacity 
+Job Number: 261500 - Belgium-Brussels
+Application Deadline: 19-Oct-2026, 9:59:00 PM  
+NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G15-G17
+Apply|Add to My Job Cart
+
+ 
+
+	
+Officer, AFSC and Multinational Capability Delivery 
+Job Number: 261487 - Belgium-Brussels
+Application Deadline: 25-Oct-2026, 10:59:00 PM  
+NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G15-G17
+Apply|Add to My Job Cart
+
+ 
+
+	
+Office Head (Travel) 
+Job Number: 261521 - United States of America-Norfolk
+Application Deadline: 18-Oct-2026, 9:59:00 PM  
+NATO Body: Joint Force Command Norfolk (JFCNF) - Grade: NATO Grade G10
+Apply|Add to My Job Cart
+
+ 
+
+	
+Network Engineer (LAN & WAN) 
+Job Number: 261632 - Belgium-Braine l'Alleud
+Application Deadline: 22-Oct-2026, 9:59:00 PM  
+NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G15
+Apply|Add to My Job Cart
+
+ 
+
+	
+Intelligence, Surveillance and Reconnaissance (ISR) Systems Administrator  
+Job Number: 261608 - Belgium-Brussels
+Application Deadline: 08-Nov-2026, 10:59:00 PM  
+NATO Body: Battlefield Information Collection and Exploitation System (BICES) - Grade: NATO Grade G12
+Apply|Add to My Job Cart
+
+ 
+
+	
+Head, Strategic Analysis and Reporting Unit 
+Job Number: 261629 - Belgium-Brussels
+Application Deadline: 08-Nov-2026, 10:59:00 PM  
+NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G15-G17
+Apply|Add to My Job Cart
+
+ 
+
+	
+Head, Service Operations Branch  
+Job Number: 261419 - Germany-Uedem
+Application Deadline: 13-Oct-2026, 9:59:00 PM  
+NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G17
+Apply|Add to My Job Cart
+
+ 
+
+	
+Head of Learning Innovation and Digital Transformation 
+Job Number: 261603 - Portugal-Oeiras
+Application Deadline: 15-Oct-2026, 9:59:00 PM  
+NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G20
+Apply|Add to My Job Cart
+
+ 
+
+	
+GEOINT Data Architect 
+Job Number: 261484 - Belgium-Brussels
+Application Deadline: 18-Oct-2026, 9:59:00 PM  
+NATO Body: International Military Staff (NATO IMS) - Grade: NATO Grade G17
+Apply|Add to My Job Cart
+
+ 
+
+	
+Executive Driver 
+Job Number: 261463 - Belgium-Brussels
+Application Deadline: 12-Oct-2026, 9:59:00 PM  
+NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G4
+Apply|Add to My Job Cart
+
+ 
+
+	
+Engineering and Information Technology Division (EITD) - Temporary Staff (NATO STO-CMRE)  
+Job Number: 261640 - Italy-La Spezia
+Application Deadline: 05-Nov-2026, 10:59:00 PM  
+NATO Body: Centre for Maritime Research and Experimentation (CMRE) - Grade: TEMP
+Apply|Add to My Job Cart
+
+ 
+
+	
+Engineer (MSS Developer) – Temporary Staff 
+Job Number: 261649 - Germany-Ulm
+Application Deadline: 08-Nov-2026, 10:59:00 PM  
+NATO Body: Headquarters Allied Joint Support and Enabling Command (HQ JSEC) - Grade: NATO Grade G11
+Apply|Add to My Job Cart
+
+ 
+
+	
+Engineer (Interoperability V&V) 
+Job Number: 261605 - United States of America-Norfolk
+Application Deadline: 26-Oct-2026, 10:59:00 PM  
+NATO Body: Headquarters Supreme Allied Commander Transformation (HQ SACT) - Grade: NATO Grade G15
+Apply|Add to My Job Cart
+
+ 
+
+	
+Defence Industrial Capacity Analyst 
+Job Number: 261527 - Belgium-Brussels
+Application Deadline: 25-Oct-2026, 10:59:00 PM  
+NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G11-G15
+Apply|Add to My Job Cart
+
+ 
+
+	
+Database Manager-PLN (readvertisement) 
+Job Number: 261482 - Poland-Bydgoszcz
+Application Deadline: 18-Oct-2026, 9:59:00 PM  
+NATO Body: Joint Force Training Centre (JFTC) - Grade: NATO Grade G12
+Apply|Add to My Job Cart
+
+ 
+
+	
+Construction Security Expert 
+Job Number: 261444 - Belgium-Brussels
+Application Deadline: 02-Nov-2026, 10:59:00 PM  
+NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G12
+Apply|Add to My Job Cart
+
+ 
+
+	
+Commercial Operations Officer 
+Job Number: 261599 - CA-Halifax
+Application Deadline: 31-Oct-2026, 10:59:00 PM  
+NATO Body: Defence Innovation Accelerator for the North Atlantic (DIANA) - Grade: NATO Grade G15
 Apply|Add to My Job Cart
 
  
@@ -229,14 +391,12 @@ NATO Body: Headquarters Allied Land Command (HQ LANDCOM) - Grade: NATO Grade
 Apply|Add to My Job Cart
 
  
-Jobs - Page 3 out of 3
+Jobs - Page 2 out of 2
 Previous
 |
 1
  
 2
- 
-3
  |
 Next
 The%20list%20of%20jobs%20has%20reloaded.%20%7B0%7D%20%u2013%20%7B1%7D%20of%20%7B2%7D.%20Page%20%7B3%7D
