@@ -2,34 +2,6 @@
   "total": 51,
   "jobs": [
     {
-      "job_number": "261602",
-      "title": "Staff Assistant (Disaster and Emergency) / Security Access Control",
-      "location": "Italy-Naples",
-      "deadline": "02-Nov-2026, 10:59:00 PM",
-      "org": "Joint Force Command Naples (JFCNP)",
-      "grade": "LWR",
-      "first_seen": "2026-10-12T07:18:23.718350+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261602",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261644",
-      "title": "Staff Assistant (Fire Prevention/First Response) Administration (3 Positions)",
-      "location": "Italy-Naples",
-      "deadline": "02-Nov-2026, 10:59:00 PM",
-      "org": "Joint Force Command Naples (JFCNP)",
-      "grade": "LWR",
-      "first_seen": "2026-10-12T07:18:23.718350+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261644",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261486",
       "title": "Staff Assistant (Finance) - NATO 2030",
       "location": "Netherlands-Brunssum",
@@ -480,6 +452,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261602",
+      "title": "Staff Assistant (Disaster and Emergency) / Security Access Control",
+      "location": "Italy-Naples",
+      "deadline": "02-Nov-2026, 10:59:00 PM",
+      "org": "Joint Force Command Naples (JFCNP)",
+      "grade": "LWR",
+      "first_seen": "2026-10-12T07:18:23.718350+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261602",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261610",
       "title": "Staff Assistant (Exercise Support)",
       "location": "Germany-Ulm",
@@ -489,6 +475,20 @@
       "first_seen": "2026-10-06T11:06:45.981458+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261610",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261644",
+      "title": "Staff Assistant (Fire Prevention/First Response) Administration (3 Positions)",
+      "location": "Italy-Naples",
+      "deadline": "02-Nov-2026, 10:59:00 PM",
+      "org": "Joint Force Command Naples (JFCNP)",
+      "grade": "LWR",
+      "first_seen": "2026-10-12T07:18:23.718350+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261644",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -718,5 +718,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-12T07:18:28.547058+00:00"
+  "generated_at": "2026-10-12T11:13:03.013004+00:00"
 }
