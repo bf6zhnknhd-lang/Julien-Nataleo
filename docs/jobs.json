@@ -2,34 +2,6 @@
   "total": 53,
   "jobs": [
     {
-      "job_number": "261669",
-      "title": "Staff Officer (Cyber threats)",
-      "location": "Germany-Ulm",
-      "deadline": "11-Nov-2026, 10:59:00 PM",
-      "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-13T07:18:16.540814+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261669",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261670",
-      "title": "Staff Officer (Intelligence Analyst/Joint Threats)",
-      "location": "Germany-Ulm",
-      "deadline": "11-Nov-2026, 10:59:00 PM",
-      "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-13T07:18:16.540814+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261670",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261486",
       "title": "Staff Assistant (Finance) - NATO 2030",
       "location": "Netherlands-Brunssum",
@@ -564,6 +536,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261669",
+      "title": "Staff Officer (Cyber threats)",
+      "location": "Germany-Ulm",
+      "deadline": "11-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-10-13T07:18:16.540814+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261669",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261469",
       "title": "Staff Officer (Exercises)",
       "location": "Belgium-Mons",
@@ -587,6 +573,20 @@
       "first_seen": "2026-10-06T11:06:45.981458+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261529",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261670",
+      "title": "Staff Officer (Intelligence Analyst/Joint Threats)",
+      "location": "Germany-Ulm",
+      "deadline": "11-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-10-13T07:18:16.540814+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261670",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -746,5 +746,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-13T07:18:21.068150+00:00"
+  "generated_at": "2026-10-13T07:36:24.086937+00:00"
 }
