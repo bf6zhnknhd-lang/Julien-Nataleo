@@ -47,6 +47,14 @@
     "grade": "TEMP",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
+  "261600": {
+    "title": "Staff Officer (Wargame Designer/Support Officer) - Project Linked NIC",
+    "location": "Poland-Bydgoszcz",
+    "deadline": "15-Nov-2026, 10:59:00 PM",
+    "org": "Joint Force Training Centre (JFTC)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-13T15:14:12.203024+00:00"
+  },
   "261612": {
     "title": "Staff Officer (Treasury & Accounting Operations)",
     "location": "United States of America-Norfolk",
@@ -231,6 +239,14 @@
     "grade": "NATO Grade G12",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
+  "261662": {
+    "title": "Programme Integration Manager",
+    "location": "Belgium-Mons",
+    "deadline": "12-Nov-2026, 10:59:00 PM",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G20",
+    "first_seen": "2026-10-13T15:14:12.203024+00:00"
+  },
   "261597": {
     "title": "Programme Coordinator (3SAS)",
     "location": "Belgium-Brussels",
@@ -294,6 +310,14 @@
     "org": "NATO Communications and Information Agency (NCIA)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-08T11:10:46.697090+00:00"
+  },
+  "261643": {
+    "title": "Marine Superintendent",
+    "location": "Italy-La Spezia",
+    "deadline": "12-Nov-2026, 10:59:00 PM",
+    "org": "Centre for Maritime Research and Experimentation (CMRE)",
+    "grade": "NATO Grade G12",
+    "first_seen": "2026-10-13T15:14:12.203024+00:00"
   },
   "261608": {
     "title": "Intelligence, Surveillance and Reconnaissance (ISR) Systems Administrator",

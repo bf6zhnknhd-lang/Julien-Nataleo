@@ -1,6 +1,48 @@
 {
-  "total": 53,
+  "total": 56,
   "jobs": [
+    {
+      "job_number": "261643",
+      "title": "Marine Superintendent",
+      "location": "Italy-La Spezia",
+      "deadline": "12-Nov-2026, 10:59:00 PM",
+      "org": "Centre for Maritime Research and Experimentation (CMRE)",
+      "grade": "NATO Grade G12",
+      "first_seen": "2026-10-13T15:14:12.203024+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261643",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261662",
+      "title": "Programme Integration Manager",
+      "location": "Belgium-Mons",
+      "deadline": "12-Nov-2026, 10:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G20",
+      "first_seen": "2026-10-13T15:14:12.203024+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261662",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261600",
+      "title": "Staff Officer (Wargame Designer/Support Officer) - Project Linked NIC",
+      "location": "Poland-Bydgoszcz",
+      "deadline": "15-Nov-2026, 10:59:00 PM",
+      "org": "Joint Force Training Centre (JFTC)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-10-13T15:14:12.203024+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261600",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
     {
       "job_number": "261486",
       "title": "Staff Assistant (Finance) - NATO 2030",
@@ -746,5 +788,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-13T11:12:28.036648+00:00"
+  "generated_at": "2026-10-13T15:14:17.102900+00:00"
 }
