@@ -2,20 +2,6 @@
   "total": 56,
   "jobs": [
     {
-      "job_number": "261679",
-      "title": "CAPACITY DEVELOPMENT MEDICAL TRAINER",
-      "location": "Italy-Naples",
-      "deadline": "01-Dec-2026, 10:59:00 PM",
-      "org": "Joint Force Command Naples (JFCNP)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-15T11:22:02.349177+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261679",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261486",
       "title": "Staff Assistant (Finance) - NATO 2030",
       "location": "Netherlands-Brunssum",
@@ -83,6 +69,20 @@
       "first_seen": "2026-10-06T11:06:45.981458+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261506",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261679",
+      "title": "CAPACITY DEVELOPMENT MEDICAL TRAINER",
+      "location": "Italy-Naples",
+      "deadline": "01-Dec-2026, 10:59:00 PM",
+      "org": "Joint Force Command Naples (JFCNP)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-10-15T11:22:02.349177+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261679",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -595,7 +595,7 @@
       "job_number": "261529",
       "title": "Staff Officer (Industrial Security)",
       "location": "Norway-Stavanger",
-      "deadline": "24-Oct-2026, 9:59:00 PM",
+      "deadline": "25-Oct-2026, 10:59:00 PM",
       "org": "Joint Warfare Centre (JWC)",
       "grade": "NATO Grade G15",
       "first_seen": "2026-10-06T11:06:45.981458+00:00",
@@ -788,5 +788,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-15T11:22:07.126337+00:00"
+  "generated_at": "2026-10-15T15:26:27.555789+00:00"
 }
