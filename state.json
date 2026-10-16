@@ -223,6 +223,22 @@
     "grade": "NATO Grade G10",
     "first_seen": "2026-10-07T16:14:59.153355+00:00"
   },
+  "261636": {
+    "title": "Staff Assistant (Administration) in various areas",
+    "location": "Germany-Geilenkirchen",
+    "deadline": "27-Nov-2026, 10:59:00 PM",
+    "org": "HQ NAEW & C Force Geilenkirchen",
+    "grade": "NATO Grade G8-G10",
+    "first_seen": "2026-10-16T15:11:18.015668+00:00"
+  },
+  "261525": {
+    "title": "Staff Assistant (Administration and Travel) - CAOC Uedem",
+    "location": "Germany-Uedem, Germany-Wesel",
+    "deadline": "15-Nov-2026, 10:59:00 PM",
+    "org": "Joint Force Command Brunssum (JFCBS)",
+    "grade": "NATO Grade G8",
+    "first_seen": "2026-10-16T15:11:18.015668+00:00"
+  },
   "261618": {
     "title": "SA (2030 Wargaming Advisor) / SA (2030 Wargaming Advisor Maritime Operations)",
     "location": "Norway",
@@ -378,7 +394,7 @@
   "261482": {
     "title": "Database Manager-PLN (readvertisement)",
     "location": "Poland-Bydgoszcz",
-    "deadline": "18-Oct-2026, 9:59:00 PM",
+    "deadline": "25-Oct-2026, 10:59:00 PM",
     "org": "Joint Force Training Centre (JFTC)",
     "grade": "NATO Grade G12",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
