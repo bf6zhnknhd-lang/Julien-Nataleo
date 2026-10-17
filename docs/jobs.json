@@ -2,36 +2,6 @@
   "total": 57,
   "jobs": [
     {
-      "job_number": "261525",
-      "title": "Staff Assistant (Administration and Travel) - CAOC Uedem",
-      "location": "Germany-Uedem, Germany-Wesel",
-      "deadline": "15-Nov-2026, 10:59:00 PM",
-      "org": "Joint Force Command Brunssum (JFCBS)",
-      "grade": "NATO Grade G8",
-      "first_seen": "2026-10-16T15:11:18.015668+00:00",
-      "salary": "4,668.56Euro (EUR) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261525",
-      "is_new": true,
-      "match_score": 1,
-      "matched_keywords": [
-        "travel"
-      ]
-    },
-    {
-      "job_number": "261636",
-      "title": "Staff Assistant (Administration) in various areas",
-      "location": "Germany-Geilenkirchen",
-      "deadline": "27-Nov-2026, 10:59:00 PM",
-      "org": "HQ NAEW & C Force Geilenkirchen",
-      "grade": "NATO Grade G8-G10",
-      "first_seen": "2026-10-16T15:11:18.015668+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261636",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261486",
       "title": "Staff Assistant (Finance) - NATO 2030",
       "location": "Netherlands-Brunssum",
@@ -45,6 +15,22 @@
       "match_score": 2,
       "matched_keywords": [
         "finance"
+      ]
+    },
+    {
+      "job_number": "261525",
+      "title": "Staff Assistant (Administration and Travel) - CAOC Uedem",
+      "location": "Germany-Uedem, Germany-Wesel",
+      "deadline": "15-Nov-2026, 10:59:00 PM",
+      "org": "Joint Force Command Brunssum (JFCBS)",
+      "grade": "NATO Grade G8",
+      "first_seen": "2026-10-16T15:11:18.015668+00:00",
+      "salary": "4,668.56Euro (EUR) Monthly",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261525",
+      "is_new": false,
+      "match_score": 1,
+      "matched_keywords": [
+        "travel"
       ]
     },
     {
@@ -440,6 +426,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261636",
+      "title": "Staff Assistant (Administration) in various areas",
+      "location": "Germany-Geilenkirchen",
+      "deadline": "27-Nov-2026, 10:59:00 PM",
+      "org": "HQ NAEW & C Force Geilenkirchen",
+      "grade": "NATO Grade G8-G10",
+      "first_seen": "2026-10-16T15:11:18.015668+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261636",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261634",
       "title": "Staff Assistant (Civilian Personnel)",
       "location": "Germany-Geilenkirchen",
@@ -804,5 +804,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-16T15:11:25.797215+00:00"
+  "generated_at": "2026-10-17T11:20:57.893815+00:00"
 }
