@@ -659,5 +659,53 @@
     "was_match": false,
     "matched_keywords": [],
     "removed_at": "2026-10-16T07:29:55.529314+00:00"
+  },
+  {
+    "job_number": "261484",
+    "title": "GEOINT Data Architect",
+    "location": "Belgium-Brussels",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261484",
+    "org": "International Military Staff (NATO IMS)",
+    "grade": "NATO Grade G17",
+    "first_seen": "2026-10-06T11:06:45.981458+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-10-19T06:18:59.269897+00:00"
+  },
+  {
+    "job_number": "261619",
+    "title": "Principal Technician (ICT Systems)",
+    "location": "United Kingdom-Northwood",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261619",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G12",
+    "first_seen": "2026-10-06T11:06:45.981458+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-10-19T06:18:59.269897+00:00"
+  },
+  {
+    "job_number": "261521",
+    "title": "Office Head (Travel)",
+    "location": "United States of America-Norfolk",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261521",
+    "org": "Joint Force Command Norfolk (JFCNF)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-10-06T11:06:45.981458+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-10-19T06:18:59.269897+00:00"
+  },
+  {
+    "job_number": "261472",
+    "title": "Assistant (Purchasing and Contracting)",
+    "location": "France-Paris",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261472",
+    "org": "Collaboration Support Office (CSO)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-10-06T11:06:45.981458+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-10-19T06:18:59.269897+00:00"
   }
 ]
