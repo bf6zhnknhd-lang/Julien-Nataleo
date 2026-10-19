@@ -1,58 +1,16 @@
 {
-  "total": 59,
+  "total": 60,
   "jobs": [
     {
-      "job_number": "261684",
-      "title": "Cyber Security Defender (SIEM & Splunk)",
-      "location": "Belgium-Mons",
-      "deadline": "08-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-19T14:18:58.994104+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261684",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261674",
-      "title": "Officer, Communications",
-      "location": "Belgium-Brussels",
-      "deadline": "17-Nov-2026, 10:59:00 PM",
-      "org": "Science and Technology Organization (STO)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-19T14:18:58.994104+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261674",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261659",
-      "title": "Requirements Mgr (Interop Stnd Implement Profiles)",
+      "job_number": "261647",
+      "title": "Project Coordinator (OLCM)",
       "location": "United States of America-Norfolk",
       "deadline": "09-Nov-2026, 10:59:00 PM",
       "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-19T14:18:58.994104+00:00",
+      "grade": "NATO Grade G17",
+      "first_seen": "2026-10-19T20:20:52.803938+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261659",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261648",
-      "title": "Staff Officer (Data Fusion Proj Mgr-Joint Ops Doc)",
-      "location": "United States of America-Norfolk",
-      "deadline": "09-Nov-2026, 10:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-19T14:18:58.994104+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261648",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261647",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
@@ -183,6 +141,20 @@
       "first_seen": "2026-10-06T11:06:45.981458+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261444",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261684",
+      "title": "Cyber Security Defender (SIEM & Splunk)",
+      "location": "Belgium-Mons",
+      "deadline": "08-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-10-19T14:18:58.994104+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261684",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -342,6 +314,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261674",
+      "title": "Officer, Communications",
+      "location": "Belgium-Brussels",
+      "deadline": "17-Nov-2026, 10:59:00 PM",
+      "org": "Science and Technology Organization (STO)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-10-19T14:18:58.994104+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261674",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261500",
       "title": "Officer, Defence Industrial Capacity",
       "location": "Belgium-Brussels",
@@ -421,6 +407,20 @@
       "first_seen": "2026-10-13T15:14:12.203024+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261662",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261659",
+      "title": "Requirements Mgr (Interop Stnd Implement Profiles)",
+      "location": "United States of America-Norfolk",
+      "deadline": "09-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-10-19T14:18:58.994104+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261659",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -617,6 +617,20 @@
       "first_seen": "2026-10-13T07:18:16.540814+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261669",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261648",
+      "title": "Staff Officer (Data Fusion Proj Mgr-Joint Ops Doc)",
+      "location": "United States of America-Norfolk",
+      "deadline": "09-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-10-19T14:18:58.994104+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261648",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -832,5 +846,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-19T14:19:06.746035+00:00"
+  "generated_at": "2026-10-19T20:21:00.659617+00:00"
 }
