@@ -1,16 +1,44 @@
 {
-  "total": 60,
+  "total": 61,
   "jobs": [
     {
-      "job_number": "261647",
-      "title": "Project Coordinator (OLCM)",
+      "job_number": "261656",
+      "title": "Senior IPS Engineer",
+      "location": "Netherlands-The Hague",
+      "deadline": "03-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G17",
+      "first_seen": "2026-10-20T12:31:33.921599+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261656",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261687",
+      "title": "Senior Solution Engineer",
+      "location": "Netherlands-The Hague",
+      "deadline": "03-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G17",
+      "first_seen": "2026-10-20T12:31:33.921599+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261687",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261604",
+      "title": "Senior Staff Officer (Portfolio Planning & Analysis)",
       "location": "United States of America-Norfolk",
-      "deadline": "09-Nov-2026, 10:59:00 PM",
+      "deadline": "10-Nov-2026, 10:59:00 PM",
       "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
       "grade": "NATO Grade G17",
-      "first_seen": "2026-10-19T20:20:52.803938+00:00",
+      "first_seen": "2026-10-20T12:31:33.921599+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261647",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261604",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
@@ -328,20 +356,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261500",
-      "title": "Officer, Defence Industrial Capacity",
-      "location": "Belgium-Brussels",
-      "deadline": "19-Oct-2026, 9:59:00 PM",
-      "org": "NATO International Staff (NATO IS)",
-      "grade": "NATO Grade G15-G17",
-      "first_seen": "2026-10-06T11:06:45.981458+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261500",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261607",
       "title": "Officer, NATO Satellite Office (NASO) Coordination",
       "location": "Belgium-Brussels",
@@ -407,6 +421,20 @@
       "first_seen": "2026-10-13T15:14:12.203024+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261662",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261647",
+      "title": "Project Coordinator (OLCM)",
+      "location": "United States of America-Norfolk",
+      "deadline": "09-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G17",
+      "first_seen": "2026-10-19T20:20:52.803938+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261647",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -547,20 +575,6 @@
       "first_seen": "2026-10-12T15:14:50.544692+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261665",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261611",
-      "title": "Staff Officer (Change Management)",
-      "location": "United States of America-Norfolk",
-      "deadline": "19-Oct-2026, 9:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G17",
-      "first_seen": "2026-10-06T11:06:45.981458+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261611",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -846,5 +860,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-19T20:21:00.659617+00:00"
+  "generated_at": "2026-10-20T12:31:42.634001+00:00"
 }
