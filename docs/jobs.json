@@ -2,48 +2,6 @@
   "total": 61,
   "jobs": [
     {
-      "job_number": "261656",
-      "title": "Senior IPS Engineer",
-      "location": "Netherlands-The Hague",
-      "deadline": "03-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G17",
-      "first_seen": "2026-10-20T12:31:33.921599+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261656",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261687",
-      "title": "Senior Solution Engineer",
-      "location": "Netherlands-The Hague",
-      "deadline": "03-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G17",
-      "first_seen": "2026-10-20T12:31:33.921599+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261687",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261604",
-      "title": "Senior Staff Officer (Portfolio Planning & Analysis)",
-      "location": "United States of America-Norfolk",
-      "deadline": "10-Nov-2026, 10:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G17",
-      "first_seen": "2026-10-20T12:31:33.921599+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261604",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261486",
       "title": "Staff Assistant (Finance) - NATO 2030",
       "location": "Netherlands-Brunssum",
@@ -482,6 +440,48 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261656",
+      "title": "Senior IPS Engineer",
+      "location": "Netherlands-The Hague",
+      "deadline": "03-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G17",
+      "first_seen": "2026-10-20T12:31:33.921599+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261656",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261687",
+      "title": "Senior Solution Engineer",
+      "location": "Netherlands-The Hague",
+      "deadline": "03-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G17",
+      "first_seen": "2026-10-20T12:31:33.921599+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261687",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261604",
+      "title": "Senior Staff Officer (Portfolio Planning & Analysis)",
+      "location": "United States of America-Norfolk",
+      "deadline": "10-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G17",
+      "first_seen": "2026-10-20T12:31:33.921599+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261604",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261636",
       "title": "Staff Assistant (Administration) in various areas",
       "location": "Germany-Geilenkirchen",
@@ -860,5 +860,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-20T12:31:42.634001+00:00"
+  "generated_at": "2026-10-20T18:53:48.316015+00:00"
 }
