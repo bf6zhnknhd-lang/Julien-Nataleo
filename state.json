@@ -239,6 +239,14 @@
     "grade": "NATO Grade G17",
     "first_seen": "2026-10-20T12:31:33.921599+00:00"
   },
+  "260426": {
+    "title": "Senior Logistician",
+    "location": "United States of America-Norfolk",
+    "deadline": "08-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-10-23T12:35:16.381395+00:00"
+  },
   "261656": {
     "title": "Senior IPS Engineer",
     "location": "Netherlands-The Hague",
@@ -335,13 +343,13 @@
     "grade": "NATO Grade G15-G17",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
-  "261632": {
-    "title": "Network Engineer (LAN & WAN)",
-    "location": "Belgium-Braine l'Alleud",
-    "deadline": "22-Oct-2026, 9:59:00 PM",
-    "org": "NATO Communications and Information Agency (NCIA)",
+  "261697": {
+    "title": "NSATU - TEMPORARY POST - Contract Officer",
+    "location": "Belgium-Mons",
+    "deadline": "08-Nov-2026, 10:59:00 PM",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
     "grade": "NATO Grade G15",
-    "first_seen": "2026-10-08T11:10:46.697090+00:00"
+    "first_seen": "2026-10-23T12:35:16.381395+00:00"
   },
   "261643": {
     "title": "Marine Superintendent",
