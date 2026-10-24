@@ -2,20 +2,6 @@
   "total": 61,
   "jobs": [
     {
-      "job_number": "261702",
-      "title": "Sr Contracting Officer – Complex Services (2030 P&C)",
-      "location": "Norway-Stavanger",
-      "deadline": "22-Nov-2026, 10:59:00 PM",
-      "org": "Joint Warfare Centre (JWC)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-23T18:53:26.339326+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261702",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261486",
       "title": "Staff Assistant (Finance) - NATO 2030",
       "location": "Netherlands-Brunssum",
@@ -496,6 +482,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261702",
+      "title": "Sr Contracting Officer – Complex Services (2030 P&C)",
+      "location": "Norway-Stavanger",
+      "deadline": "22-Nov-2026, 10:59:00 PM",
+      "org": "Joint Warfare Centre (JWC)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-10-23T18:53:26.339326+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261702",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261636",
       "title": "Staff Assistant (Administration) in various areas",
       "location": "Germany-Geilenkirchen",
@@ -860,5 +860,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-23T18:53:34.434354+00:00"
+  "generated_at": "2026-10-24T11:50:39.401466+00:00"
 }
