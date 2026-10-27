@@ -55,14 +55,6 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-13T15:14:12.203024+00:00"
   },
-  "261612": {
-    "title": "Staff Officer (Treasury & Accounting Operations)",
-    "location": "United States of America-Norfolk",
-    "deadline": "26-Oct-2026, 10:59:00 PM",
-    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-    "grade": "NATO Grade G17",
-    "first_seen": "2026-10-06T11:06:45.981458+00:00"
-  },
   "261495": {
     "title": "Staff Officer (Technological Threat Analyst) - NATO 2030",
     "location": "Netherlands-Brunssum",
@@ -95,14 +87,6 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-12T15:14:50.544692+00:00"
   },
-  "261635": {
-    "title": "Staff Officer (Joint Enabling Defence Planning)",
-    "location": "Belgium-Mons",
-    "deadline": "26-Oct-2026, 10:59:00 PM",
-    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-10-06T13:55:29.884203+00:00"
-  },
   "261670": {
     "title": "Staff Officer (Intelligence Analyst/Joint Threats)",
     "location": "Germany-Ulm",
@@ -126,14 +110,6 @@
     "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-13T07:18:16.540814+00:00"
-  },
-  "261628": {
-    "title": "Staff Officer (Cyber Security/Incident Response Manager)",
-    "location": "United States of America-Norfolk",
-    "deadline": "26-Oct-2026, 10:59:00 PM",
-    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
   "261606": {
     "title": "Staff Officer (Cyber Awareness)",
@@ -382,14 +358,6 @@
     "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
     "grade": "NATO Grade G11",
     "first_seen": "2026-10-08T11:10:46.697090+00:00"
-  },
-  "261605": {
-    "title": "Engineer (Interoperability V&V)",
-    "location": "United States of America-Norfolk",
-    "deadline": "26-Oct-2026, 10:59:00 PM",
-    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
   "261651": {
     "title": "Deputy Director and Chief of Staff",

@@ -841,5 +841,53 @@
     "was_match": false,
     "matched_keywords": [],
     "removed_at": "2026-10-26T11:39:23.523880+00:00"
+  },
+  {
+    "job_number": "261635",
+    "title": "Staff Officer (Joint Enabling Defence Planning)",
+    "location": "Belgium-Mons",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261635",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-06T13:55:29.884203+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-10-27T12:26:24.473032+00:00"
+  },
+  {
+    "job_number": "261612",
+    "title": "Staff Officer (Treasury & Accounting Operations)",
+    "location": "United States of America-Norfolk",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261612",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G17",
+    "first_seen": "2026-10-06T11:06:45.981458+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-10-27T12:26:24.473032+00:00"
+  },
+  {
+    "job_number": "261628",
+    "title": "Staff Officer (Cyber Security/Incident Response Manager)",
+    "location": "United States of America-Norfolk",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261628",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-06T11:06:45.981458+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-10-27T12:26:24.473032+00:00"
+  },
+  {
+    "job_number": "261605",
+    "title": "Engineer (Interoperability V&V)",
+    "location": "United States of America-Norfolk",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261605",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-06T11:06:45.981458+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-10-27T12:26:24.473032+00:00"
   }
 ]

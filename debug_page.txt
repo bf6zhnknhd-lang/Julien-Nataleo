@@ -7,7 +7,7 @@ My Job Cart|Sign In
 Job SearchMy Jobpage
 Search|Advanced Search|All Jobs
 Jobs available in:
-English (57)
+English (53)
 French (7)
 	
 
@@ -163,7 +163,7 @@ Multiple selections
 You can search for jobs in more than one job field, location and organization. After selecting a value in one of these fields, click "Add..." and make another selection.
 
 Beginning of the main content section.
-Search Results (57 jobs found)
+Search Results (53 jobs found)
 Results per page
 5
 10
@@ -175,42 +175,6 @@ Job Title (Ascending Order)
 Job Title (Descending Order)
 Location (Ascending Order)
 Location (Descending Order)
-
-	
-Cyber Security Defender (SIEM & Splunk) 
-Job Number: 261684 - Belgium-Mons
-Application Deadline: 08-Nov-2026, 10:59:00 PM  
-NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G15
-Apply|Add to My Job Cart
-
- 
-
-	
-Construction Security Expert 
-Job Number: 261444 - Belgium-Brussels
-Application Deadline: 02-Nov-2026, 10:59:00 PM  
-NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G12
-Apply|Add to My Job Cart
-
- 
-
-	
-Commercial Operations Officer 
-Job Number: 261599 - CA-Halifax
-Application Deadline: 31-Oct-2026, 10:59:00 PM  
-NATO Body: Defence Innovation Accelerator for the North Atlantic (DIANA) - Grade: NATO Grade G15
-Apply|Add to My Job Cart
-
- 
-
-	
-CAPACITY DEVELOPMENT MEDICAL TRAINER 
-Job Number: 261679 - Italy-Naples
-Application Deadline: 01-Dec-2026, 10:59:00 PM  
-NATO Body: Joint Force Command Naples (JFCNP) - Grade: NATO Grade G15
-Apply|Add to My Job Cart
-
- 
 
 	
 Branch Head (Requirements Management) 
