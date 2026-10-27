@@ -127,6 +127,14 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-12T15:14:50.544692+00:00"
   },
+  "261707": {
+    "title": "Staff Officer (Crisis Response Operations - Resilience & Readiness)",
+    "location": "Netherlands-Brunssum",
+    "deadline": "24-Nov-2026, 10:59:00 PM",
+    "org": "Joint Force Command Brunssum (JFCBS)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-27T19:48:42.570414+00:00"
+  },
   "261665": {
     "title": "Staff Assistant (Security and CI)",
     "location": "Germany-Ulm",
@@ -343,6 +351,14 @@
     "grade": "NATO Grade G10",
     "first_seen": "2026-10-26T20:28:46.321912+00:00"
   },
+  "261696": {
+    "title": "Finance & Accounting Section Head (Headquarters Support)",
+    "location": "Italy-Naples",
+    "deadline": "24-Nov-2026, 10:59:00 PM",
+    "org": "Joint Force Command Naples (JFCNP)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-27T19:48:42.570414+00:00"
+  },
   "261640": {
     "title": "Engineering and Information Technology Division (EITD) - Temporary Staff (NATO STO-CMRE)",
     "location": "Italy-La Spezia",
@@ -398,6 +414,14 @@
     "org": "Joint Force Command Naples (JFCNP)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-15T11:22:02.349177+00:00"
+  },
+  "261675": {
+    "title": "Bus / coach driver - Local Wage Rate",
+    "location": "Netherlands-Brunssum",
+    "deadline": "22-Nov-2026, 10:59:00 PM",
+    "org": "Joint Force Command Brunssum (JFCBS)",
+    "grade": "LWR",
+    "first_seen": "2026-10-27T19:48:42.570414+00:00"
   },
   "261506": {
     "title": "Branch Head (Requirements Management)",

@@ -1,6 +1,48 @@
 {
-  "total": 53,
+  "total": 56,
   "jobs": [
+    {
+      "job_number": "261675",
+      "title": "Bus / coach driver - Local Wage Rate",
+      "location": "Netherlands-Brunssum",
+      "deadline": "22-Nov-2026, 10:59:00 PM",
+      "org": "Joint Force Command Brunssum (JFCBS)",
+      "grade": "LWR",
+      "first_seen": "2026-10-27T19:48:42.570414+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261675",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261696",
+      "title": "Finance & Accounting Section Head (Headquarters Support)",
+      "location": "Italy-Naples",
+      "deadline": "24-Nov-2026, 10:59:00 PM",
+      "org": "Joint Force Command Naples (JFCNP)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-10-27T19:48:42.570414+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261696",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261707",
+      "title": "Staff Officer (Crisis Response Operations - Resilience & Readiness)",
+      "location": "Netherlands-Brunssum",
+      "deadline": "24-Nov-2026, 10:59:00 PM",
+      "org": "Joint Force Command Brunssum (JFCBS)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-10-27T19:48:42.570414+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261707",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
     {
       "job_number": "261681",
       "title": "Finance Assistant (Treasury)",
@@ -749,5 +791,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-27T12:58:01.643803+00:00"
+  "generated_at": "2026-10-27T19:48:51.311690+00:00"
 }
