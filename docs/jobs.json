@@ -1,6 +1,23 @@
 {
-  "total": 56,
+  "total": 57,
   "jobs": [
+    {
+      "job_number": "261639",
+      "title": "Analyst (Financial Management)",
+      "location": "Belgium-Mons",
+      "deadline": "25-Nov-2026, 10:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G12",
+      "first_seen": "2026-10-29T13:55:30.170116+00:00",
+      "salary": "5,393.24Euro (EUR) Monthly",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261639",
+      "is_new": true,
+      "match_score": 4,
+      "matched_keywords": [
+        "financial",
+        "financial management"
+      ]
+    },
     {
       "job_number": "261681",
       "title": "Finance Assistant (Treasury)",
@@ -791,5 +808,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-28T20:04:15.522556+00:00"
+  "generated_at": "2026-10-29T13:55:40.857462+00:00"
 }
