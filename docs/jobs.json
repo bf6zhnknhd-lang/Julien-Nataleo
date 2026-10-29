@@ -1,6 +1,48 @@
 {
-  "total": 57,
+  "total": 60,
   "jobs": [
+    {
+      "job_number": "261695",
+      "title": "Community Building and Mobility Junior Officer",
+      "location": "Belgium-Brussels",
+      "deadline": "12-Nov-2026, 10:59:00 PM",
+      "org": "NATO International Staff (NATO IS)",
+      "grade": "NATO Grade G11",
+      "first_seen": "2026-10-29T20:03:14.687209+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261695",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261693",
+      "title": "NATO HQ Community Store Lead",
+      "location": "Belgium-Brussels",
+      "deadline": "12-Nov-2026, 10:59:00 PM",
+      "org": "NATO International Staff (NATO IS)",
+      "grade": "NATO Grade G10",
+      "first_seen": "2026-10-29T20:03:14.687209+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261693",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261694",
+      "title": "Officer, Morale and Welfare",
+      "location": "Belgium-Brussels",
+      "deadline": "12-Nov-2026, 10:59:00 PM",
+      "org": "NATO International Staff (NATO IS)",
+      "grade": "NATO Grade G11-G15",
+      "first_seen": "2026-10-29T20:03:14.687209+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261694",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
     {
       "job_number": "261639",
       "title": "Analyst (Financial Management)",
@@ -11,7 +53,7 @@
       "first_seen": "2026-10-29T13:55:30.170116+00:00",
       "salary": "5,393.24Euro (EUR) Monthly",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261639",
-      "is_new": true,
+      "is_new": false,
       "match_score": 4,
       "matched_keywords": [
         "financial",
@@ -808,5 +850,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-29T13:55:40.857462+00:00"
+  "generated_at": "2026-10-29T20:03:25.366948+00:00"
 }
