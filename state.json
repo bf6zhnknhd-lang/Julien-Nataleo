@@ -95,6 +95,14 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-13T07:18:16.540814+00:00"
   },
+  "261720": {
+    "title": "Staff Officer (Information Knowledge Management)",
+    "location": "Italy-Poggio Renatico",
+    "deadline": "27-Nov-2026, 10:59:00 PM",
+    "org": "Joint Force Command Naples (JFCNP)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-30T13:49:17.837270+00:00"
+  },
   "261648": {
     "title": "Staff Officer (Data Fusion Proj Mgr-Joint Ops Doc)",
     "location": "United States of America-Norfolk",
@@ -142,6 +150,14 @@
     "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
     "grade": "NATO Grade G12",
     "first_seen": "2026-10-12T15:14:50.544692+00:00"
+  },
+  "261692": {
+    "title": "Staff Assistant (NAEW capability)",
+    "location": "Belgium-Mons",
+    "deadline": "19-Nov-2026, 10:59:00 PM",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-10-30T13:49:17.837270+00:00"
   },
   "261644": {
     "title": "Staff Assistant (Fire Prevention/First Response) Administration (3 Positions)",
@@ -278,6 +294,14 @@
     "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
     "grade": "NATO Grade G20",
     "first_seen": "2026-10-13T15:14:12.203024+00:00"
+  },
+  "261567": {
+    "title": "Principal Logistician",
+    "location": "Netherlands-Brunssum",
+    "deadline": "08-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G12",
+    "first_seen": "2026-10-30T13:49:17.837270+00:00"
   },
   "261637": {
     "title": "Principal Assistant, Personnel, Administration and Logistics",

@@ -1,44 +1,44 @@
 {
-  "total": 60,
+  "total": 63,
   "jobs": [
     {
-      "job_number": "261695",
-      "title": "Community Building and Mobility Junior Officer",
-      "location": "Belgium-Brussels",
-      "deadline": "12-Nov-2026, 10:59:00 PM",
-      "org": "NATO International Staff (NATO IS)",
-      "grade": "NATO Grade G11",
-      "first_seen": "2026-10-29T20:03:14.687209+00:00",
+      "job_number": "261567",
+      "title": "Principal Logistician",
+      "location": "Netherlands-Brunssum",
+      "deadline": "08-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G12",
+      "first_seen": "2026-10-30T13:49:17.837270+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261695",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261567",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
     },
     {
-      "job_number": "261693",
-      "title": "NATO HQ Community Store Lead",
-      "location": "Belgium-Brussels",
-      "deadline": "12-Nov-2026, 10:59:00 PM",
-      "org": "NATO International Staff (NATO IS)",
+      "job_number": "261692",
+      "title": "Staff Assistant (NAEW capability)",
+      "location": "Belgium-Mons",
+      "deadline": "19-Nov-2026, 10:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
       "grade": "NATO Grade G10",
-      "first_seen": "2026-10-29T20:03:14.687209+00:00",
+      "first_seen": "2026-10-30T13:49:17.837270+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261693",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261692",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
     },
     {
-      "job_number": "261694",
-      "title": "Officer, Morale and Welfare",
-      "location": "Belgium-Brussels",
-      "deadline": "12-Nov-2026, 10:59:00 PM",
-      "org": "NATO International Staff (NATO IS)",
-      "grade": "NATO Grade G11-G15",
-      "first_seen": "2026-10-29T20:03:14.687209+00:00",
+      "job_number": "261720",
+      "title": "Staff Officer (Information Knowledge Management)",
+      "location": "Italy-Poggio Renatico",
+      "deadline": "27-Nov-2026, 10:59:00 PM",
+      "org": "Joint Force Command Naples (JFCNP)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-10-30T13:49:17.837270+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261694",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261720",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
@@ -173,6 +173,20 @@
       "first_seen": "2026-10-06T11:06:45.981458+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261599",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261695",
+      "title": "Community Building and Mobility Junior Officer",
+      "location": "Belgium-Brussels",
+      "deadline": "12-Nov-2026, 10:59:00 PM",
+      "org": "NATO International Staff (NATO IS)",
+      "grade": "NATO Grade G11",
+      "first_seen": "2026-10-29T20:03:14.687209+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261695",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -318,6 +332,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261693",
+      "title": "NATO HQ Community Store Lead",
+      "location": "Belgium-Brussels",
+      "deadline": "12-Nov-2026, 10:59:00 PM",
+      "org": "NATO International Staff (NATO IS)",
+      "grade": "NATO Grade G10",
+      "first_seen": "2026-10-29T20:03:14.687209+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261693",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261697",
       "title": "NSATU - TEMPORARY POST - Contract Officer",
       "location": "Belgium-Mons",
@@ -341,6 +369,20 @@
       "first_seen": "2026-10-19T14:18:58.994104+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261674",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261694",
+      "title": "Officer, Morale and Welfare",
+      "location": "Belgium-Brussels",
+      "deadline": "12-Nov-2026, 10:59:00 PM",
+      "org": "NATO International Staff (NATO IS)",
+      "grade": "NATO Grade G11-G15",
+      "first_seen": "2026-10-29T20:03:14.687209+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261694",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -850,5 +892,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-29T20:03:25.366948+00:00"
+  "generated_at": "2026-10-30T13:49:29.749832+00:00"
 }
