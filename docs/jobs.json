@@ -1,44 +1,16 @@
 {
-  "total": 63,
+  "total": 64,
   "jobs": [
     {
-      "job_number": "261567",
-      "title": "Principal Logistician",
-      "location": "Netherlands-Brunssum",
+      "job_number": "261556",
+      "title": "Senior Logistician",
+      "location": "Germany-Geilenkirchen",
       "deadline": "08-Nov-2026, 10:59:00 PM",
       "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G12",
-      "first_seen": "2026-10-30T13:49:17.837270+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261567",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261692",
-      "title": "Staff Assistant (NAEW capability)",
-      "location": "Belgium-Mons",
-      "deadline": "19-Nov-2026, 10:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
       "grade": "NATO Grade G10",
-      "first_seen": "2026-10-30T13:49:17.837270+00:00",
+      "first_seen": "2026-10-30T19:50:21.857227+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261692",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261720",
-      "title": "Staff Officer (Information Knowledge Management)",
-      "location": "Italy-Poggio Renatico",
-      "deadline": "27-Nov-2026, 10:59:00 PM",
-      "org": "Joint Force Command Naples (JFCNP)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-30T13:49:17.837270+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261720",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261556",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
@@ -430,6 +402,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261567",
+      "title": "Principal Logistician",
+      "location": "Netherlands-Brunssum",
+      "deadline": "08-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G12",
+      "first_seen": "2026-10-30T13:49:17.837270+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261567",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261662",
       "title": "Programme Integration Manager",
       "location": "Belgium-Mons",
@@ -654,6 +640,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261692",
+      "title": "Staff Assistant (NAEW capability)",
+      "location": "Belgium-Mons",
+      "deadline": "19-Nov-2026, 10:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G10",
+      "first_seen": "2026-10-30T13:49:17.837270+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261692",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261665",
       "title": "Staff Assistant (Security and CI)",
       "location": "Germany-Ulm",
@@ -733,6 +733,20 @@
       "first_seen": "2026-10-19T14:18:58.994104+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261648",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261720",
+      "title": "Staff Officer (Information Knowledge Management)",
+      "location": "Italy-Poggio Renatico",
+      "deadline": "27-Nov-2026, 10:59:00 PM",
+      "org": "Joint Force Command Naples (JFCNP)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-10-30T13:49:17.837270+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261720",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -892,5 +906,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-10-30T13:49:29.749832+00:00"
+  "generated_at": "2026-10-30T19:50:32.402478+00:00"
 }
