@@ -71,14 +71,6 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
-  "261609": {
-    "title": "Staff Officer (Plans, Policy and Exercises)",
-    "location": "Germany-Ulm",
-    "deadline": "31-Oct-2026, 10:59:00 PM",
-    "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-10-06T11:06:45.981458+00:00"
-  },
   "261663": {
     "title": "Staff Officer (Lessons Learned)",
     "location": "Germany-Ulm",
@@ -119,14 +111,6 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-13T07:18:16.540814+00:00"
   },
-  "261606": {
-    "title": "Staff Officer (Cyber Awareness)",
-    "location": "Germany-Ulm",
-    "deadline": "31-Oct-2026, 10:59:00 PM",
-    "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
-    "grade": "NATO Grade G17",
-    "first_seen": "2026-10-06T11:06:45.981458+00:00"
-  },
   "261668": {
     "title": "Staff Officer (Current Intelligence)",
     "location": "Germany-Ulm",
@@ -166,14 +150,6 @@
     "org": "Joint Force Command Naples (JFCNP)",
     "grade": "LWR",
     "first_seen": "2026-10-12T07:18:23.718350+00:00"
-  },
-  "261610": {
-    "title": "Staff Assistant (Exercise Support)",
-    "location": "Germany-Ulm",
-    "deadline": "31-Oct-2026, 10:59:00 PM",
-    "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
-    "grade": "NATO Grade G12",
-    "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
   "261602": {
     "title": "Staff Assistant (Disaster and Emergency) / Security Access Control",
@@ -454,14 +430,6 @@
     "org": "NATO International Staff (NATO IS)",
     "grade": "NATO Grade G11",
     "first_seen": "2026-10-29T20:03:14.687209+00:00"
-  },
-  "261599": {
-    "title": "Commercial Operations Officer",
-    "location": "CA-Halifax",
-    "deadline": "31-Oct-2026, 10:59:00 PM",
-    "org": "Defence Innovation Accelerator for the North Atlantic (DIANA)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
   "261679": {
     "title": "CAPACITY DEVELOPMENT MEDICAL TRAINER",
