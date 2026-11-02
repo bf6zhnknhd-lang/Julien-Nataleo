@@ -2,90 +2,6 @@
   "total": 62,
   "jobs": [
     {
-      "job_number": "261713",
-      "title": "Project Initiator",
-      "location": "United States of America-Norfolk",
-      "deadline": "23-Nov-2026, 10:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-02T13:57:20.892913+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261713",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261725",
-      "title": "Section Head (Performance Management)",
-      "location": "United States of America-Norfolk",
-      "deadline": "23-Nov-2026, 10:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G17",
-      "first_seen": "2026-11-02T13:57:20.892913+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261725",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261724",
-      "title": "Staff Assistant, Requirements Coordination and Inspections",
-      "location": "Italy-Naples",
-      "deadline": "26-Nov-2026, 10:59:00 PM",
-      "org": "Joint Force Command Naples (JFCNP)",
-      "grade": "NATO Grade G12",
-      "first_seen": "2026-11-02T13:57:20.892913+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261724",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261706",
-      "title": "Staff Officer (Lessons Learned Analysis Mgt)",
-      "location": "United States of America-Norfolk",
-      "deadline": "23-Nov-2026, 10:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-02T13:57:20.892913+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261706",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261712",
-      "title": "Staff Officer (Science & Technology)",
-      "location": "United States of America-Norfolk",
-      "deadline": "23-Nov-2026, 10:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-02T13:57:20.892913+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261712",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261570",
-      "title": "Technical Coordination Officer",
-      "location": "Netherlands-Brunssum",
-      "deadline": "09-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-02T13:57:20.892913+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261570",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261639",
       "title": "Analyst (Financial Management)",
       "location": "Belgium-Mons",
@@ -486,6 +402,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261713",
+      "title": "Project Initiator",
+      "location": "United States of America-Norfolk",
+      "deadline": "23-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-02T13:57:20.892913+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261713",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261659",
       "title": "Requirements Mgr (Interop Stnd Implement Profiles)",
       "location": "United States of America-Norfolk",
@@ -495,6 +425,20 @@
       "first_seen": "2026-10-19T14:18:58.994104+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261659",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261725",
+      "title": "Section Head (Performance Management)",
+      "location": "United States of America-Norfolk",
+      "deadline": "23-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G17",
+      "first_seen": "2026-11-02T13:57:20.892913+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261725",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -682,6 +626,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261724",
+      "title": "Staff Assistant, Requirements Coordination and Inspections",
+      "location": "Italy-Naples",
+      "deadline": "26-Nov-2026, 10:59:00 PM",
+      "org": "Joint Force Command Naples (JFCNP)",
+      "grade": "NATO Grade G12",
+      "first_seen": "2026-11-02T13:57:20.892913+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261724",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261707",
       "title": "Staff Officer (Crisis Response Operations - Resilience & Readiness)",
       "location": "Netherlands-Brunssum",
@@ -766,6 +724,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261706",
+      "title": "Staff Officer (Lessons Learned Analysis Mgt)",
+      "location": "United States of America-Norfolk",
+      "deadline": "23-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-02T13:57:20.892913+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261706",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261663",
       "title": "Staff Officer (Lessons Learned)",
       "location": "Germany-Ulm",
@@ -775,6 +747,20 @@
       "first_seen": "2026-10-12T15:14:50.544692+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261663",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261712",
+      "title": "Staff Officer (Science & Technology)",
+      "location": "United States of America-Norfolk",
+      "deadline": "23-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-02T13:57:20.892913+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261712",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -803,6 +789,20 @@
       "first_seen": "2026-10-13T15:14:12.203024+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261600",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261570",
+      "title": "Technical Coordination Officer",
+      "location": "Netherlands-Brunssum",
+      "deadline": "09-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-02T13:57:20.892913+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261570",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -878,5 +878,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-11-02T13:57:33.227381+00:00"
+  "generated_at": "2026-11-02T16:48:20.618928+00:00"
 }
