@@ -1,4 +1,12 @@
 {
+  "261724": {
+    "title": "Staff Assistant, Requirements Coordination and Inspections",
+    "location": "Italy-Naples",
+    "deadline": "26-Nov-2026, 10:59:00 PM",
+    "org": "Joint Force Command Naples (JFCNP)",
+    "grade": "NATO Grade G12",
+    "first_seen": "2026-11-02T13:57:20.892913+00:00"
+  },
   "261690": {
     "title": "Head, Operations and Strategic Capabilities (Civil Engineering)",
     "location": "Belgium-Brussels",
@@ -47,6 +55,14 @@
     "grade": "TEMP",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
+  "261570": {
+    "title": "Technical Coordination Officer",
+    "location": "Netherlands-Brunssum",
+    "deadline": "09-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-02T13:57:20.892913+00:00"
+  },
   "261600": {
     "title": "Staff Officer (Wargame Designer/Support Officer) - Project Linked NIC",
     "location": "Poland-Bydgoszcz",
@@ -63,13 +79,13 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-08T11:10:46.697090+00:00"
   },
-  "261424": {
-    "title": "Staff Officer (Recruitment) - NATO 2030",
-    "location": "Germany-Ramstein-Miesenbach",
-    "deadline": "01-Nov-2026, 10:59:00 PM",
-    "org": "Headquarters Allied Air Command (HQ AIRCOM)",
+  "261712": {
+    "title": "Staff Officer (Science & Technology)",
+    "location": "United States of America-Norfolk",
+    "deadline": "23-Nov-2026, 10:59:00 PM",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
     "grade": "NATO Grade G15",
-    "first_seen": "2026-10-06T11:06:45.981458+00:00"
+    "first_seen": "2026-11-02T13:57:20.892913+00:00"
   },
   "261663": {
     "title": "Staff Officer (Lessons Learned)",
@@ -78,6 +94,14 @@
     "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-12T15:14:50.544692+00:00"
+  },
+  "261706": {
+    "title": "Staff Officer (Lessons Learned Analysis Mgt)",
+    "location": "United States of America-Norfolk",
+    "deadline": "23-Nov-2026, 10:59:00 PM",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-02T13:57:20.892913+00:00"
   },
   "261670": {
     "title": "Staff Officer (Intelligence Analyst/Joint Threats)",
@@ -239,21 +263,13 @@
     "grade": "NATO Grade G17",
     "first_seen": "2026-10-20T12:31:33.921599+00:00"
   },
-  "261618": {
-    "title": "SA (2030 Wargaming Advisor) / SA (2030 Wargaming Advisor Maritime Operations)",
-    "location": "Norway",
-    "deadline": "01-Nov-2026, 10:59:00 PM",
-    "org": "Joint Warfare Centre (JWC)",
-    "grade": "NATO Grade G12",
-    "first_seen": "2026-10-06T11:06:45.981458+00:00"
-  },
-  "261626": {
-    "title": "SA (2030 Wargaming Advisor) / SA (2030 Wargaming Advisor Air Operations)",
-    "location": "Norway-Stavanger",
-    "deadline": "01-Nov-2026, 10:59:00 PM",
-    "org": "Joint Warfare Centre (JWC)",
-    "grade": "NATO Grade G12",
-    "first_seen": "2026-10-06T11:06:45.981458+00:00"
+  "261725": {
+    "title": "Section Head (Performance Management)",
+    "location": "United States of America-Norfolk",
+    "deadline": "23-Nov-2026, 10:59:00 PM",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G17",
+    "first_seen": "2026-11-02T13:57:20.892913+00:00"
   },
   "261659": {
     "title": "Requirements Mgr (Interop Stnd Implement Profiles)",
@@ -262,6 +278,14 @@
     "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-19T14:18:58.994104+00:00"
+  },
+  "261713": {
+    "title": "Project Initiator",
+    "location": "United States of America-Norfolk",
+    "deadline": "23-Nov-2026, 10:59:00 PM",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-02T13:57:20.892913+00:00"
   },
   "261647": {
     "title": "Project Coordinator (OLCM)",

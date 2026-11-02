@@ -1,6 +1,90 @@
 {
-  "total": 59,
+  "total": 62,
   "jobs": [
+    {
+      "job_number": "261713",
+      "title": "Project Initiator",
+      "location": "United States of America-Norfolk",
+      "deadline": "23-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-02T13:57:20.892913+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261713",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261725",
+      "title": "Section Head (Performance Management)",
+      "location": "United States of America-Norfolk",
+      "deadline": "23-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G17",
+      "first_seen": "2026-11-02T13:57:20.892913+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261725",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261724",
+      "title": "Staff Assistant, Requirements Coordination and Inspections",
+      "location": "Italy-Naples",
+      "deadline": "26-Nov-2026, 10:59:00 PM",
+      "org": "Joint Force Command Naples (JFCNP)",
+      "grade": "NATO Grade G12",
+      "first_seen": "2026-11-02T13:57:20.892913+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261724",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261706",
+      "title": "Staff Officer (Lessons Learned Analysis Mgt)",
+      "location": "United States of America-Norfolk",
+      "deadline": "23-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-02T13:57:20.892913+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261706",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261712",
+      "title": "Staff Officer (Science & Technology)",
+      "location": "United States of America-Norfolk",
+      "deadline": "23-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-02T13:57:20.892913+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261712",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261570",
+      "title": "Technical Coordination Officer",
+      "location": "Netherlands-Brunssum",
+      "deadline": "09-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-02T13:57:20.892913+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261570",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
     {
       "job_number": "261639",
       "title": "Analyst (Financial Management)",
@@ -416,34 +500,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261626",
-      "title": "SA (2030 Wargaming Advisor) / SA (2030 Wargaming Advisor Air Operations)",
-      "location": "Norway-Stavanger",
-      "deadline": "01-Nov-2026, 10:59:00 PM",
-      "org": "Joint Warfare Centre (JWC)",
-      "grade": "NATO Grade G12",
-      "first_seen": "2026-10-06T11:06:45.981458+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261626",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261618",
-      "title": "SA (2030 Wargaming Advisor) / SA (2030 Wargaming Advisor Maritime Operations)",
-      "location": "Norway",
-      "deadline": "01-Nov-2026, 10:59:00 PM",
-      "org": "Joint Warfare Centre (JWC)",
-      "grade": "NATO Grade G12",
-      "first_seen": "2026-10-06T11:06:45.981458+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261618",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261656",
       "title": "Senior IPS Engineer",
       "location": "Netherlands-The Hague",
@@ -724,20 +780,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261424",
-      "title": "Staff Officer (Recruitment) - NATO 2030",
-      "location": "Germany-Ramstein-Miesenbach",
-      "deadline": "01-Nov-2026, 10:59:00 PM",
-      "org": "Headquarters Allied Air Command (HQ AIRCOM)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-06T11:06:45.981458+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261424",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261495",
       "title": "Staff Officer (Technological Threat Analyst) - NATO 2030",
       "location": "Netherlands-Brunssum",
@@ -836,5 +878,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-11-01T19:21:52.653037+00:00"
+  "generated_at": "2026-11-02T13:57:33.227381+00:00"
 }

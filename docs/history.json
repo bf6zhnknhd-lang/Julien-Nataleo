@@ -949,5 +949,41 @@
     "was_match": false,
     "matched_keywords": [],
     "removed_at": "2026-11-01T14:00:57.714054+00:00"
+  },
+  {
+    "job_number": "261424",
+    "title": "Staff Officer (Recruitment) - NATO 2030",
+    "location": "Germany-Ramstein-Miesenbach",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261424",
+    "org": "Headquarters Allied Air Command (HQ AIRCOM)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-06T11:06:45.981458+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-02T13:57:20.893535+00:00"
+  },
+  {
+    "job_number": "261626",
+    "title": "SA (2030 Wargaming Advisor) / SA (2030 Wargaming Advisor Air Operations)",
+    "location": "Norway-Stavanger",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261626",
+    "org": "Joint Warfare Centre (JWC)",
+    "grade": "NATO Grade G12",
+    "first_seen": "2026-10-06T11:06:45.981458+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-02T13:57:20.893535+00:00"
+  },
+  {
+    "job_number": "261618",
+    "title": "SA (2030 Wargaming Advisor) / SA (2030 Wargaming Advisor Maritime Operations)",
+    "location": "Norway",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261618",
+    "org": "Joint Warfare Centre (JWC)",
+    "grade": "NATO Grade G12",
+    "first_seen": "2026-10-06T11:06:45.981458+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-02T13:57:20.893535+00:00"
   }
 ]
