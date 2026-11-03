@@ -167,22 +167,6 @@
     "grade": "NATO Grade G10",
     "first_seen": "2026-10-30T13:49:17.837270+00:00"
   },
-  "261644": {
-    "title": "Staff Assistant (Fire Prevention/First Response) Administration (3 Positions)",
-    "location": "Italy-Naples",
-    "deadline": "02-Nov-2026, 10:59:00 PM",
-    "org": "Joint Force Command Naples (JFCNP)",
-    "grade": "LWR",
-    "first_seen": "2026-10-12T07:18:23.718350+00:00"
-  },
-  "261602": {
-    "title": "Staff Assistant (Disaster and Emergency) / Security Access Control",
-    "location": "Italy-Naples",
-    "deadline": "02-Nov-2026, 10:59:00 PM",
-    "org": "Joint Force Command Naples (JFCNP)",
-    "grade": "LWR",
-    "first_seen": "2026-10-12T07:18:23.718350+00:00"
-  },
   "261664": {
     "title": "Staff Assistant (Collation)",
     "location": "Germany-Ulm",
@@ -222,6 +206,22 @@
     "org": "Joint Warfare Centre (JWC)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-23T18:53:26.339326+00:00"
+  },
+  "261562": {
+    "title": "Service Level Manager",
+    "location": "Germany-Geilenkirchen",
+    "deadline": "10-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-03T14:32:08.025191+00:00"
+  },
+  "261569": {
+    "title": "Service Engineer",
+    "location": "Netherlands-Brunssum",
+    "deadline": "10-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-03T14:32:08.025191+00:00"
   },
   "261604": {
     "title": "Senior Staff Officer (Portfolio Planning & Analysis)",
@@ -294,6 +294,14 @@
     "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
     "grade": "NATO Grade G17",
     "first_seen": "2026-10-19T20:20:52.803938+00:00"
+  },
+  "261559": {
+    "title": "Project Coordinator",
+    "location": "Germany-Geilenkirchen",
+    "deadline": "10-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G12",
+    "first_seen": "2026-11-03T14:32:08.025191+00:00"
   },
   "261662": {
     "title": "Programme Integration Manager",
@@ -423,6 +431,14 @@
     "grade": "NATO Grade G11",
     "first_seen": "2026-10-08T11:10:46.697090+00:00"
   },
+  "261722": {
+    "title": "Economic Analyst",
+    "location": "Türkiye-Izmir",
+    "deadline": "03-Dec-2026, 10:59:00 PM",
+    "org": "Headquarters Allied Land Command (HQ LANDCOM)",
+    "grade": "NATO Grade G17",
+    "first_seen": "2026-11-03T14:32:08.025191+00:00"
+  },
   "261651": {
     "title": "Deputy Director and Chief of Staff",
     "location": "France, France-Paris",
@@ -438,14 +454,6 @@
     "org": "NATO Communications and Information Agency (NCIA)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-19T14:18:58.994104+00:00"
-  },
-  "261444": {
-    "title": "Construction Security Expert",
-    "location": "Belgium-Brussels",
-    "deadline": "02-Nov-2026, 10:59:00 PM",
-    "org": "NATO International Staff (NATO IS)",
-    "grade": "NATO Grade G12",
-    "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
   "261695": {
     "title": "Community Building and Mobility Junior Officer",
