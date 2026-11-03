@@ -2,62 +2,6 @@
   "total": 63,
   "jobs": [
     {
-      "job_number": "261722",
-      "title": "Economic Analyst",
-      "location": "Türkiye-Izmir",
-      "deadline": "03-Dec-2026, 10:59:00 PM",
-      "org": "Headquarters Allied Land Command (HQ LANDCOM)",
-      "grade": "NATO Grade G17",
-      "first_seen": "2026-11-03T14:32:08.025191+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261722",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261559",
-      "title": "Project Coordinator",
-      "location": "Germany-Geilenkirchen",
-      "deadline": "10-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G12",
-      "first_seen": "2026-11-03T14:32:08.025191+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261559",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261569",
-      "title": "Service Engineer",
-      "location": "Netherlands-Brunssum",
-      "deadline": "10-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-03T14:32:08.025191+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261569",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261562",
-      "title": "Service Level Manager",
-      "location": "Germany-Geilenkirchen",
-      "deadline": "10-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-03T14:32:08.025191+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261562",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261639",
       "title": "Analyst (Financial Management)",
       "location": "Belgium-Mons",
@@ -201,6 +145,20 @@
       "first_seen": "2026-10-19T06:18:59.269605+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261651",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261722",
+      "title": "Economic Analyst",
+      "location": "Türkiye-Izmir",
+      "deadline": "03-Dec-2026, 10:59:00 PM",
+      "org": "Headquarters Allied Land Command (HQ LANDCOM)",
+      "grade": "NATO Grade G17",
+      "first_seen": "2026-11-03T14:32:08.025191+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261722",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -430,6 +388,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261559",
+      "title": "Project Coordinator",
+      "location": "Germany-Geilenkirchen",
+      "deadline": "10-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G12",
+      "first_seen": "2026-11-03T14:32:08.025191+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261559",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261647",
       "title": "Project Coordinator (OLCM)",
       "location": "United States of America-Norfolk",
@@ -551,6 +523,34 @@
       "first_seen": "2026-10-20T12:31:33.921599+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261604",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261569",
+      "title": "Service Engineer",
+      "location": "Netherlands-Brunssum",
+      "deadline": "10-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-03T14:32:08.025191+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261569",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261562",
+      "title": "Service Level Manager",
+      "location": "Germany-Geilenkirchen",
+      "deadline": "10-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-03T14:32:08.025191+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261562",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -892,5 +892,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-11-03T14:32:18.798082+00:00"
+  "generated_at": "2026-11-03T14:50:37.782840+00:00"
 }
