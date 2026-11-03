@@ -2,6 +2,20 @@
   "total": 63,
   "jobs": [
     {
+      "job_number": "261728",
+      "title": "Quality Assurance Analyst",
+      "location": "United States of America-Norfolk",
+      "deadline": "24-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-03T20:45:53.686430+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261728",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261639",
       "title": "Analyst (Financial Management)",
       "location": "Belgium-Mons",
@@ -411,20 +425,6 @@
       "first_seen": "2026-10-19T20:20:52.803938+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261647",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261713",
-      "title": "Project Initiator",
-      "location": "United States of America-Norfolk",
-      "deadline": "23-Nov-2026, 10:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-02T13:57:20.892913+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261713",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -892,5 +892,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-11-03T14:50:37.782840+00:00"
+  "generated_at": "2026-11-03T20:46:05.338484+00:00"
 }
