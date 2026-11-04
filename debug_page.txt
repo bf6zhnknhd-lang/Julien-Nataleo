@@ -7,8 +7,8 @@ My Job Cart|Sign In
 Job SearchMy Jobpage
 Search|Advanced Search|All Jobs
 Jobs available in:
-English (63)
-French (10)
+English (62)
+French (9)
 	
 
 
@@ -163,7 +163,7 @@ Multiple selections
 You can search for jobs in more than one job field, location and organization. After selecting a value in one of these fields, click "Add..." and make another selection.
 
 Beginning of the main content section.
-Search Results (63 jobs found)
+Search Results (62 jobs found)
 Results per page
 5
 10
@@ -262,15 +262,6 @@ Bus / coach driver - Local Wage Rate 
 Job Number: 261675 - Netherlands-Brunssum
 Application Deadline: 22-Nov-2026, 10:59:00 PM  
 NATO Body: Joint Force Command Brunssum (JFCBS) - Grade: LWR
-Apply|Add to My Job Cart
-
- 
-
-	
-Branch Head (Requirements Management) 
-Job Number: 261506 - Germany-Geilenkirchen
-Application Deadline: 03-Nov-2026, 10:59:00 PM  
-NATO Body: HQ NAEW & C Force Geilenkirchen - Grade: NATO Grade G17
 Apply|Add to My Job Cart
 
  

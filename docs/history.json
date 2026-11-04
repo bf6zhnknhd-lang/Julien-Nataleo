@@ -1033,5 +1033,53 @@
     "was_match": false,
     "matched_keywords": [],
     "removed_at": "2026-11-03T20:45:53.687207+00:00"
+  },
+  {
+    "job_number": "261607",
+    "title": "Officer, NATO Satellite Office (NASO) Coordination",
+    "location": "Belgium-Brussels",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261607",
+    "org": "NATO International Staff (NATO IS)",
+    "grade": "NATO Grade G15-G17",
+    "first_seen": "2026-10-07T07:11:45.193463+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-04T15:03:56.835182+00:00"
+  },
+  {
+    "job_number": "261506",
+    "title": "Branch Head (Requirements Management)",
+    "location": "Germany-Geilenkirchen",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261506",
+    "org": "HQ NAEW & C Force Geilenkirchen",
+    "grade": "NATO Grade G17",
+    "first_seen": "2026-10-06T11:06:45.981458+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-04T15:03:56.835182+00:00"
+  },
+  {
+    "job_number": "261687",
+    "title": "Senior Solution Engineer",
+    "location": "Netherlands-The Hague",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261687",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G17",
+    "first_seen": "2026-10-20T12:31:33.921599+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-04T15:03:56.835182+00:00"
+  },
+  {
+    "job_number": "261656",
+    "title": "Senior IPS Engineer",
+    "location": "Netherlands-The Hague",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261656",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G17",
+    "first_seen": "2026-10-20T12:31:33.921599+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-04T15:03:56.835182+00:00"
   }
 ]

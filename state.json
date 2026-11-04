@@ -167,6 +167,14 @@
     "grade": "NATO Grade G10",
     "first_seen": "2026-10-30T13:49:17.837270+00:00"
   },
+  "261638": {
+    "title": "Staff Assistant (Logistics Functional Area Services) & Operator (Logistics Functional Area Services)",
+    "location": "United Kingdom-Northwood",
+    "deadline": "22-Nov-2026, 10:59:00 PM",
+    "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
+    "grade": "NATO Grade G12",
+    "first_seen": "2026-11-04T15:03:56.834753+00:00"
+  },
   "261664": {
     "title": "Staff Assistant (Collation)",
     "location": "Germany-Ulm",
@@ -231,13 +239,13 @@
     "grade": "NATO Grade G17",
     "first_seen": "2026-10-20T12:31:33.921599+00:00"
   },
-  "261687": {
-    "title": "Senior Solution Engineer",
-    "location": "Netherlands-The Hague",
-    "deadline": "03-Nov-2026, 10:59:00 PM",
+  "261468": {
+    "title": "Senior Staff Officer",
+    "location": "Belgium-Mons",
+    "deadline": "18-Nov-2026, 10:59:00 PM",
     "org": "NATO Communications and Information Agency (NCIA)",
     "grade": "NATO Grade G17",
-    "first_seen": "2026-10-20T12:31:33.921599+00:00"
+    "first_seen": "2026-11-04T15:03:56.834753+00:00"
   },
   "261556": {
     "title": "Senior Logistician",
@@ -254,14 +262,6 @@
     "org": "NATO Communications and Information Agency (NCIA)",
     "grade": "NATO Grade G10",
     "first_seen": "2026-10-23T12:35:16.381395+00:00"
-  },
-  "261656": {
-    "title": "Senior IPS Engineer",
-    "location": "Netherlands-The Hague",
-    "deadline": "03-Nov-2026, 10:59:00 PM",
-    "org": "NATO Communications and Information Agency (NCIA)",
-    "grade": "NATO Grade G17",
-    "first_seen": "2026-10-20T12:31:33.921599+00:00"
   },
   "261725": {
     "title": "Section Head (Performance Management)",
@@ -335,14 +335,6 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-09T15:11:28.460945+00:00"
   },
-  "261607": {
-    "title": "Officer, NATO Satellite Office (NASO) Coordination",
-    "location": "Belgium-Brussels",
-    "deadline": "03-Nov-2026, 10:59:00 PM",
-    "org": "NATO International Staff (NATO IS)",
-    "grade": "NATO Grade G15-G17",
-    "first_seen": "2026-10-07T07:11:45.193463+00:00"
-  },
   "261694": {
     "title": "Officer, Morale and Welfare",
     "location": "Belgium-Brussels",
@@ -398,6 +390,14 @@
     "org": "NATO International Staff (NATO IS)",
     "grade": "NATO Grade G15-G17",
     "first_seen": "2026-10-09T11:10:52.203602+00:00"
+  },
+  "261520": {
+    "title": "Head, Service Management Branch",
+    "location": "Germany-Ramstein-Miesenbach",
+    "deadline": "25-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G17",
+    "first_seen": "2026-11-04T15:03:56.834753+00:00"
   },
   "261681": {
     "title": "Finance Assistant (Treasury)",
@@ -478,14 +478,6 @@
     "org": "Joint Force Command Brunssum (JFCBS)",
     "grade": "LWR",
     "first_seen": "2026-10-27T19:48:42.570414+00:00"
-  },
-  "261506": {
-    "title": "Branch Head (Requirements Management)",
-    "location": "Germany-Geilenkirchen",
-    "deadline": "03-Nov-2026, 10:59:00 PM",
-    "org": "HQ NAEW & C Force Geilenkirchen",
-    "grade": "NATO Grade G17",
-    "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
   "261641": {
     "title": "Analyst (Political and Security Analysis)",
