@@ -1,44 +1,44 @@
 {
-  "total": 62,
+  "total": 64,
   "jobs": [
     {
-      "job_number": "261520",
-      "title": "Head, Service Management Branch",
-      "location": "Germany-Ramstein-Miesenbach",
-      "deadline": "25-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
+      "job_number": "251297",
+      "title": "Staff Officer (Cyberspace Principal Technical Coordinator)",
+      "location": "Netherlands-Brunssum",
+      "deadline": "06-Dec-2026, 10:59:00 PM",
+      "org": "Joint Force Command Brunssum (JFCBS)",
       "grade": "NATO Grade G17",
-      "first_seen": "2026-11-04T15:03:56.834753+00:00",
+      "first_seen": "2026-11-05T15:09:29.305280+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261520",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=251297",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
     },
     {
-      "job_number": "261468",
-      "title": "Senior Staff Officer",
+      "job_number": "261469",
+      "title": "Staff Officer (Exercises)",
       "location": "Belgium-Mons",
-      "deadline": "18-Nov-2026, 10:59:00 PM",
+      "deadline": "05-Nov-2026, 10:59:00 PM",
       "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G17",
-      "first_seen": "2026-11-04T15:03:56.834753+00:00",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-05T15:09:29.305280+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261468",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261469",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
     },
     {
-      "job_number": "261638",
-      "title": "Staff Assistant (Logistics Functional Area Services) & Operator (Logistics Functional Area Services)",
-      "location": "United Kingdom-Northwood",
-      "deadline": "22-Nov-2026, 10:59:00 PM",
-      "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
-      "grade": "NATO Grade G12",
-      "first_seen": "2026-11-04T15:03:56.834753+00:00",
+      "job_number": "261723",
+      "title": "Staff Officer (Internal Affairs and Community Relations)",
+      "location": "Netherlands-Brunssum",
+      "deadline": "06-Dec-2026, 10:59:00 PM",
+      "org": "Joint Force Command Brunssum (JFCBS)",
+      "grade": "NATO Grade G17",
+      "first_seen": "2026-11-05T15:09:29.305280+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261638",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261723",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
@@ -243,6 +243,20 @@
       "first_seen": "2026-10-26T11:39:23.523637+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261690",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261520",
+      "title": "Head, Service Management Branch",
+      "location": "Germany-Ramstein-Miesenbach",
+      "deadline": "25-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G17",
+      "first_seen": "2026-11-04T15:03:56.834753+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261520",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -458,20 +472,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261725",
-      "title": "Section Head (Performance Management)",
-      "location": "United States of America-Norfolk",
-      "deadline": "23-Nov-2026, 10:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G17",
-      "first_seen": "2026-11-02T13:57:20.892913+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261725",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261556",
       "title": "Senior Logistician",
       "location": "Germany-Geilenkirchen",
@@ -495,6 +495,20 @@
       "first_seen": "2026-10-23T12:35:16.381395+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=260426",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261468",
+      "title": "Senior Staff Officer",
+      "location": "Belgium-Mons",
+      "deadline": "18-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G17",
+      "first_seen": "2026-11-04T15:03:56.834753+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261468",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -593,6 +607,20 @@
       "first_seen": "2026-10-12T15:14:50.544692+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261664",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261638",
+      "title": "Staff Assistant (Logistics Functional Area Services) & Operator (Logistics Functional Area Services)",
+      "location": "United Kingdom-Northwood",
+      "deadline": "22-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
+      "grade": "NATO Grade G12",
+      "first_seen": "2026-11-04T15:03:56.834753+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261638",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -878,5 +906,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-11-04T15:04:07.959958+00:00"
+  "generated_at": "2026-11-05T15:09:41.843552+00:00"
 }

@@ -103,6 +103,14 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-11-02T13:57:20.892913+00:00"
   },
+  "261723": {
+    "title": "Staff Officer (Internal Affairs and Community Relations)",
+    "location": "Netherlands-Brunssum",
+    "deadline": "06-Dec-2026, 10:59:00 PM",
+    "org": "Joint Force Command Brunssum (JFCBS)",
+    "grade": "NATO Grade G17",
+    "first_seen": "2026-11-05T15:09:29.305280+00:00"
+  },
   "261670": {
     "title": "Staff Officer (Intelligence Analyst/Joint Threats)",
     "location": "Germany-Ulm",
@@ -119,6 +127,14 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-30T13:49:17.837270+00:00"
   },
+  "261469": {
+    "title": "Staff Officer (Exercises)",
+    "location": "Belgium-Mons",
+    "deadline": "05-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-05T15:09:29.305280+00:00"
+  },
   "261648": {
     "title": "Staff Officer (Data Fusion Proj Mgr-Joint Ops Doc)",
     "location": "United States of America-Norfolk",
@@ -126,6 +142,14 @@
     "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-19T14:18:58.994104+00:00"
+  },
+  "251297": {
+    "title": "Staff Officer (Cyberspace Principal Technical Coordinator)",
+    "location": "Netherlands-Brunssum",
+    "deadline": "06-Dec-2026, 10:59:00 PM",
+    "org": "Joint Force Command Brunssum (JFCBS)",
+    "grade": "NATO Grade G17",
+    "first_seen": "2026-11-05T15:09:29.305280+00:00"
   },
   "261669": {
     "title": "Staff Officer (Cyber threats)",
@@ -262,14 +286,6 @@
     "org": "NATO Communications and Information Agency (NCIA)",
     "grade": "NATO Grade G10",
     "first_seen": "2026-10-23T12:35:16.381395+00:00"
-  },
-  "261725": {
-    "title": "Section Head (Performance Management)",
-    "location": "United States of America-Norfolk",
-    "deadline": "23-Nov-2026, 10:59:00 PM",
-    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-    "grade": "NATO Grade G17",
-    "first_seen": "2026-11-02T13:57:20.892913+00:00"
   },
   "261659": {
     "title": "Requirements Mgr (Interop Stnd Implement Profiles)",
