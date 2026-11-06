@@ -55,6 +55,22 @@
     "grade": "TEMP",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
+  "261738": {
+    "title": "TEMPORARY POST - Intelligence Education, Training, Exercise and Evaluation Staff Officer",
+    "location": "Belgium-Mons",
+    "deadline": "11-Nov-2026, 10:59:00 PM",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-06T14:47:25.956921+00:00"
+  },
+  "261739": {
+    "title": "TEMPORARY POST - HR Assistant (Archiving and digitalisation)",
+    "location": "Belgium-Mons",
+    "deadline": "11-Nov-2026, 10:59:00 PM",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G8",
+    "first_seen": "2026-11-06T14:47:25.956921+00:00"
+  },
   "261570": {
     "title": "Technical Coordination Officer",
     "location": "Netherlands-Brunssum",
@@ -126,14 +142,6 @@
     "org": "Joint Force Command Naples (JFCNP)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-30T13:49:17.837270+00:00"
-  },
-  "261469": {
-    "title": "Staff Officer (Exercises)",
-    "location": "Belgium-Mons",
-    "deadline": "05-Nov-2026, 10:59:00 PM",
-    "org": "NATO Communications and Information Agency (NCIA)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-11-05T15:09:29.305280+00:00"
   },
   "261648": {
     "title": "Staff Officer (Data Fusion Proj Mgr-Joint Ops Doc)",
@@ -255,6 +263,22 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-11-03T14:32:08.025191+00:00"
   },
+  "261575": {
+    "title": "Senior Technician (Digital Communications Services)",
+    "location": "Türkiye-Izmir",
+    "deadline": "13-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-11-06T14:47:25.956921+00:00"
+  },
+  "261576": {
+    "title": "Senior Technician (Cyber Security Infrastructure)",
+    "location": "Türkiye-Izmir",
+    "deadline": "13-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-11-06T14:47:25.956921+00:00"
+  },
   "261604": {
     "title": "Senior Staff Officer (Portfolio Planning & Analysis)",
     "location": "United States of America-Norfolk",
@@ -303,6 +327,14 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-11-03T20:45:53.686430+00:00"
   },
+  "261726": {
+    "title": "Project Officer",
+    "location": "CA-Halifax",
+    "deadline": "22-Nov-2026, 10:59:00 PM",
+    "org": "Defence Innovation Accelerator for the North Atlantic (DIANA)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-06T14:47:25.956921+00:00"
+  },
   "261647": {
     "title": "Project Coordinator (OLCM)",
     "location": "United States of America-Norfolk",
@@ -326,6 +358,14 @@
     "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
     "grade": "NATO Grade G20",
     "first_seen": "2026-10-13T15:14:12.203024+00:00"
+  },
+  "261578": {
+    "title": "Principal Technician (Digital Infrastructure)",
+    "location": "Türkiye-Izmir",
+    "deadline": "13-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G12",
+    "first_seen": "2026-11-06T14:47:25.956921+00:00"
   },
   "261567": {
     "title": "Principal Logistician",
@@ -415,6 +455,14 @@
     "grade": "NATO Grade G17",
     "first_seen": "2026-11-04T15:03:56.834753+00:00"
   },
+  "261734": {
+    "title": "Head, Divisional Support Section and Executive Officer (DPP)",
+    "location": "Belgium-Brussels",
+    "deadline": "22-Nov-2026, 10:59:00 PM",
+    "org": "NATO International Staff (NATO IS)",
+    "grade": "NATO Grade G20",
+    "first_seen": "2026-11-06T14:47:25.956921+00:00"
+  },
   "261681": {
     "title": "Finance Assistant (Treasury)",
     "location": "Belgium-Brussels",
@@ -430,14 +478,6 @@
     "org": "Joint Force Command Naples (JFCNP)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-27T19:48:42.570414+00:00"
-  },
-  "261640": {
-    "title": "Engineering and Information Technology Division (EITD) - Temporary Staff (NATO STO-CMRE)",
-    "location": "Italy-La Spezia",
-    "deadline": "05-Nov-2026, 10:59:00 PM",
-    "org": "Centre for Maritime Research and Experimentation (CMRE)",
-    "grade": "TEMP",
-    "first_seen": "2026-10-07T07:11:45.193463+00:00"
   },
   "261649": {
     "title": "Engineer (MSS Developer) – Temporary Staff",
@@ -486,6 +526,14 @@
     "org": "Joint Force Command Naples (JFCNP)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-15T11:22:02.349177+00:00"
+  },
+  "261543": {
+    "title": "Business Support and Administration Coordinator - IT Operations",
+    "location": "Denmark-Haderslev",
+    "deadline": "16-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G8",
+    "first_seen": "2026-11-06T14:47:25.956921+00:00"
   },
   "261675": {
     "title": "Bus / coach driver - Local Wage Rate",
