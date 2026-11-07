@@ -1,5 +1,5 @@
 {
-  "total": 70,
+  "total": 69,
   "jobs": [
     {
       "job_number": "261639",
@@ -50,20 +50,6 @@
       "matched_keywords": [
         "travel"
       ]
-    },
-    {
-      "job_number": "261641",
-      "title": "Analyst (Political and Security Analysis)",
-      "location": "Belgium-Mons",
-      "deadline": "06-Nov-2026, 10:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-07T11:10:42.071261+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261641",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
     },
     {
       "job_number": "261675",
@@ -990,5 +976,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-11-06T20:41:44.177263+00:00"
+  "generated_at": "2026-11-07T13:44:17.557188+00:00"
 }
