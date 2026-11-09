@@ -15,6 +15,14 @@
     "grade": "NATO Grade G22",
     "first_seen": "2026-10-26T11:39:23.523637+00:00"
   },
+  "261732": {
+    "title": "Director, ICTM",
+    "location": "Belgium-Brussels",
+    "deadline": "06-Dec-2026, 10:59:00 PM",
+    "org": "NATO International Staff (NATO IS)",
+    "grade": "NATO Grade G23",
+    "first_seen": "2026-11-09T17:08:14.087852+00:00"
+  },
   "260215": {
     "title": "Visiting Scientist Programme",
     "location": "Italy-La Spezia",
@@ -56,7 +64,7 @@
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
   "261738": {
-    "title": "TEMPORARY POST - Intelligence Education, Training, Exercise and Evaluation Staff Officer",
+    "title": "TEMPORARY POST - Intelligence Education, Training, Exercise and Evaluation Staff Officer (RED TEAM)",
     "location": "Belgium-Mons",
     "deadline": "11-Nov-2026, 10:59:00 PM",
     "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
