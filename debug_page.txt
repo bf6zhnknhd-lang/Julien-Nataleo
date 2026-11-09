@@ -7,8 +7,8 @@ My Job Cart|Sign In
 Job SearchMy Jobpage
 Search|Advanced Search|All Jobs
 Jobs available in:
-English (70)
-French (10)
+English (66)
+French (9)
 	
 
 
@@ -163,7 +163,7 @@ Multiple selections
 You can search for jobs in more than one job field, location and organization. After selecting a value in one of these fields, click "Add..." and make another selection.
 
 Beginning of the main content section.
-Search Results (70 jobs found)
+Search Results (66 jobs found)
 Results per page
 5
 10
@@ -175,6 +175,15 @@ Job Title (Ascending Order)
 Job Title (Descending Order)
 Location (Ascending Order)
 Location (Descending Order)
+
+	
+Officer, Partnerships 
+Job Number: 261645 - Belgium-Brussels
+Application Deadline: 11-Nov-2026, 10:59:00 PM  
+NATO Body: Science and Technology Organization (STO) - Grade: NATO Grade G15
+Apply|Add to My Job Cart
+
+ 
 
 	
 Officer, Morale and Welfare 
@@ -195,15 +204,6 @@ Apply|Add to My Job Cart
  
 
 	
-NSATU - TEMPORARY POST - Contract Officer 
-Job Number: 261697 - Belgium-Mons
-Application Deadline: 08-Nov-2026, 10:59:00 PM  
-NATO Body: Supreme Headquarters Allied Powers Europe (SHAPE) - Grade: NATO Grade G15
-Apply|Add to My Job Cart
-
- 
-
-	
 NATO HQ Community Store Lead 
 Job Number: 261693 - Belgium-Brussels
 Application Deadline: 12-Nov-2026, 10:59:00 PM  
@@ -217,24 +217,6 @@ Marine Superintendent 
 Job Number: 261643 - Italy-La Spezia
 Application Deadline: 12-Nov-2026, 10:59:00 PM  
 NATO Body: Centre for Maritime Research and Experimentation (CMRE) - Grade: NATO Grade G12
-Apply|Add to My Job Cart
-
- 
-
-	
-Intelligence, Surveillance and Reconnaissance (ISR) Systems Administrator  
-Job Number: 261608 - Belgium-Brussels
-Application Deadline: 08-Nov-2026, 10:59:00 PM  
-NATO Body: Battlefield Information Collection and Exploitation System (BICES) - Grade: NATO Grade G12
-Apply|Add to My Job Cart
-
- 
-
-	
-Head, Strategic Analysis and Reporting Unit 
-Job Number: 261629 - Belgium-Brussels
-Application Deadline: 08-Nov-2026, 10:59:00 PM  
-NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G15-G17
 Apply|Add to My Job Cart
 
  
@@ -276,15 +258,6 @@ Apply|Add to My Job Cart
  
 
 	
-Engineer (MSS Developer) – Temporary Staff 
-Job Number: 261649 - Germany-Ulm
-Application Deadline: 08-Nov-2026, 10:59:00 PM  
-NATO Body: Headquarters Allied Joint Support and Enabling Command (HQ JSEC) - Grade: NATO Grade G11
-Apply|Add to My Job Cart
-
- 
-
-	
 Economic Analyst 
 Job Number: 261722 - Türkiye-Izmir
 Application Deadline: 03-Dec-2026, 10:59:00 PM  
@@ -298,15 +271,6 @@ Deputy Director and Chief of Staff 
 Job Number: 261651 - France, France-Paris
 Application Deadline: 22-Nov-2026, 10:59:00 PM  
 NATO Body: Collaboration Support Office (CSO) - Grade: NATO Grade G22
-Apply|Add to My Job Cart
-
- 
-
-	
-Cyber Security Defender (SIEM & Splunk) 
-Job Number: 261684 - Belgium-Mons
-Application Deadline: 08-Nov-2026, 10:59:00 PM  
-NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G15
 Apply|Add to My Job Cart
 
  
