@@ -1,30 +1,44 @@
 {
-  "total": 64,
+  "total": 66,
   "jobs": [
     {
-      "job_number": "261748",
-      "title": "Executive Coordination Off (DP Reqs Determination)",
-      "location": "Belgium-Mons",
-      "deadline": "30-Nov-2026, 10:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G20",
-      "first_seen": "2026-11-10T08:10:49.422630+00:00",
+      "job_number": "261736",
+      "title": "Mechanical, Electrical and Plumbing (MEP) Installations Lead",
+      "location": "Belgium-Brussels",
+      "deadline": "29-Nov-2026, 10:59:00 PM",
+      "org": "NATO International Staff (NATO IS)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-10T15:24:23.362061+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261748",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261736",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
     },
     {
-      "job_number": "261747",
-      "title": "Section Head (Budget) / Deputy Head (BUDFIN)",
-      "location": "United States of America-Norfolk",
-      "deadline": "30-Nov-2026, 10:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G20",
-      "first_seen": "2026-11-10T08:10:49.422630+00:00",
+      "job_number": "261573",
+      "title": "Principal Technician (Digital Infrastructure)",
+      "location": "FI-Mikkeli",
+      "deadline": "16-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G12",
+      "first_seen": "2026-11-10T15:24:23.362061+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261747",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261573",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261549",
+      "title": "Senior Logistician",
+      "location": "Denmark-Haderslev",
+      "deadline": "17-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G10",
+      "first_seen": "2026-11-10T15:24:23.362061+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261549",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
@@ -156,6 +170,20 @@
       "first_seen": "2026-11-03T14:32:08.025191+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261722",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261748",
+      "title": "Executive Coordination Off (DP Reqs Determination)",
+      "location": "Belgium-Mons",
+      "deadline": "30-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G20",
+      "first_seen": "2026-11-10T08:10:49.422630+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261748",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -385,6 +413,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261747",
+      "title": "Section Head (Budget) / Deputy Head (BUDFIN)",
+      "location": "United States of America-Norfolk",
+      "deadline": "30-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G20",
+      "first_seen": "2026-11-10T08:10:49.422630+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261747",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261468",
       "title": "Senior Staff Officer",
       "location": "Belgium-Mons",
@@ -506,20 +548,6 @@
       "first_seen": "2026-11-03T14:32:08.025191+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261562",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261544",
-      "title": "Service Operation Manager",
-      "location": "Denmark-Haderslev",
-      "deadline": "16-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-09T14:29:25.246226+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261544",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -903,5 +931,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-11-10T08:10:57.106800+00:00"
+  "generated_at": "2026-11-10T15:24:31.757165+00:00"
 }
