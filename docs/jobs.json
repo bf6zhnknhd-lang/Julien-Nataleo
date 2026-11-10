@@ -2,48 +2,6 @@
   "total": 66,
   "jobs": [
     {
-      "job_number": "261736",
-      "title": "Mechanical, Electrical and Plumbing (MEP) Installations Lead",
-      "location": "Belgium-Brussels",
-      "deadline": "29-Nov-2026, 10:59:00 PM",
-      "org": "NATO International Staff (NATO IS)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-10T15:24:23.362061+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261736",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261573",
-      "title": "Principal Technician (Digital Infrastructure)",
-      "location": "FI-Mikkeli",
-      "deadline": "16-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G12",
-      "first_seen": "2026-11-10T15:24:23.362061+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261573",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261549",
-      "title": "Senior Logistician",
-      "location": "Denmark-Haderslev",
-      "deadline": "17-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G10",
-      "first_seen": "2026-11-10T15:24:23.362061+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261549",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261639",
       "title": "Analyst (Financial Management)",
       "location": "Belgium-Mons",
@@ -259,6 +217,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261736",
+      "title": "Mechanical, Electrical and Plumbing (MEP) Installations Lead",
+      "location": "Belgium-Brussels",
+      "deadline": "29-Nov-2026, 10:59:00 PM",
+      "org": "NATO International Staff (NATO IS)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-10T15:24:23.362061+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261736",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261693",
       "title": "NATO HQ Community Store Lead",
       "location": "Belgium-Brussels",
@@ -343,6 +315,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261573",
+      "title": "Principal Technician (Digital Infrastructure)",
+      "location": "FI-Mikkeli",
+      "deadline": "16-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G12",
+      "first_seen": "2026-11-10T15:24:23.362061+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261573",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261578",
       "title": "Principal Technician (Digital Infrastructure)",
       "location": "Türkiye-Izmir",
@@ -422,6 +408,20 @@
       "first_seen": "2026-11-10T08:10:49.422630+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261747",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261549",
+      "title": "Senior Logistician",
+      "location": "Denmark-Haderslev",
+      "deadline": "17-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G10",
+      "first_seen": "2026-11-10T15:24:23.362061+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261549",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -931,5 +931,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-11-10T15:24:31.757165+00:00"
+  "generated_at": "2026-11-10T22:20:32.326412+00:00"
 }
