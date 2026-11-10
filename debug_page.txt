@@ -7,7 +7,7 @@ My Job Cart|Sign In
 Job SearchMy Jobpage
 Search|Advanced Search|All Jobs
 Jobs available in:
-English (67)
+English (64)
 French (10)
 	
 
@@ -163,7 +163,7 @@ Multiple selections
 You can search for jobs in more than one job field, location and organization. After selecting a value in one of these fields, click "Add..." and make another selection.
 
 Beginning of the main content section.
-Search Results (67 jobs found)
+Search Results (64 jobs found)
 Results per page
 5
 10
@@ -175,33 +175,6 @@ Job Title (Ascending Order)
 Job Title (Descending Order)
 Location (Ascending Order)
 Location (Descending Order)
-
-	
-Platform Engineer (ServiceNow) 
-Job Number: 261653 - Belgium-Brussels
-Application Deadline: 23-Nov-2026, 10:59:00 PM  
-NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G15
-Apply|Add to My Job Cart
-
- 
-
-	
-Officer, Partnerships 
-Job Number: 261645 - Belgium-Brussels
-Application Deadline: 11-Nov-2026, 10:59:00 PM  
-NATO Body: Science and Technology Organization (STO) - Grade: NATO Grade G15
-Apply|Add to My Job Cart
-
- 
-
-	
-Officer, Morale and Welfare 
-Job Number: 261694 - Belgium-Brussels
-Application Deadline: 12-Nov-2026, 10:59:00 PM  
-NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G11-G15
-Apply|Add to My Job Cart
-
- 
 
 	
 Officer, Communications 
@@ -249,19 +222,19 @@ Apply|Add to My Job Cart
  
 
 	
-Finance Assistant (Treasury) 
-Job Number: 261681 - Belgium-Brussels
-Application Deadline: 09-Nov-2026, 10:59:00 PM  
-NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G10
+Finance & Accounting Section Head (Headquarters Support) 
+Job Number: 261696 - Italy-Naples
+Application Deadline: 24-Nov-2026, 10:59:00 PM  
+NATO Body: Joint Force Command Naples (JFCNP) - Grade: NATO Grade G15
 Apply|Add to My Job Cart
 
  
 
 	
-Finance & Accounting Section Head (Headquarters Support) 
-Job Number: 261696 - Italy-Naples
-Application Deadline: 24-Nov-2026, 10:59:00 PM  
-NATO Body: Joint Force Command Naples (JFCNP) - Grade: NATO Grade G15
+Executive Coordination Off (DP Reqs Determination) 
+Job Number: 261748 - Belgium-Mons
+Application Deadline: 30-Nov-2026, 10:59:00 PM  
+NATO Body: Headquarters Supreme Allied Commander Transformation (HQ SACT) - Grade: NATO Grade G20
 Apply|Add to My Job Cart
 
  

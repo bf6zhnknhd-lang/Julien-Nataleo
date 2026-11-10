@@ -79,14 +79,6 @@
     "grade": "NATO Grade G8",
     "first_seen": "2026-11-06T14:47:25.956921+00:00"
   },
-  "261570": {
-    "title": "Technical Coordination Officer",
-    "location": "Netherlands-Brunssum",
-    "deadline": "09-Nov-2026, 10:59:00 PM",
-    "org": "NATO Communications and Information Agency (NCIA)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-11-02T13:57:20.892913+00:00"
-  },
   "261600": {
     "title": "Staff Officer (Wargame Designer/Support Officer) - Project Linked NIC",
     "location": "Poland-Bydgoszcz",
@@ -150,14 +142,6 @@
     "org": "Joint Force Command Naples (JFCNP)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-30T13:49:17.837270+00:00"
-  },
-  "261648": {
-    "title": "Staff Officer (Data Fusion Proj Mgr-Joint Ops Doc)",
-    "location": "United States of America-Norfolk",
-    "deadline": "09-Nov-2026, 10:59:00 PM",
-    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-10-19T14:18:58.994104+00:00"
   },
   "251297": {
     "title": "Staff Officer (Cyberspace Principal Technical Coordinator)",
@@ -335,13 +319,13 @@
     "grade": "NATO Grade G17",
     "first_seen": "2026-11-04T15:03:56.834753+00:00"
   },
-  "261659": {
-    "title": "Requirements Mgr (Interop Stnd Implement Profiles)",
+  "261747": {
+    "title": "Section Head (Budget) / Deputy Head (BUDFIN)",
     "location": "United States of America-Norfolk",
-    "deadline": "09-Nov-2026, 10:59:00 PM",
+    "deadline": "30-Nov-2026, 10:59:00 PM",
     "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-10-19T14:18:58.994104+00:00"
+    "grade": "NATO Grade G20",
+    "first_seen": "2026-11-10T08:10:49.422630+00:00"
   },
   "261728": {
     "title": "Quality Assurance Analyst",
@@ -358,14 +342,6 @@
     "org": "Defence Innovation Accelerator for the North Atlantic (DIANA)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-11-06T14:47:25.956921+00:00"
-  },
-  "261647": {
-    "title": "Project Coordinator (OLCM)",
-    "location": "United States of America-Norfolk",
-    "deadline": "09-Nov-2026, 10:59:00 PM",
-    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-    "grade": "NATO Grade G17",
-    "first_seen": "2026-10-19T20:20:52.803938+00:00"
   },
   "261559": {
     "title": "Project Coordinator",
@@ -463,14 +439,6 @@
     "grade": "NATO Grade G20",
     "first_seen": "2026-11-06T14:47:25.956921+00:00"
   },
-  "261681": {
-    "title": "Finance Assistant (Treasury)",
-    "location": "Belgium-Brussels",
-    "deadline": "09-Nov-2026, 10:59:00 PM",
-    "org": "NATO Communications and Information Agency (NCIA)",
-    "grade": "NATO Grade G10",
-    "first_seen": "2026-10-26T20:28:46.321912+00:00"
-  },
   "261696": {
     "title": "Finance & Accounting Section Head (Headquarters Support)",
     "location": "Italy-Naples",
@@ -478,6 +446,14 @@
     "org": "Joint Force Command Naples (JFCNP)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-27T19:48:42.570414+00:00"
+  },
+  "261748": {
+    "title": "Executive Coordination Off (DP Reqs Determination)",
+    "location": "Belgium-Mons",
+    "deadline": "30-Nov-2026, 10:59:00 PM",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G20",
+    "first_seen": "2026-11-10T08:10:49.422630+00:00"
   },
   "261722": {
     "title": "Economic Analyst",

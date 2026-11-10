@@ -1237,5 +1237,68 @@
     "was_match": false,
     "matched_keywords": [],
     "removed_at": "2026-11-09T14:29:25.246742+00:00"
+  },
+  {
+    "job_number": "261648",
+    "title": "Staff Officer (Data Fusion Proj Mgr-Joint Ops Doc)",
+    "location": "United States of America-Norfolk",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261648",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-19T14:18:58.994104+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-10T08:10:49.423224+00:00"
+  },
+  {
+    "job_number": "261659",
+    "title": "Requirements Mgr (Interop Stnd Implement Profiles)",
+    "location": "United States of America-Norfolk",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261659",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-19T14:18:58.994104+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-10T08:10:49.423224+00:00"
+  },
+  {
+    "job_number": "261681",
+    "title": "Finance Assistant (Treasury)",
+    "location": "Belgium-Brussels",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261681",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-10-26T20:28:46.321912+00:00",
+    "was_match": true,
+    "matched_keywords": [
+      "finance",
+      "treasury"
+    ],
+    "removed_at": "2026-11-10T08:10:49.423224+00:00"
+  },
+  {
+    "job_number": "261570",
+    "title": "Technical Coordination Officer",
+    "location": "Netherlands-Brunssum",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261570",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-02T13:57:20.892913+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-10T08:10:49.423224+00:00"
+  },
+  {
+    "job_number": "261647",
+    "title": "Project Coordinator (OLCM)",
+    "location": "United States of America-Norfolk",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261647",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G17",
+    "first_seen": "2026-10-19T20:20:52.803938+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-10T08:10:49.423224+00:00"
   }
 ]
