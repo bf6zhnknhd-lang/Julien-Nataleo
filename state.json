@@ -143,6 +143,14 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-30T13:49:17.837270+00:00"
   },
+  "260518": {
+    "title": "Staff Officer (Information Analyst)",
+    "location": "Netherlands-Brunssum",
+    "deadline": "13-Dec-2026, 10:59:00 PM",
+    "org": "Joint Force Command Brunssum (JFCBS)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-11T21:43:22.804459+00:00"
+  },
   "251297": {
     "title": "Staff Officer (Cyberspace Principal Technical Coordinator)",
     "location": "Netherlands-Brunssum",
@@ -239,22 +247,6 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-23T18:53:26.339326+00:00"
   },
-  "261562": {
-    "title": "Service Level Manager",
-    "location": "Germany-Geilenkirchen",
-    "deadline": "10-Nov-2026, 10:59:00 PM",
-    "org": "NATO Communications and Information Agency (NCIA)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-11-03T14:32:08.025191+00:00"
-  },
-  "261569": {
-    "title": "Service Engineer",
-    "location": "Netherlands-Brunssum",
-    "deadline": "10-Nov-2026, 10:59:00 PM",
-    "org": "NATO Communications and Information Agency (NCIA)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-11-03T14:32:08.025191+00:00"
-  },
   "261539": {
     "title": "Senior Technician (Wireless Transmissions Services)",
     "location": "Denmark-Haderslev",
@@ -262,6 +254,22 @@
     "org": "NATO Communications and Information Agency (NCIA)",
     "grade": "NATO Grade G10",
     "first_seen": "2026-11-09T14:29:25.246226+00:00"
+  },
+  "261554": {
+    "title": "Senior Technician (Power Generation)",
+    "location": "Denmark-Haderslev",
+    "deadline": "18-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-11-11T21:43:22.804459+00:00"
+  },
+  "261590": {
+    "title": "Senior Technician (Digital Infrastructure)",
+    "location": "Norway-Bodo",
+    "deadline": "18-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-11-11T21:43:22.804459+00:00"
   },
   "261536": {
     "title": "Senior Technician (Digital Communications Services)",
@@ -279,6 +287,14 @@
     "grade": "NATO Grade G10",
     "first_seen": "2026-11-06T14:47:25.956921+00:00"
   },
+  "261587": {
+    "title": "Senior Technician (Digital Communication Services)",
+    "location": "Norway-Bodo",
+    "deadline": "18-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-11-11T21:43:22.804459+00:00"
+  },
   "261576": {
     "title": "Senior Technician (Cyber Security Infrastructure)",
     "location": "Türkiye-Izmir",
@@ -287,6 +303,14 @@
     "grade": "NATO Grade G10",
     "first_seen": "2026-11-06T14:47:25.956921+00:00"
   },
+  "261582": {
+    "title": "Senior Technician (Configuration Management)",
+    "location": "Norway-Bodo",
+    "deadline": "18-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-11-11T21:43:22.804459+00:00"
+  },
   "261534": {
     "title": "Senior Technician (Air Conditioning)",
     "location": "Denmark-Haderslev",
@@ -294,14 +318,6 @@
     "org": "NATO Communications and Information Agency (NCIA)",
     "grade": "NATO Grade G10",
     "first_seen": "2026-11-09T14:29:25.246226+00:00"
-  },
-  "261604": {
-    "title": "Senior Staff Officer (Portfolio Planning & Analysis)",
-    "location": "United States of America-Norfolk",
-    "deadline": "10-Nov-2026, 10:59:00 PM",
-    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-    "grade": "NATO Grade G17",
-    "first_seen": "2026-10-20T12:31:33.921599+00:00"
   },
   "261468": {
     "title": "Senior Staff Officer",
@@ -318,6 +334,14 @@
     "org": "NATO Communications and Information Agency (NCIA)",
     "grade": "NATO Grade G10",
     "first_seen": "2026-11-10T15:24:23.362061+00:00"
+  },
+  "261752": {
+    "title": "Senior Assistant (Finance)",
+    "location": "Belgium-Brussels",
+    "deadline": "25-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-11-11T21:43:22.804459+00:00"
   },
   "261747": {
     "title": "Section Head (Budget) / Deputy Head (BUDFIN)",
@@ -343,14 +367,6 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-11-06T14:47:25.956921+00:00"
   },
-  "261559": {
-    "title": "Project Coordinator",
-    "location": "Germany-Geilenkirchen",
-    "deadline": "10-Nov-2026, 10:59:00 PM",
-    "org": "NATO Communications and Information Agency (NCIA)",
-    "grade": "NATO Grade G12",
-    "first_seen": "2026-11-03T14:32:08.025191+00:00"
-  },
   "261662": {
     "title": "Programme Integration Manager",
     "location": "Belgium-Mons",
@@ -358,6 +374,14 @@
     "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
     "grade": "NATO Grade G20",
     "first_seen": "2026-10-13T15:14:12.203024+00:00"
+  },
+  "261546": {
+    "title": "Principal Technician (ICT Systems)",
+    "location": "Denmark-Haderslev",
+    "deadline": "18-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G12",
+    "first_seen": "2026-11-11T21:43:22.804459+00:00"
   },
   "261573": {
     "title": "Principal Technician (Digital Infrastructure)",
@@ -374,6 +398,14 @@
     "org": "NATO Communications and Information Agency (NCIA)",
     "grade": "NATO Grade G12",
     "first_seen": "2026-11-06T14:47:25.956921+00:00"
+  },
+  "261535": {
+    "title": "Principal Technician (Digital Communications Services)",
+    "location": "Denmark-Haderslev",
+    "deadline": "18-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G12",
+    "first_seen": "2026-11-11T21:43:22.804459+00:00"
   },
   "261637": {
     "title": "Principal Assistant, Personnel, Administration and Logistics",

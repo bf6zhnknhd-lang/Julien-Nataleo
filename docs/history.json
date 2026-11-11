@@ -1312,5 +1312,53 @@
     "was_match": false,
     "matched_keywords": [],
     "removed_at": "2026-11-10T15:24:23.362707+00:00"
+  },
+  {
+    "job_number": "261604",
+    "title": "Senior Staff Officer (Portfolio Planning & Analysis)",
+    "location": "United States of America-Norfolk",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261604",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G17",
+    "first_seen": "2026-10-20T12:31:33.921599+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-11T21:43:22.805066+00:00"
+  },
+  {
+    "job_number": "261569",
+    "title": "Service Engineer",
+    "location": "Netherlands-Brunssum",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261569",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-03T14:32:08.025191+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-11T21:43:22.805066+00:00"
+  },
+  {
+    "job_number": "261559",
+    "title": "Project Coordinator",
+    "location": "Germany-Geilenkirchen",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261559",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G12",
+    "first_seen": "2026-11-03T14:32:08.025191+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-11T21:43:22.805066+00:00"
+  },
+  {
+    "job_number": "261562",
+    "title": "Service Level Manager",
+    "location": "Germany-Geilenkirchen",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261562",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-03T14:32:08.025191+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-11T21:43:22.805066+00:00"
   }
 ]

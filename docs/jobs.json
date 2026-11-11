@@ -1,6 +1,120 @@
 {
-  "total": 66,
+  "total": 70,
   "jobs": [
+    {
+      "job_number": "261752",
+      "title": "Senior Assistant (Finance)",
+      "location": "Belgium-Brussels",
+      "deadline": "25-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G10",
+      "first_seen": "2026-11-11T21:43:22.804459+00:00",
+      "salary": "4,738.84Euro (EUR) Monthly",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261752",
+      "is_new": true,
+      "match_score": 2,
+      "matched_keywords": [
+        "finance"
+      ]
+    },
+    {
+      "job_number": "261535",
+      "title": "Principal Technician (Digital Communications Services)",
+      "location": "Denmark-Haderslev",
+      "deadline": "18-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G12",
+      "first_seen": "2026-11-11T21:43:22.804459+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261535",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261546",
+      "title": "Principal Technician (ICT Systems)",
+      "location": "Denmark-Haderslev",
+      "deadline": "18-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G12",
+      "first_seen": "2026-11-11T21:43:22.804459+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261546",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261582",
+      "title": "Senior Technician (Configuration Management)",
+      "location": "Norway-Bodo",
+      "deadline": "18-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G10",
+      "first_seen": "2026-11-11T21:43:22.804459+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261582",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261587",
+      "title": "Senior Technician (Digital Communication Services)",
+      "location": "Norway-Bodo",
+      "deadline": "18-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G10",
+      "first_seen": "2026-11-11T21:43:22.804459+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261587",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261590",
+      "title": "Senior Technician (Digital Infrastructure)",
+      "location": "Norway-Bodo",
+      "deadline": "18-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G10",
+      "first_seen": "2026-11-11T21:43:22.804459+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261590",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261554",
+      "title": "Senior Technician (Power Generation)",
+      "location": "Denmark-Haderslev",
+      "deadline": "18-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G10",
+      "first_seen": "2026-11-11T21:43:22.804459+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261554",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "260518",
+      "title": "Staff Officer (Information Analyst)",
+      "location": "Netherlands-Brunssum",
+      "deadline": "13-Dec-2026, 10:59:00 PM",
+      "org": "Joint Force Command Brunssum (JFCBS)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-11T21:43:22.804459+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=260518",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
     {
       "job_number": "261639",
       "title": "Analyst (Financial Management)",
@@ -357,20 +471,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261559",
-      "title": "Project Coordinator",
-      "location": "Germany-Geilenkirchen",
-      "deadline": "10-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G12",
-      "first_seen": "2026-11-03T14:32:08.025191+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261559",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261726",
       "title": "Project Officer",
       "location": "CA-Halifax",
@@ -441,20 +541,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261604",
-      "title": "Senior Staff Officer (Portfolio Planning & Analysis)",
-      "location": "United States of America-Norfolk",
-      "deadline": "10-Nov-2026, 10:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G17",
-      "first_seen": "2026-10-20T12:31:33.921599+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261604",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261534",
       "title": "Senior Technician (Air Conditioning)",
       "location": "Denmark-Haderslev",
@@ -520,34 +606,6 @@
       "first_seen": "2026-11-09T14:29:25.246226+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261539",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261569",
-      "title": "Service Engineer",
-      "location": "Netherlands-Brunssum",
-      "deadline": "10-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-03T14:32:08.025191+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261569",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261562",
-      "title": "Service Level Manager",
-      "location": "Germany-Geilenkirchen",
-      "deadline": "10-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-03T14:32:08.025191+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261562",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -931,5 +989,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-11-10T22:20:32.326412+00:00"
+  "generated_at": "2026-11-11T21:43:35.353852+00:00"
 }
