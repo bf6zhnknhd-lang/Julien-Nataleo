@@ -63,21 +63,21 @@
     "grade": "TEMP",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
-  "261738": {
-    "title": "TEMPORARY POST - Intelligence Education, Training, Exercise and Evaluation Staff Officer (RED TEAM)",
+  "261763": {
+    "title": "TEMPORARY POST - Staff Assistant (RGN Assistant – Workforce Gap)",
     "location": "Belgium-Mons",
-    "deadline": "11-Nov-2026, 10:59:00 PM",
-    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-11-06T14:47:25.956921+00:00"
-  },
-  "261739": {
-    "title": "TEMPORARY POST - HR Assistant (Archiving and digitalisation)",
-    "location": "Belgium-Mons",
-    "deadline": "11-Nov-2026, 10:59:00 PM",
+    "deadline": "22-Nov-2026, 10:59:00 PM",
     "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
     "grade": "NATO Grade G8",
-    "first_seen": "2026-11-06T14:47:25.956921+00:00"
+    "first_seen": "2026-11-12T15:45:21.319971+00:00"
+  },
+  "261762": {
+    "title": "TEMPORARY POST - Staff Assistant (RGN Assistant – VAP)",
+    "location": "Belgium-Mons",
+    "deadline": "22-Nov-2026, 10:59:00 PM",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G8",
+    "first_seen": "2026-11-12T15:45:21.319971+00:00"
   },
   "261600": {
     "title": "Staff Officer (Wargame Designer/Support Officer) - Project Linked NIC",
@@ -103,14 +103,6 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-11-02T13:57:20.892913+00:00"
   },
-  "261663": {
-    "title": "Staff Officer (Lessons Learned)",
-    "location": "Germany-Ulm",
-    "deadline": "11-Nov-2026, 10:59:00 PM",
-    "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-10-12T15:14:50.544692+00:00"
-  },
   "261706": {
     "title": "Staff Officer (Lessons Learned Analysis Mgt)",
     "location": "United States of America-Norfolk",
@@ -126,14 +118,6 @@
     "org": "Joint Force Command Brunssum (JFCBS)",
     "grade": "NATO Grade G17",
     "first_seen": "2026-11-05T15:09:29.305280+00:00"
-  },
-  "261670": {
-    "title": "Staff Officer (Intelligence Analyst/Joint Threats)",
-    "location": "Germany-Ulm",
-    "deadline": "11-Nov-2026, 10:59:00 PM",
-    "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-10-13T07:18:16.540814+00:00"
   },
   "261720": {
     "title": "Staff Officer (Information Knowledge Management)",
@@ -159,22 +143,6 @@
     "grade": "NATO Grade G17",
     "first_seen": "2026-11-05T15:09:29.305280+00:00"
   },
-  "261669": {
-    "title": "Staff Officer (Cyber threats)",
-    "location": "Germany-Ulm",
-    "deadline": "11-Nov-2026, 10:59:00 PM",
-    "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-10-13T07:18:16.540814+00:00"
-  },
-  "261668": {
-    "title": "Staff Officer (Current Intelligence)",
-    "location": "Germany-Ulm",
-    "deadline": "11-Nov-2026, 10:59:00 PM",
-    "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-10-12T15:14:50.544692+00:00"
-  },
   "261707": {
     "title": "Staff Officer (Crisis Response Operations - Resilience & Readiness)",
     "location": "Netherlands-Brunssum",
@@ -182,14 +150,6 @@
     "org": "Joint Force Command Brunssum (JFCBS)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-27T19:48:42.570414+00:00"
-  },
-  "261665": {
-    "title": "Staff Assistant (Security and CI)",
-    "location": "Germany-Ulm",
-    "deadline": "11-Nov-2026, 10:59:00 PM",
-    "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
-    "grade": "NATO Grade G12",
-    "first_seen": "2026-10-12T15:14:50.544692+00:00"
   },
   "261692": {
     "title": "Staff Assistant (NAEW capability)",
@@ -206,14 +166,6 @@
     "org": "Headquarters Allied Maritime Command (HQ MARCOM)",
     "grade": "NATO Grade G12",
     "first_seen": "2026-11-04T15:03:56.834753+00:00"
-  },
-  "261664": {
-    "title": "Staff Assistant (Collation)",
-    "location": "Germany-Ulm",
-    "deadline": "11-Nov-2026, 10:59:00 PM",
-    "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
-    "grade": "NATO Grade G10",
-    "first_seen": "2026-10-12T15:14:50.544692+00:00"
   },
   "261634": {
     "title": "Staff Assistant (Civilian Personnel)",
@@ -423,14 +375,6 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-11-09T14:29:25.246226+00:00"
   },
-  "261645": {
-    "title": "Officer, Partnerships",
-    "location": "Belgium-Brussels",
-    "deadline": "11-Nov-2026, 10:59:00 PM",
-    "org": "Science and Technology Organization (STO)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-10-09T15:11:28.460945+00:00"
-  },
   "261694": {
     "title": "Officer, Morale and Welfare",
     "location": "Belgium-Brussels",
@@ -446,6 +390,14 @@
     "org": "Science and Technology Organization (STO)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-19T14:18:58.994104+00:00"
+  },
+  "261764": {
+    "title": "NATO Senior Mentor Programme OPR/Programme Officer",
+    "location": "Belgium-Mons",
+    "deadline": "03-Dec-2026, 10:59:00 PM",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-12T15:45:21.319971+00:00"
   },
   "261693": {
     "title": "NATO HQ Community Store Lead",
