@@ -39,6 +39,14 @@
     "grade": "NATO Grade G2",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
+  "261761": {
+    "title": "TEMPORARY STAFF: Assistant Coordination Officer",
+    "location": "Belgium-Mons",
+    "deadline": "18-Nov-2026, 10:59:00 PM",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G8",
+    "first_seen": "2026-11-13T15:05:50.086613+00:00"
+  },
   "261428": {
     "title": "Temporary Staff (NATO HQ)",
     "location": "Belgium-Brussels",
@@ -62,6 +70,30 @@
     "org": "Battlefield Information Collection and Exploitation System (BICES)",
     "grade": "TEMP",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
+  },
+  "261758": {
+    "title": "TEMPORARY POST - Staff Officer (Alternative Solutions)",
+    "location": "Belgium-Mons",
+    "deadline": "18-Nov-2026, 10:59:00 PM",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G11",
+    "first_seen": "2026-11-13T15:05:50.086613+00:00"
+  },
+  "261755": {
+    "title": "TEMPORARY POST - Construction and Industrial Security Officer",
+    "location": "Belgium-Mons",
+    "deadline": "17-Nov-2026, 10:59:00 PM",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-13T15:05:50.086613+00:00"
+  },
+  "261743": {
+    "title": "TEMPORARY POST - Staff Officer Standardization (Data Control and Analysis)",
+    "location": "Belgium-Mons",
+    "deadline": "18-Nov-2026, 10:59:00 PM",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-13T15:05:50.086613+00:00"
   },
   "261763": {
     "title": "TEMPORARY POST - Staff Assistant (RGN Assistant – Workforce Gap)",
@@ -319,14 +351,6 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-11-06T14:47:25.956921+00:00"
   },
-  "261662": {
-    "title": "Programme Integration Manager",
-    "location": "Belgium-Mons",
-    "deadline": "12-Nov-2026, 10:59:00 PM",
-    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-    "grade": "NATO Grade G20",
-    "first_seen": "2026-10-13T15:14:12.203024+00:00"
-  },
   "261546": {
     "title": "Principal Technician (ICT Systems)",
     "location": "Denmark-Haderslev",
@@ -375,14 +399,6 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-11-09T14:29:25.246226+00:00"
   },
-  "261694": {
-    "title": "Officer, Morale and Welfare",
-    "location": "Belgium-Brussels",
-    "deadline": "12-Nov-2026, 10:59:00 PM",
-    "org": "NATO International Staff (NATO IS)",
-    "grade": "NATO Grade G11-G15",
-    "first_seen": "2026-10-29T20:03:14.687209+00:00"
-  },
   "261674": {
     "title": "Officer, Communications",
     "location": "Belgium-Brussels",
@@ -399,14 +415,6 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-11-12T15:45:21.319971+00:00"
   },
-  "261693": {
-    "title": "NATO HQ Community Store Lead",
-    "location": "Belgium-Brussels",
-    "deadline": "12-Nov-2026, 10:59:00 PM",
-    "org": "NATO International Staff (NATO IS)",
-    "grade": "NATO Grade G10",
-    "first_seen": "2026-10-29T20:03:14.687209+00:00"
-  },
   "261736": {
     "title": "Mechanical, Electrical and Plumbing (MEP) Installations Lead",
     "location": "Belgium-Brussels",
@@ -414,14 +422,6 @@
     "org": "NATO International Staff (NATO IS)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-11-10T15:24:23.362061+00:00"
-  },
-  "261643": {
-    "title": "Marine Superintendent",
-    "location": "Italy-La Spezia",
-    "deadline": "12-Nov-2026, 10:59:00 PM",
-    "org": "Centre for Maritime Research and Experimentation (CMRE)",
-    "grade": "NATO Grade G12",
-    "first_seen": "2026-10-13T15:14:12.203024+00:00"
   },
   "261520": {
     "title": "Head, Service Management Branch",
@@ -470,14 +470,6 @@
     "org": "Collaboration Support Office (CSO)",
     "grade": "NATO Grade G22",
     "first_seen": "2026-10-19T06:18:59.269605+00:00"
-  },
-  "261695": {
-    "title": "Community Building and Mobility Junior Officer",
-    "location": "Belgium-Brussels",
-    "deadline": "12-Nov-2026, 10:59:00 PM",
-    "org": "NATO International Staff (NATO IS)",
-    "grade": "NATO Grade G11",
-    "first_seen": "2026-10-29T20:03:14.687209+00:00"
   },
   "261679": {
     "title": "CAPACITY DEVELOPMENT MEDICAL TRAINER",

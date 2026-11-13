@@ -1,44 +1,58 @@
 {
-  "total": 64,
+  "total": 63,
   "jobs": [
     {
-      "job_number": "261764",
-      "title": "NATO Senior Mentor Programme OPR/Programme Officer",
+      "job_number": "261755",
+      "title": "TEMPORARY POST - Construction and Industrial Security Officer",
       "location": "Belgium-Mons",
-      "deadline": "03-Dec-2026, 10:59:00 PM",
+      "deadline": "17-Nov-2026, 10:59:00 PM",
       "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
       "grade": "NATO Grade G15",
-      "first_seen": "2026-11-12T15:45:21.319971+00:00",
+      "first_seen": "2026-11-13T15:05:50.086613+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261764",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261755",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
     },
     {
-      "job_number": "261762",
-      "title": "TEMPORARY POST - Staff Assistant (RGN Assistant – VAP)",
+      "job_number": "261758",
+      "title": "TEMPORARY POST - Staff Officer (Alternative Solutions)",
       "location": "Belgium-Mons",
-      "deadline": "22-Nov-2026, 10:59:00 PM",
+      "deadline": "18-Nov-2026, 10:59:00 PM",
       "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G8",
-      "first_seen": "2026-11-12T15:45:21.319971+00:00",
+      "grade": "NATO Grade G11",
+      "first_seen": "2026-11-13T15:05:50.086613+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261762",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261758",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
     },
     {
-      "job_number": "261763",
-      "title": "TEMPORARY POST - Staff Assistant (RGN Assistant – Workforce Gap)",
+      "job_number": "261743",
+      "title": "TEMPORARY POST - Staff Officer Standardization (Data Control and Analysis)",
       "location": "Belgium-Mons",
-      "deadline": "22-Nov-2026, 10:59:00 PM",
+      "deadline": "18-Nov-2026, 10:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-13T15:05:50.086613+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261743",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261761",
+      "title": "TEMPORARY STAFF: Assistant Coordination Officer",
+      "location": "Belgium-Mons",
+      "deadline": "18-Nov-2026, 10:59:00 PM",
       "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
       "grade": "NATO Grade G8",
-      "first_seen": "2026-11-12T15:45:21.319971+00:00",
+      "first_seen": "2026-11-13T15:05:50.086613+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261763",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261761",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
@@ -130,20 +144,6 @@
       "first_seen": "2026-10-15T11:22:02.349177+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261679",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261695",
-      "title": "Community Building and Mobility Junior Officer",
-      "location": "Belgium-Brussels",
-      "deadline": "12-Nov-2026, 10:59:00 PM",
-      "org": "NATO International Staff (NATO IS)",
-      "grade": "NATO Grade G11",
-      "first_seen": "2026-10-29T20:03:14.687209+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261695",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -261,20 +261,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261643",
-      "title": "Marine Superintendent",
-      "location": "Italy-La Spezia",
-      "deadline": "12-Nov-2026, 10:59:00 PM",
-      "org": "Centre for Maritime Research and Experimentation (CMRE)",
-      "grade": "NATO Grade G12",
-      "first_seen": "2026-10-13T15:14:12.203024+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261643",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261736",
       "title": "Mechanical, Electrical and Plumbing (MEP) Installations Lead",
       "location": "Belgium-Brussels",
@@ -289,15 +275,15 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261693",
-      "title": "NATO HQ Community Store Lead",
-      "location": "Belgium-Brussels",
-      "deadline": "12-Nov-2026, 10:59:00 PM",
-      "org": "NATO International Staff (NATO IS)",
-      "grade": "NATO Grade G10",
-      "first_seen": "2026-10-29T20:03:14.687209+00:00",
+      "job_number": "261764",
+      "title": "NATO Senior Mentor Programme OPR/Programme Officer",
+      "location": "Belgium-Mons",
+      "deadline": "03-Dec-2026, 10:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-12T15:45:21.319971+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261693",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261764",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -312,20 +298,6 @@
       "first_seen": "2026-10-19T14:18:58.994104+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261674",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261694",
-      "title": "Officer, Morale and Welfare",
-      "location": "Belgium-Brussels",
-      "deadline": "12-Nov-2026, 10:59:00 PM",
-      "org": "NATO International Staff (NATO IS)",
-      "grade": "NATO Grade G11-G15",
-      "first_seen": "2026-10-29T20:03:14.687209+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261694",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -410,20 +382,6 @@
       "first_seen": "2026-11-11T21:43:22.804459+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261546",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261662",
-      "title": "Programme Integration Manager",
-      "location": "Belgium-Mons",
-      "deadline": "12-Nov-2026, 10:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G20",
-      "first_seen": "2026-10-13T15:14:12.203024+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261662",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -835,6 +793,34 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261762",
+      "title": "TEMPORARY POST - Staff Assistant (RGN Assistant – VAP)",
+      "location": "Belgium-Mons",
+      "deadline": "22-Nov-2026, 10:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G8",
+      "first_seen": "2026-11-12T15:45:21.319971+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261762",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261763",
+      "title": "TEMPORARY POST - Staff Assistant (RGN Assistant – Workforce Gap)",
+      "location": "Belgium-Mons",
+      "deadline": "22-Nov-2026, 10:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G8",
+      "first_seen": "2026-11-12T15:45:21.319971+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261763",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "250739",
       "title": "Temporary Staff (DIANA)",
       "location": "United Kingdom-London, EE-Tallinn, CA-Halifax",
@@ -905,5 +891,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-11-12T15:45:32.420390+00:00"
+  "generated_at": "2026-11-13T15:06:00.772321+00:00"
 }

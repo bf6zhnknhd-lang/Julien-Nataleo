@@ -7,8 +7,8 @@ My Job Cart|Sign In
 Job SearchMy Jobpage
 Search|Advanced Search|All Jobs
 Jobs available in:
-English (64)
-French (10)
+English (63)
+French (7)
 	
 
 
@@ -163,7 +163,7 @@ Multiple selections
 You can search for jobs in more than one job field, location and organization. After selecting a value in one of these fields, click "Add..." and make another selection.
 
 Beginning of the main content section.
-Search Results (64 jobs found)
+Search Results (63 jobs found)
 Results per page
 5
 10
@@ -177,10 +177,19 @@ Location (Ascending Order)
 Location (Descending Order)
 
 	
-NATO HQ Community Store Lead 
-Job Number: 261693 - Belgium-Brussels
-Application Deadline: 12-Nov-2026, 10:59:00 PM  
-NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G10
+Officer, Communications 
+Job Number: 261674 - Belgium-Brussels
+Application Deadline: 17-Nov-2026, 10:59:00 PM  
+NATO Body: Science and Technology Organization (STO) - Grade: NATO Grade G15
+Apply|Add to My Job Cart
+
+ 
+
+	
+NATO Senior Mentor Programme OPR/Programme Officer 
+Job Number: 261764 - Belgium-Mons
+Application Deadline: 03-Dec-2026, 10:59:00 PM  
+NATO Body: Supreme Headquarters Allied Powers Europe (SHAPE) - Grade: NATO Grade G15
 Apply|Add to My Job Cart
 
  
@@ -190,15 +199,6 @@ Mechanical, Electrical and Plumbing (MEP) Installations Lead 
 Job Number: 261736 - Belgium-Brussels
 Application Deadline: 29-Nov-2026, 10:59:00 PM  
 NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G15
-Apply|Add to My Job Cart
-
- 
-
-	
-Marine Superintendent 
-Job Number: 261643 - Italy-La Spezia
-Application Deadline: 12-Nov-2026, 10:59:00 PM  
-NATO Body: Centre for Maritime Research and Experimentation (CMRE) - Grade: NATO Grade G12
 Apply|Add to My Job Cart
 
  
@@ -253,15 +253,6 @@ Deputy Director and Chief of Staff 
 Job Number: 261651 - France, France-Paris
 Application Deadline: 22-Nov-2026, 10:59:00 PM  
 NATO Body: Collaboration Support Office (CSO) - Grade: NATO Grade G22
-Apply|Add to My Job Cart
-
- 
-
-	
-Community Building and Mobility Junior Officer  
-Job Number: 261695 - Belgium-Brussels
-Application Deadline: 12-Nov-2026, 10:59:00 PM  
-NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G11
 Apply|Add to My Job Cart
 
  
