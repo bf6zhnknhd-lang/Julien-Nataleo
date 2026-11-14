@@ -1,62 +1,6 @@
 {
-  "total": 63,
+  "total": 60,
   "jobs": [
-    {
-      "job_number": "261755",
-      "title": "TEMPORARY POST - Construction and Industrial Security Officer",
-      "location": "Belgium-Mons",
-      "deadline": "17-Nov-2026, 10:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-13T15:05:50.086613+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261755",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261758",
-      "title": "TEMPORARY POST - Staff Officer (Alternative Solutions)",
-      "location": "Belgium-Mons",
-      "deadline": "18-Nov-2026, 10:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G11",
-      "first_seen": "2026-11-13T15:05:50.086613+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261758",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261743",
-      "title": "TEMPORARY POST - Staff Officer Standardization (Data Control and Analysis)",
-      "location": "Belgium-Mons",
-      "deadline": "18-Nov-2026, 10:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-13T15:05:50.086613+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261743",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261761",
-      "title": "TEMPORARY STAFF: Assistant Coordination Officer",
-      "location": "Belgium-Mons",
-      "deadline": "18-Nov-2026, 10:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G8",
-      "first_seen": "2026-11-13T15:05:50.086613+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261761",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
     {
       "job_number": "261639",
       "title": "Analyst (Financial Management)",
@@ -359,20 +303,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261578",
-      "title": "Principal Technician (Digital Infrastructure)",
-      "location": "Türkiye-Izmir",
-      "deadline": "13-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G12",
-      "first_seen": "2026-11-06T14:47:25.956921+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261578",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261546",
       "title": "Principal Technician (ICT Systems)",
       "location": "Denmark-Haderslev",
@@ -485,20 +415,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261576",
-      "title": "Senior Technician (Cyber Security Infrastructure)",
-      "location": "Türkiye-Izmir",
-      "deadline": "13-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G10",
-      "first_seen": "2026-11-06T14:47:25.956921+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261576",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261587",
       "title": "Senior Technician (Digital Communication Services)",
       "location": "Norway-Bodo",
@@ -522,20 +438,6 @@
       "first_seen": "2026-11-09T14:29:25.246226+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261536",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261575",
-      "title": "Senior Technician (Digital Communications Services)",
-      "location": "Türkiye-Izmir",
-      "deadline": "13-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G10",
-      "first_seen": "2026-11-06T14:47:25.956921+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261575",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -793,6 +695,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261755",
+      "title": "TEMPORARY POST - Construction and Industrial Security Officer",
+      "location": "Belgium-Mons",
+      "deadline": "17-Nov-2026, 10:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-13T15:05:50.086613+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261755",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261762",
       "title": "TEMPORARY POST - Staff Assistant (RGN Assistant – VAP)",
       "location": "Belgium-Mons",
@@ -816,6 +732,48 @@
       "first_seen": "2026-11-12T15:45:21.319971+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261763",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261758",
+      "title": "TEMPORARY POST - Staff Officer (Alternative Solutions)",
+      "location": "Belgium-Mons",
+      "deadline": "18-Nov-2026, 10:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G11",
+      "first_seen": "2026-11-13T15:05:50.086613+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261758",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261743",
+      "title": "TEMPORARY POST - Staff Officer Standardization (Data Control and Analysis)",
+      "location": "Belgium-Mons",
+      "deadline": "18-Nov-2026, 10:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-13T15:05:50.086613+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261743",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261761",
+      "title": "TEMPORARY STAFF: Assistant Coordination Officer",
+      "location": "Belgium-Mons",
+      "deadline": "18-Nov-2026, 10:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G8",
+      "first_seen": "2026-11-13T15:05:50.086613+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261761",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -891,5 +849,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-11-13T15:06:00.772321+00:00"
+  "generated_at": "2026-11-14T13:56:40.025752+00:00"
 }

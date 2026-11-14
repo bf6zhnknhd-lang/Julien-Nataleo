@@ -263,14 +263,6 @@
     "grade": "NATO Grade G10",
     "first_seen": "2026-11-09T14:29:25.246226+00:00"
   },
-  "261575": {
-    "title": "Senior Technician (Digital Communications Services)",
-    "location": "Türkiye-Izmir",
-    "deadline": "13-Nov-2026, 10:59:00 PM",
-    "org": "NATO Communications and Information Agency (NCIA)",
-    "grade": "NATO Grade G10",
-    "first_seen": "2026-11-06T14:47:25.956921+00:00"
-  },
   "261587": {
     "title": "Senior Technician (Digital Communication Services)",
     "location": "Norway-Bodo",
@@ -278,14 +270,6 @@
     "org": "NATO Communications and Information Agency (NCIA)",
     "grade": "NATO Grade G10",
     "first_seen": "2026-11-11T21:43:22.804459+00:00"
-  },
-  "261576": {
-    "title": "Senior Technician (Cyber Security Infrastructure)",
-    "location": "Türkiye-Izmir",
-    "deadline": "13-Nov-2026, 10:59:00 PM",
-    "org": "NATO Communications and Information Agency (NCIA)",
-    "grade": "NATO Grade G10",
-    "first_seen": "2026-11-06T14:47:25.956921+00:00"
   },
   "261582": {
     "title": "Senior Technician (Configuration Management)",
@@ -366,14 +350,6 @@
     "org": "NATO Communications and Information Agency (NCIA)",
     "grade": "NATO Grade G12",
     "first_seen": "2026-11-10T15:24:23.362061+00:00"
-  },
-  "261578": {
-    "title": "Principal Technician (Digital Infrastructure)",
-    "location": "Türkiye-Izmir",
-    "deadline": "13-Nov-2026, 10:59:00 PM",
-    "org": "NATO Communications and Information Agency (NCIA)",
-    "grade": "NATO Grade G12",
-    "first_seen": "2026-11-06T14:47:25.956921+00:00"
   },
   "261535": {
     "title": "Principal Technician (Digital Communications Services)",

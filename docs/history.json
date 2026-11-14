@@ -1528,5 +1528,41 @@
     "was_match": false,
     "matched_keywords": [],
     "removed_at": "2026-11-13T15:05:50.087268+00:00"
+  },
+  {
+    "job_number": "261575",
+    "title": "Senior Technician (Digital Communications Services)",
+    "location": "Türkiye-Izmir",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261575",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-11-06T14:47:25.956921+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-14T13:56:28.689995+00:00"
+  },
+  {
+    "job_number": "261578",
+    "title": "Principal Technician (Digital Infrastructure)",
+    "location": "Türkiye-Izmir",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261578",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G12",
+    "first_seen": "2026-11-06T14:47:25.956921+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-14T13:56:28.689995+00:00"
+  },
+  {
+    "job_number": "261576",
+    "title": "Senior Technician (Cyber Security Infrastructure)",
+    "location": "Türkiye-Izmir",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261576",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-11-06T14:47:25.956921+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-14T13:56:28.689995+00:00"
   }
 ]
