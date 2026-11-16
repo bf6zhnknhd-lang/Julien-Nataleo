@@ -1,158 +1,16 @@
 {
-  "total": 69,
+  "total": 70,
   "jobs": [
     {
-      "job_number": "261774",
-      "title": "TEMPORARY POST - Staff Officer (Contracting)",
+      "job_number": "261753",
+      "title": "TEMPORARY POST - Technical Assistant (Safety)",
       "location": "Belgium-Mons",
-      "deadline": "29-Nov-2026, 10:59:00 PM",
+      "deadline": "24-Nov-2026, 10:59:00 PM",
       "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-16T14:06:30.731792+00:00",
-      "salary": "6,713.06Euro (EUR) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261774",
-      "is_new": true,
-      "match_score": 2,
-      "matched_keywords": [
-        "contracting"
-      ]
-    },
-    {
-      "job_number": "261699",
-      "title": "Director of Finance/Financial Controller",
-      "location": "Italy-Naples",
-      "deadline": "03-Dec-2026, 10:59:00 PM",
-      "org": "Joint Force Command Naples (JFCNP)",
-      "grade": "NATO Grade G22",
-      "first_seen": "2026-11-16T14:06:30.731792+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261699",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261776",
-      "title": "Head (Staff Mess/Dining Facility)",
-      "location": "United States of America-Norfolk",
-      "deadline": "07-Dec-2026, 10:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
       "grade": "NATO Grade G10",
-      "first_seen": "2026-11-16T14:06:30.731792+00:00",
+      "first_seen": "2026-11-16T16:44:21.938716+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261776",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261603",
-      "title": "Head of Learning Innovation and Digital Transformation",
-      "location": "Portugal-Oeiras",
-      "deadline": "16-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G20",
-      "first_seen": "2026-11-16T14:06:30.731792+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261603",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261740",
-      "title": "Internship Human Resources",
-      "location": "France-Paris",
-      "deadline": "13-Dec-2026, 10:59:00 PM",
-      "org": "Collaboration Support Office (CSO)",
-      "grade": "Unclassified",
-      "first_seen": "2026-11-16T14:06:30.731792+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261740",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261777",
-      "title": "Medical Architecture SME/Deputy Branch Head",
-      "location": "United States of America-Norfolk",
-      "deadline": "07-Dec-2026, 10:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G20",
-      "first_seen": "2026-11-16T14:06:30.731792+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261777",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261778",
-      "title": "Programme Director (Medical Support)",
-      "location": "United States of America-Norfolk",
-      "deadline": "07-Dec-2026, 10:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G17",
-      "first_seen": "2026-11-16T14:06:30.731792+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261778",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261548",
-      "title": "Service Level Manager",
-      "location": "Denmark-Haderslev",
-      "deadline": "23-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-16T14:06:30.731792+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261548",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261787",
-      "title": "TEMPORARY POST - Civil Engineer",
-      "location": "Belgium-Mons",
-      "deadline": "29-Nov-2026, 10:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G17",
-      "first_seen": "2026-11-16T14:06:30.731792+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261787",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261749",
-      "title": "TEMPORARY POST - Staff Assistant (Operations Support)",
-      "location": "Belgium-Mons",
-      "deadline": "21-Nov-2026, 10:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G8",
-      "first_seen": "2026-11-16T14:06:30.731792+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261749",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261750",
-      "title": "Temporary Post - Staff Officer (Executive Coordination - PMO VEVA)",
-      "location": "Belgium-Mons",
-      "deadline": "27-Nov-2026, 10:59:00 PM",
-      "org": "NATO CIS Group (NCISG)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-16T14:06:30.731792+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261750",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261753",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
@@ -188,6 +46,22 @@
       "match_score": 2,
       "matched_keywords": [
         "finance"
+      ]
+    },
+    {
+      "job_number": "261774",
+      "title": "TEMPORARY POST - Staff Officer (Contracting)",
+      "location": "Belgium-Mons",
+      "deadline": "29-Nov-2026, 10:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-16T14:06:30.731792+00:00",
+      "salary": "6,713.06Euro (EUR) Monthly",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261774",
+      "is_new": false,
+      "match_score": 2,
+      "matched_keywords": [
+        "contracting"
       ]
     },
     {
@@ -242,6 +116,20 @@
       "first_seen": "2026-10-19T06:18:59.269605+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261651",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261699",
+      "title": "Director of Finance/Financial Controller",
+      "location": "Italy-Naples",
+      "deadline": "03-Dec-2026, 10:59:00 PM",
+      "org": "Joint Force Command Naples (JFCNP)",
+      "grade": "NATO Grade G22",
+      "first_seen": "2026-11-16T14:06:30.731792+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261699",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -303,6 +191,34 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261776",
+      "title": "Head (Staff Mess/Dining Facility)",
+      "location": "United States of America-Norfolk",
+      "deadline": "07-Dec-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G10",
+      "first_seen": "2026-11-16T14:06:30.731792+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261776",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261603",
+      "title": "Head of Learning Innovation and Digital Transformation",
+      "location": "Portugal-Oeiras",
+      "deadline": "16-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G20",
+      "first_seen": "2026-11-16T14:06:30.731792+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261603",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261734",
       "title": "Head, Divisional Support Section and Executive Officer (DPP)",
       "location": "Belgium-Brussels",
@@ -345,6 +261,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261740",
+      "title": "Internship Human Resources",
+      "location": "France-Paris",
+      "deadline": "13-Dec-2026, 10:59:00 PM",
+      "org": "Collaboration Support Office (CSO)",
+      "grade": "Unclassified",
+      "first_seen": "2026-11-16T14:06:30.731792+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261740",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261736",
       "title": "Mechanical, Electrical and Plumbing (MEP) Installations Lead",
       "location": "Belgium-Brussels",
@@ -354,6 +284,20 @@
       "first_seen": "2026-11-10T15:24:23.362061+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261736",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261777",
+      "title": "Medical Architecture SME/Deputy Branch Head",
+      "location": "United States of America-Norfolk",
+      "deadline": "07-Dec-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G20",
+      "first_seen": "2026-11-16T14:06:30.731792+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261777",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -452,6 +396,20 @@
       "first_seen": "2026-11-11T21:43:22.804459+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261546",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261778",
+      "title": "Programme Director (Medical Support)",
+      "location": "United States of America-Norfolk",
+      "deadline": "07-Dec-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G17",
+      "first_seen": "2026-11-16T14:06:30.731792+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261778",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -620,6 +578,20 @@
       "first_seen": "2026-11-09T14:29:25.246226+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261539",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261548",
+      "title": "Service Level Manager",
+      "location": "Denmark-Haderslev",
+      "deadline": "23-Nov-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-16T14:06:30.731792+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261548",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -821,6 +793,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261787",
+      "title": "TEMPORARY POST - Civil Engineer",
+      "location": "Belgium-Mons",
+      "deadline": "29-Nov-2026, 10:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G17",
+      "first_seen": "2026-11-16T14:06:30.731792+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261787",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261755",
       "title": "TEMPORARY POST - Construction and Industrial Security Officer",
       "location": "Belgium-Mons",
@@ -830,6 +816,20 @@
       "first_seen": "2026-11-13T15:05:50.086613+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261755",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261749",
+      "title": "TEMPORARY POST - Staff Assistant (Operations Support)",
+      "location": "Belgium-Mons",
+      "deadline": "21-Nov-2026, 10:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G8",
+      "first_seen": "2026-11-16T14:06:30.731792+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261749",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -905,6 +905,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261750",
+      "title": "Temporary Post - Staff Officer (Executive Coordination - PMO VEVA)",
+      "location": "Belgium-Mons",
+      "deadline": "27-Nov-2026, 10:59:00 PM",
+      "org": "NATO CIS Group (NCISG)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-16T14:06:30.731792+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261750",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "250739",
       "title": "Temporary Staff (DIANA)",
       "location": "United Kingdom-London, EE-Tallinn, CA-Halifax",
@@ -975,5 +989,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-11-16T14:06:44.219781+00:00"
+  "generated_at": "2026-11-16T16:44:32.317083+00:00"
 }
