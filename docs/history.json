@@ -1564,5 +1564,31 @@
     "was_match": false,
     "matched_keywords": [],
     "removed_at": "2026-11-14T13:56:28.689995+00:00"
+  },
+  {
+    "job_number": "261600",
+    "title": "Staff Officer (Wargame Designer/Support Officer) - Project Linked NIC",
+    "location": "Poland-Bydgoszcz",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261600",
+    "org": "Joint Force Training Centre (JFTC)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-13T15:14:12.203024+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-16T14:06:30.732259+00:00"
+  },
+  {
+    "job_number": "261525",
+    "title": "Staff Assistant (Administration and Travel) - CAOC Uedem",
+    "location": "Germany-Uedem, Germany-Wesel",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261525",
+    "org": "Joint Force Command Brunssum (JFCBS)",
+    "grade": "NATO Grade G8",
+    "first_seen": "2026-10-16T15:11:18.015668+00:00",
+    "was_match": true,
+    "matched_keywords": [
+      "travel"
+    ],
+    "removed_at": "2026-11-16T14:06:30.732259+00:00"
   }
 ]

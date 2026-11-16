@@ -23,6 +23,14 @@
     "grade": "NATO Grade G23",
     "first_seen": "2026-11-09T17:08:14.087852+00:00"
   },
+  "261699": {
+    "title": "Director of Finance/Financial Controller",
+    "location": "Italy-Naples",
+    "deadline": "03-Dec-2026, 10:59:00 PM",
+    "org": "Joint Force Command Naples (JFCNP)",
+    "grade": "NATO Grade G22",
+    "first_seen": "2026-11-16T14:06:30.731792+00:00"
+  },
   "260215": {
     "title": "Visiting Scientist Programme",
     "location": "Italy-La Spezia",
@@ -71,6 +79,22 @@
     "grade": "TEMP",
     "first_seen": "2026-10-06T11:06:45.981458+00:00"
   },
+  "261750": {
+    "title": "Temporary Post - Staff Officer (Executive Coordination - PMO VEVA)",
+    "location": "Belgium-Mons",
+    "deadline": "27-Nov-2026, 10:59:00 PM",
+    "org": "NATO CIS Group (NCISG)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-16T14:06:30.731792+00:00"
+  },
+  "261774": {
+    "title": "TEMPORARY POST - Staff Officer (Contracting)",
+    "location": "Belgium-Mons",
+    "deadline": "29-Nov-2026, 10:59:00 PM",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-16T14:06:30.731792+00:00"
+  },
   "261758": {
     "title": "TEMPORARY POST - Staff Officer (Alternative Solutions)",
     "location": "Belgium-Mons",
@@ -78,6 +102,14 @@
     "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
     "grade": "NATO Grade G11",
     "first_seen": "2026-11-13T15:05:50.086613+00:00"
+  },
+  "261749": {
+    "title": "TEMPORARY POST - Staff Assistant (Operations Support)",
+    "location": "Belgium-Mons",
+    "deadline": "21-Nov-2026, 10:59:00 PM",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G8",
+    "first_seen": "2026-11-16T14:06:30.731792+00:00"
   },
   "261755": {
     "title": "TEMPORARY POST - Construction and Industrial Security Officer",
@@ -111,13 +143,13 @@
     "grade": "NATO Grade G8",
     "first_seen": "2026-11-12T15:45:21.319971+00:00"
   },
-  "261600": {
-    "title": "Staff Officer (Wargame Designer/Support Officer) - Project Linked NIC",
-    "location": "Poland-Bydgoszcz",
-    "deadline": "15-Nov-2026, 10:59:00 PM",
-    "org": "Joint Force Training Centre (JFTC)",
-    "grade": "NATO Grade G15",
-    "first_seen": "2026-10-13T15:14:12.203024+00:00"
+  "261787": {
+    "title": "TEMPORARY POST - Civil Engineer",
+    "location": "Belgium-Mons",
+    "deadline": "29-Nov-2026, 10:59:00 PM",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G17",
+    "first_seen": "2026-11-16T14:06:30.731792+00:00"
   },
   "261494": {
     "title": "Staff Officer (Targeting Support) - NATO 2030",
@@ -215,14 +247,6 @@
     "grade": "NATO Grade G8-G10",
     "first_seen": "2026-10-16T15:11:18.015668+00:00"
   },
-  "261525": {
-    "title": "Staff Assistant (Administration and Travel) - CAOC Uedem",
-    "location": "Germany-Uedem, Germany-Wesel",
-    "deadline": "15-Nov-2026, 10:59:00 PM",
-    "org": "Joint Force Command Brunssum (JFCBS)",
-    "grade": "NATO Grade G8",
-    "first_seen": "2026-10-16T15:11:18.015668+00:00"
-  },
   "261702": {
     "title": "Sr Contracting Officer – Complex Services (2030 P&C)",
     "location": "Norway-Stavanger",
@@ -230,6 +254,14 @@
     "org": "Joint Warfare Centre (JWC)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-10-23T18:53:26.339326+00:00"
+  },
+  "261548": {
+    "title": "Service Level Manager",
+    "location": "Denmark-Haderslev",
+    "deadline": "23-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-16T14:06:30.731792+00:00"
   },
   "261539": {
     "title": "Senior Technician (Wireless Transmissions Services)",
@@ -335,6 +367,14 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-11-06T14:47:25.956921+00:00"
   },
+  "261778": {
+    "title": "Programme Director (Medical Support)",
+    "location": "United States of America-Norfolk",
+    "deadline": "07-Dec-2026, 10:59:00 PM",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G17",
+    "first_seen": "2026-11-16T14:06:30.731792+00:00"
+  },
   "261546": {
     "title": "Principal Technician (ICT Systems)",
     "location": "Denmark-Haderslev",
@@ -391,6 +431,14 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-11-12T15:45:21.319971+00:00"
   },
+  "261777": {
+    "title": "Medical Architecture SME/Deputy Branch Head",
+    "location": "United States of America-Norfolk",
+    "deadline": "07-Dec-2026, 10:59:00 PM",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G20",
+    "first_seen": "2026-11-16T14:06:30.731792+00:00"
+  },
   "261736": {
     "title": "Mechanical, Electrical and Plumbing (MEP) Installations Lead",
     "location": "Belgium-Brussels",
@@ -398,6 +446,14 @@
     "org": "NATO International Staff (NATO IS)",
     "grade": "NATO Grade G15",
     "first_seen": "2026-11-10T15:24:23.362061+00:00"
+  },
+  "261740": {
+    "title": "Internship Human Resources",
+    "location": "France-Paris",
+    "deadline": "13-Dec-2026, 10:59:00 PM",
+    "org": "Collaboration Support Office (CSO)",
+    "grade": "Unclassified",
+    "first_seen": "2026-11-16T14:06:30.731792+00:00"
   },
   "261520": {
     "title": "Head, Service Management Branch",
@@ -414,6 +470,22 @@
     "org": "NATO International Staff (NATO IS)",
     "grade": "NATO Grade G20",
     "first_seen": "2026-11-06T14:47:25.956921+00:00"
+  },
+  "261603": {
+    "title": "Head of Learning Innovation and Digital Transformation",
+    "location": "Portugal-Oeiras",
+    "deadline": "16-Nov-2026, 10:59:00 PM",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G20",
+    "first_seen": "2026-11-16T14:06:30.731792+00:00"
+  },
+  "261776": {
+    "title": "Head (Staff Mess/Dining Facility)",
+    "location": "United States of America-Norfolk",
+    "deadline": "07-Dec-2026, 10:59:00 PM",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-11-16T14:06:30.731792+00:00"
   },
   "261696": {
     "title": "Finance & Accounting Section Head (Headquarters Support)",
