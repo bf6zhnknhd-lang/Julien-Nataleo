@@ -1590,5 +1590,77 @@
       "travel"
     ],
     "removed_at": "2026-11-16T14:06:30.732259+00:00"
+  },
+  {
+    "job_number": "261539",
+    "title": "Senior Technician (Wireless Transmissions Services)",
+    "location": "Denmark-Haderslev",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261539",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-11-09T14:29:25.246226+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-17T16:12:43.251688+00:00"
+  },
+  {
+    "job_number": "261536",
+    "title": "Senior Technician (Digital Communications Services)",
+    "location": "Denmark-Haderslev",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261536",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-11-09T14:29:25.246226+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-17T16:12:43.251688+00:00"
+  },
+  {
+    "job_number": "261543",
+    "title": "Business Support and Administration Coordinator - IT Operations",
+    "location": "Denmark-Haderslev",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261543",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G8",
+    "first_seen": "2026-11-06T14:47:25.956921+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-17T16:12:43.251688+00:00"
+  },
+  {
+    "job_number": "261534",
+    "title": "Senior Technician (Air Conditioning)",
+    "location": "Denmark-Haderslev",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261534",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-11-09T14:29:25.246226+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-17T16:12:43.251688+00:00"
+  },
+  {
+    "job_number": "261573",
+    "title": "Principal Technician (Digital Infrastructure)",
+    "location": "FI-Mikkeli",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261573",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G12",
+    "first_seen": "2026-11-10T15:24:23.362061+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-17T16:12:43.251688+00:00"
+  },
+  {
+    "job_number": "261603",
+    "title": "Head of Learning Innovation and Digital Transformation",
+    "location": "Portugal-Oeiras",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261603",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G20",
+    "first_seen": "2026-11-16T14:06:30.731792+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-17T16:12:43.251688+00:00"
   }
 ]
