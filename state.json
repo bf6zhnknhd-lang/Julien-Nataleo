@@ -582,5 +582,13 @@
     "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
     "grade": "NATO Grade G12",
     "first_seen": "2026-10-29T13:55:30.170116+00:00"
+  },
+  "261804": {
+    "title": "Analyst (CIMIC Knowledge Development)",
+    "location": "Germany-Ulm",
+    "deadline": "16-Dec-2026, 10:59:00 PM",
+    "org": "Headquarters Allied Joint Support and Enabling Command (HQ JSEC)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-17T16:15:29.459793+00:00"
   }
 }

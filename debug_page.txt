@@ -7,7 +7,7 @@ My Job Cart|Sign In
 Job SearchMy Jobpage
 Search|Advanced Search|All Jobs
 Jobs available in:
-English (73)
+English (74)
 French (8)
 	
 
@@ -163,7 +163,7 @@ Multiple selections
 You can search for jobs in more than one job field, location and organization. After selecting a value in one of these fields, click "Add..." and make another selection.
 
 Beginning of the main content section.
-Search Results (73 jobs found)
+Search Results (74 jobs found)
 Results per page
 5
 10
@@ -379,6 +379,15 @@ Analyst (Financial Management) 
 Job Number: 261639 - Belgium-Mons
 Application Deadline: 25-Nov-2026, 10:59:00 PM  
 NATO Body: Supreme Headquarters Allied Powers Europe (SHAPE) - Grade: NATO Grade G12
+Apply|Add to My Job Cart
+
+ 
+
+	
+Analyst (CIMIC Knowledge Development) 
+Job Number: 261804 - Germany-Ulm
+Application Deadline: 16-Dec-2026, 10:59:00 PM  
+NATO Body: Headquarters Allied Joint Support and Enabling Command (HQ JSEC) - Grade: NATO Grade G15
 Apply|Add to My Job Cart
 
  
