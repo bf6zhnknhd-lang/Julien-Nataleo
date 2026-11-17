@@ -1,49 +1,75 @@
 name: Check NATO Taleo jobs
 
+on:
+  schedule:
+    # Toutes les 3 h en journée, rien la nuit (heures de Belgique : 8h, 11h, 14h, 17h, 20h).
+    # Les deux jeux d'heures UTC couvrent l'heure d'été ET d'hiver ;
+    # l'étape "Garde horaire" ci-dessous ne laisse passer que les bonnes heures.
+    - cron: "7 6,7,9,10,12,13,15,16,18,19 * * *"
+    # Résumé hebdomadaire (lundi matin)
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
 permissions:
   contents: write
 
-on:
-  schedule:
-    # Horaires en UTC. Heure d'été belge (UTC+2, actuellement) : 7h/11h/15h
-    # UTC = 9h/13h/17h locale. À l'heure d'hiver (UTC+1, dès fin octobre),
-    # repasser cette ligne à "0 8,12,16 * * *" pour garder 9h/13h/17h local.
-    - cron: "0 7,11,15 * * *"
-    # Résumé hebdomadaire : lundi ~8h locale (décalé pour ne pas tomber sur le
-    # même créneau que le run quotidien de 7h UTC).
-    - cron: "0 6 * * 1"
-  workflow_dispatch: {}  # permet de lancer manuellement depuis l'onglet Actions
+concurrency:
+  group: check-taleo
+  cancel-in-progress: false
 
 jobs:
   check:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
+      - name: Garde horaire (heure de Belgique)
+        id: gate
+        run: |
+          H=$(TZ=Europe/Brussels date +%H)
+          H=$((10#$H))
+          echo "Heure en Belgique : ${H}h — événement : ${{ github.event_name }} / ${{ github.event.schedule }}"
+          RUN=true
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" != "0 6 * * 1" ]; then
+            case "$H" in
+              8|11|14|17|20) RUN=true ;;
+              *) RUN=false ;;
+            esac
+          fi
+          echo "run=$RUN" >> "$GITHUB_OUTPUT"
+          echo "Exécution : $RUN"
+
       - uses: actions/checkout@v4
+        if: steps.gate.outputs.run == 'true'
 
       - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run == 'true'
         with:
           python-version: "3.11"
 
       - name: Install dependencies
+        if: steps.gate.outputs.run == 'true'
         run: |
           pip install -r requirements.txt
           playwright install --with-deps chromium
 
       - name: Run monitor
+        if: steps.gate.outputs.run == 'true'
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-          WEEKLY_SUMMARY: ${{ github.event.schedule == '0 6 * * 1' && 'true' || '' }}
+          WEEKLY_SUMMARY: ${{ github.event.schedule == '0 6 * * 1' && '1' || '' }}
         run: python taleo_monitor.py
 
-      - name: Commit updated state
+      - name: Commit state and data
+        if: steps.gate.outputs.run == 'true'
         run: |
-          git config user.name "taleo-bot"
-          git config user.email "actions@github.com"
-          git add state.json debug_page.txt debug_page.html docs/jobs.json docs/history.json docs/history_stats.json
-          [ -f debug_detail_page.txt ] && git add debug_detail_page.txt || true
-          git diff --quiet --cached || git commit -m "Update job state"
-          # Si un autre run a poussé entre-temps (chevauchement), on fusionne
-          # en gardant notre version (ce sont des fichiers auto-générés à
-          # chaque run, donc la plus récente est toujours la bonne).
-          git pull --no-rebase -X ours --no-edit origin main
-          git push
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state.json debug_page.txt debug_page.html docs/jobs.json docs/history.json docs/history_stats.json 2>/dev/null || true
+          git add debug_detail_page.txt 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "Rien à committer"
+          else
+            git commit -m "Mise à jour des offres"
+            git pull --no-rebase -X ours --no-edit origin main
+            git push
+          fi
