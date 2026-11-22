@@ -7,8 +7,8 @@ My Job Cart|Sign In
 Job SearchMy Jobpage
 Search|Advanced Search|All Jobs
 Jobs available in:
-English (74)
-French (8)
+English (69)
+French (10)
 	
 
 
@@ -163,7 +163,7 @@ Multiple selections
 You can search for jobs in more than one job field, location and organization. After selecting a value in one of these fields, click "Add..." and make another selection.
 
 Beginning of the main content section.
-Search Results (74 jobs found)
+Search Results (69 jobs found)
 Results per page
 5
 10
@@ -177,73 +177,10 @@ Location (Ascending Order)
 Location (Descending Order)
 
 	
-Principal Technician (ICT Systems) 
-Job Number: 261546 - Denmark-Haderslev
-Application Deadline: 18-Nov-2026, 10:59:00 PM  
-NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G12
-Apply|Add to My Job Cart
-
- 
-
-	
-Principal Technician (Digital Communications Services) 
-Job Number: 261535 - Denmark-Haderslev
-Application Deadline: 18-Nov-2026, 10:59:00 PM  
-NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G12
-Apply|Add to My Job Cart
-
- 
-
-	
-Principal Product Manager (Multiple Posts Available) - Brussels and The Hague  
-Job Number: 261768 - Belgium-Brussels, Netherlands-The Hague
-Application Deadline: 07-Dec-2026, 10:59:00 PM  
-NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G20
-Apply|Add to My Job Cart
-
- 
-
-	
-Principal Assistant, Personnel, Administration and Logistics 
-Job Number: 261637 - France-Paris
-Application Deadline: 06-Dec-2026, 10:59:00 PM  
-NATO Body: Collaboration Support Office (CSO) - Grade: NATO Grade G12
-Apply|Add to My Job Cart
-
- 
-
-	
-Principal Account Manager – G20 Talent Pipeline 
-Job Number: 261794 - Belgium-Brussels, United States of America-Norfolk, Belgium-Mons
-Application Deadline: 06-Dec-2026, 10:59:00 PM  
-NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G20
-Apply|Add to My Job Cart
-
- 
-
-	
-Platform Engineer (ServiceNow) 
-Job Number: 261653 - Belgium-Brussels
-Application Deadline: 23-Nov-2026, 10:59:00 PM  
-NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G15
-Apply|Add to My Job Cart
-
- 
-
-	
-Officer, Intelligence-related Capabilities  
-Job Number: 261667 - Belgium-Brussels
-Application Deadline: 13-Dec-2026, 10:59:00 PM  
-NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G17-G20
-Apply|Add to My Job Cart
-
- 
-
-	
-Officer, Communications 
-Job Number: 261674 - Belgium-Brussels
-Application Deadline: 17-Nov-2026, 10:59:00 PM  
-NATO Body: Science and Technology Organization (STO) - Grade: NATO Grade G15
+Officer, Governance Analytics & Assurance 
+Job Number: 261785 - Belgium-Brussels
+Application Deadline: 02-Dec-2026, 10:59:00 PM  
+NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G17
 Apply|Add to My Job Cart
 
  
@@ -339,6 +276,15 @@ Apply|Add to My Job Cart
  
 
 	
+Engineer (Digital Collaboration) 
+Job Number: 261553 - Denmark-Haderslev
+Application Deadline: 27-Nov-2026, 10:59:00 PM  
+NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G15
+Apply|Add to My Job Cart
+
+ 
+
+	
 Economic Analyst 
 Job Number: 261722 - Türkiye-Izmir
 Application Deadline: 03-Dec-2026, 10:59:00 PM  
@@ -370,6 +316,15 @@ Bus / coach driver - Local Wage Rate 
 Job Number: 261675 - Netherlands-Brunssum
 Application Deadline: 22-Nov-2026, 10:59:00 PM  
 NATO Body: Joint Force Command Brunssum (JFCBS) - Grade: LWR
+Apply|Add to My Job Cart
+
+ 
+
+	
+Assistants (NATO Office of Security) (2 posts) 
+Job Number: 261810 - Belgium-Brussels
+Application Deadline: 03-Jan-2027, 10:59:00 PM  
+NATO Body: NATO International Staff (NATO IS) - Grade: NATO Grade G8-G10
 Apply|Add to My Job Cart
 
  
