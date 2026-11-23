@@ -7,7 +7,7 @@ My Job Cart|Sign In
 Job SearchMy Jobpage
 Search|Advanced Search|All Jobs
 Jobs available in:
-English (59)
+English (60)
 French (8)
 	
 
@@ -163,7 +163,7 @@ Multiple selections
 You can search for jobs in more than one job field, location and organization. After selecting a value in one of these fields, click "Add..." and make another selection.
 
 Beginning of the main content section.
-Search Results (59 jobs found)
+Search Results (60 jobs found)
 Results per page
 5
 10
@@ -217,6 +217,15 @@ Economic Analyst 
 Job Number: 261722 - Türkiye-Izmir
 Application Deadline: 03-Dec-2026, 10:59:00 PM  
 NATO Body: Headquarters Allied Land Command (HQ LANDCOM) - Grade: NATO Grade G17
+Apply|Add to My Job Cart
+
+ 
+
+	
+Cyber Security Engineer (Cryptography) 
+Job Number: 261458 - Belgium-Mons
+Application Deadline: 14-Dec-2026, 10:59:00 PM  
+NATO Body: NATO Communications and Information Agency (NCIA) - Grade: NATO Grade G17
 Apply|Add to My Job Cart
 
  

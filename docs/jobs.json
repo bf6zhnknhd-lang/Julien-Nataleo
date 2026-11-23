@@ -1,16 +1,16 @@
 {
-  "total": 59,
+  "total": 60,
   "jobs": [
     {
-      "job_number": "261823",
-      "title": "Senior assistant (Finance and Accounting) - 2 posts",
-      "location": "Italy-Poggio Renatico",
-      "deadline": "07-Dec-2026, 10:59:00 PM",
-      "org": "Joint Force Command Naples (JFCNP)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-23T14:25:17.729991+00:00",
+      "job_number": "261458",
+      "title": "Cyber Security Engineer (Cryptography)",
+      "location": "Belgium-Mons",
+      "deadline": "14-Dec-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G17",
+      "first_seen": "2026-11-23T16:37:54.459106+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261823",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261458",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
@@ -457,6 +457,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261823",
+      "title": "Senior assistant (Finance and Accounting) - 2 posts",
+      "location": "Italy-Poggio Renatico",
+      "deadline": "07-Dec-2026, 10:59:00 PM",
+      "org": "Joint Force Command Naples (JFCNP)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-23T14:25:17.729991+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261823",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261548",
       "title": "Service Level Manager",
       "location": "Denmark-Haderslev",
@@ -835,5 +849,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-11-23T14:25:29.821729+00:00"
+  "generated_at": "2026-11-23T16:38:05.045852+00:00"
 }
