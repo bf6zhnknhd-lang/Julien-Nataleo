@@ -1986,5 +1986,65 @@
     "was_match": false,
     "matched_keywords": [],
     "removed_at": "2026-11-23T14:25:17.730766+00:00"
+  },
+  {
+    "job_number": "261548",
+    "title": "Service Level Manager",
+    "location": "Denmark-Haderslev",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261548",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-16T14:06:30.731792+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-24T08:33:58.461509+00:00"
+  },
+  {
+    "job_number": "261653",
+    "title": "Platform Engineer (ServiceNow)",
+    "location": "Belgium-Brussels",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261653",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-09T14:29:25.246226+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-24T08:33:58.461509+00:00"
+  },
+  {
+    "job_number": "261706",
+    "title": "Staff Officer (Lessons Learned Analysis Mgt)",
+    "location": "United States of America-Norfolk",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261706",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-02T13:57:20.892913+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-24T08:33:58.461509+00:00"
+  },
+  {
+    "job_number": "261754",
+    "title": "TEMPORARY POST - Legal Advisor (Administrative Law)",
+    "location": "Belgium-Mons",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261754",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G17",
+    "first_seen": "2026-11-17T16:12:43.251198+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-24T08:33:58.461509+00:00"
+  },
+  {
+    "job_number": "261712",
+    "title": "Staff Officer (Science & Technology)",
+    "location": "United States of America-Norfolk",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261712",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-02T13:57:20.892913+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-24T08:33:58.461509+00:00"
   }
 ]
