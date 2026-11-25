@@ -2,76 +2,22 @@
   "total": 56,
   "jobs": [
     {
-      "job_number": "261834",
-      "title": "Head of Procurement",
-      "location": "Belgium-Brussels",
-      "deadline": "03-Jan-2027, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
+      "job_number": "261699",
+      "title": "Director of Finance/Financial Controller",
+      "location": "Italy-Naples",
+      "deadline": "03-Dec-2026, 10:59:00 PM",
+      "org": "Joint Force Command Naples (JFCNP)",
       "grade": "NATO Grade G22",
-      "first_seen": "2026-11-25T19:33:39.365928+00:00",
-      "salary": "11,150.91Euro (EUR) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261834",
-      "is_new": true,
-      "match_score": 2,
+      "first_seen": "2026-11-16T14:06:30.731792+00:00",
+      "salary": "9,766.81Euro (EUR) Monthly",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261699",
+      "is_new": false,
+      "match_score": 6,
       "matched_keywords": [
-        "procurement"
+        "financial",
+        "finance",
+        "controller"
       ]
-    },
-    {
-      "job_number": "261845",
-      "title": "Chief Data Officer",
-      "location": "Belgium-Brussels",
-      "deadline": "03-Jan-2027, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G23",
-      "first_seen": "2026-11-25T19:33:39.365928+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261845",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261816",
-      "title": "Investigator",
-      "location": "Belgium-Brussels",
-      "deadline": "08-Dec-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-25T19:33:39.365928+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261816",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261786",
-      "title": "Staff Officer (Readiness and Crisis Response)",
-      "location": "Belgium-Mons",
-      "deadline": "15-Dec-2026, 10:59:00 PM",
-      "org": "NATO CIS Group (NCISG)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-25T19:33:39.365928+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261786",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261799",
-      "title": "TEMPORARY STAFF: ACO Fund Manager",
-      "location": "Belgium-Mons",
-      "deadline": "29-Nov-2026, 10:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G12",
-      "first_seen": "2026-11-25T19:33:39.365928+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261799",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
     },
     {
       "job_number": "261639",
@@ -88,6 +34,55 @@
       "matched_keywords": [
         "financial",
         "financial management"
+      ]
+    },
+    {
+      "job_number": "261823",
+      "title": "Senior assistant (Finance and Accounting) - 2 posts",
+      "location": "Italy-Poggio Renatico",
+      "deadline": "07-Dec-2026, 10:59:00 PM",
+      "org": "Joint Force Command Naples (JFCNP)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-23T14:25:17.729991+00:00",
+      "salary": "5,879.00Euro (EUR) Monthly",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261823",
+      "is_new": false,
+      "match_score": 4,
+      "matched_keywords": [
+        "finance",
+        "accounting"
+      ]
+    },
+    {
+      "job_number": "261747",
+      "title": "Section Head (Budget) / Deputy Head (BUDFIN)",
+      "location": "United States of America-Norfolk",
+      "deadline": "30-Nov-2026, 10:59:00 PM",
+      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+      "grade": "NATO Grade G20",
+      "first_seen": "2026-11-10T08:10:49.422630+00:00",
+      "salary": "12,449.57US Dollar (USD) Monthly",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261747",
+      "is_new": false,
+      "match_score": 3,
+      "matched_keywords": [
+        "budget"
+      ]
+    },
+    {
+      "job_number": "261834",
+      "title": "Head of Procurement",
+      "location": "Belgium-Brussels",
+      "deadline": "03-Jan-2027, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G22",
+      "first_seen": "2026-11-25T19:33:39.365928+00:00",
+      "salary": "11,150.91Euro (EUR) Monthly",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261834",
+      "is_new": false,
+      "match_score": 2,
+      "matched_keywords": [
+        "procurement"
       ]
     },
     {
@@ -165,6 +160,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261845",
+      "title": "Chief Data Officer",
+      "location": "Belgium-Brussels",
+      "deadline": "03-Jan-2027, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G23",
+      "first_seen": "2026-11-25T19:33:39.365928+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261845",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261458",
       "title": "Cyber Security Engineer (Cryptography)",
       "location": "Belgium-Mons",
@@ -174,20 +183,6 @@
       "first_seen": "2026-11-23T16:37:54.459106+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261458",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261699",
-      "title": "Director of Finance/Financial Controller",
-      "location": "Italy-Naples",
-      "deadline": "03-Dec-2026, 10:59:00 PM",
-      "org": "Joint Force Command Naples (JFCNP)",
-      "grade": "NATO Grade G22",
-      "first_seen": "2026-11-16T14:06:30.731792+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261699",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -300,6 +295,20 @@
       "first_seen": "2026-11-16T14:06:30.731792+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261740",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261816",
+      "title": "Investigator",
+      "location": "Belgium-Brussels",
+      "deadline": "08-Dec-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-25T19:33:39.365928+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261816",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -473,34 +482,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261747",
-      "title": "Section Head (Budget) / Deputy Head (BUDFIN)",
-      "location": "United States of America-Norfolk",
-      "deadline": "30-Nov-2026, 10:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G20",
-      "first_seen": "2026-11-10T08:10:49.422630+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261747",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261823",
-      "title": "Senior assistant (Finance and Accounting) - 2 posts",
-      "location": "Italy-Poggio Renatico",
-      "deadline": "07-Dec-2026, 10:59:00 PM",
-      "org": "Joint Force Command Naples (JFCNP)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-23T14:25:17.729991+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261823",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261636",
       "title": "Staff Assistant (Administration) in various areas",
       "location": "Germany-Geilenkirchen",
@@ -627,6 +608,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261786",
+      "title": "Staff Officer (Readiness and Crisis Response)",
+      "location": "Belgium-Mons",
+      "deadline": "15-Dec-2026, 10:59:00 PM",
+      "org": "NATO CIS Group (NCISG)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-25T19:33:39.365928+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261786",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261494",
       "title": "Staff Officer (Targeting Support) - NATO 2030",
       "location": "Netherlands-Brunssum",
@@ -692,6 +687,20 @@
       "first_seen": "2026-11-22T21:35:12.615007+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261791",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261799",
+      "title": "TEMPORARY STAFF: ACO Fund Manager",
+      "location": "Belgium-Mons",
+      "deadline": "29-Nov-2026, 10:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G12",
+      "first_seen": "2026-11-25T19:33:39.365928+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261799",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -795,5 +804,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-11-25T19:33:54.083207+00:00"
+  "generated_at": "2026-11-25T19:36:45.708766+00:00"
 }
