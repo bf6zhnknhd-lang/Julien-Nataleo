@@ -2,15 +2,73 @@
   "total": 56,
   "jobs": [
     {
-      "job_number": "261822",
-      "title": "Political Advisor",
-      "location": "Türkiye-Izmir",
-      "deadline": "24-Dec-2026, 10:59:00 PM",
-      "org": "Headquarters Allied Land Command (HQ LANDCOM)",
+      "job_number": "261834",
+      "title": "Head of Procurement",
+      "location": "Belgium-Brussels",
+      "deadline": "03-Jan-2027, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
       "grade": "NATO Grade G22",
-      "first_seen": "2026-11-24T08:33:58.461017+00:00",
+      "first_seen": "2026-11-25T19:33:39.365928+00:00",
+      "salary": "11,150.91Euro (EUR) Monthly",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261834",
+      "is_new": true,
+      "match_score": 2,
+      "matched_keywords": [
+        "procurement"
+      ]
+    },
+    {
+      "job_number": "261845",
+      "title": "Chief Data Officer",
+      "location": "Belgium-Brussels",
+      "deadline": "03-Jan-2027, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G23",
+      "first_seen": "2026-11-25T19:33:39.365928+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261822",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261845",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261816",
+      "title": "Investigator",
+      "location": "Belgium-Brussels",
+      "deadline": "08-Dec-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-25T19:33:39.365928+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261816",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261786",
+      "title": "Staff Officer (Readiness and Crisis Response)",
+      "location": "Belgium-Mons",
+      "deadline": "15-Dec-2026, 10:59:00 PM",
+      "org": "NATO CIS Group (NCISG)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-25T19:33:39.365928+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261786",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261799",
+      "title": "TEMPORARY STAFF: ACO Fund Manager",
+      "location": "Belgium-Mons",
+      "deadline": "29-Nov-2026, 10:59:00 PM",
+      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+      "grade": "NATO Grade G12",
+      "first_seen": "2026-11-25T19:33:39.365928+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261799",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
@@ -177,20 +235,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261551",
-      "title": "Engineer (Digital Communications Services)",
-      "location": "Denmark-Haderslev",
-      "deadline": "24-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-17T16:12:43.251198+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261551",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261748",
       "title": "Executive Coordination Off (DP Reqs Determination)",
       "location": "Belgium-Mons",
@@ -200,20 +244,6 @@
       "first_seen": "2026-11-10T08:10:49.422630+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261748",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261696",
-      "title": "Finance & Accounting Section Head (Headquarters Support)",
-      "location": "Italy-Naples",
-      "deadline": "24-Nov-2026, 10:59:00 PM",
-      "org": "Joint Force Command Naples (JFCNP)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-27T19:48:42.570414+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261696",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -359,6 +389,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261822",
+      "title": "Political Advisor",
+      "location": "Türkiye-Izmir",
+      "deadline": "24-Dec-2026, 10:59:00 PM",
+      "org": "Headquarters Allied Land Command (HQ LANDCOM)",
+      "grade": "NATO Grade G22",
+      "first_seen": "2026-11-24T08:33:58.461017+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261822",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261794",
       "title": "Principal Account Manager – G20 Talent Pipeline",
       "location": "Belgium-Brussels, United States of America-Norfolk, Belgium-Mons",
@@ -429,20 +473,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261728",
-      "title": "Quality Assurance Analyst",
-      "location": "United States of America-Norfolk",
-      "deadline": "24-Nov-2026, 10:59:00 PM",
-      "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-03T20:45:53.686430+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261728",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261747",
       "title": "Section Head (Budget) / Deputy Head (BUDFIN)",
       "location": "United States of America-Norfolk",
@@ -494,20 +524,6 @@
       "first_seen": "2026-11-02T13:57:20.892913+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261724",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261707",
-      "title": "Staff Officer (Crisis Response Operations - Resilience & Readiness)",
-      "location": "Netherlands-Brunssum",
-      "deadline": "24-Nov-2026, 10:59:00 PM",
-      "org": "Joint Force Command Brunssum (JFCBS)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-27T19:48:42.570414+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261707",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -681,20 +697,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261753",
-      "title": "TEMPORARY POST - Technical Assistant (Safety)",
-      "location": "Belgium-Mons",
-      "deadline": "24-Nov-2026, 10:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G10",
-      "first_seen": "2026-11-16T16:44:21.938716+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261753",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261813",
       "title": "Technician (Climate Control – Air Conditioning)",
       "location": "Netherlands-Brunssum",
@@ -793,5 +795,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-11-24T08:34:10.593471+00:00"
+  "generated_at": "2026-11-25T19:33:54.083207+00:00"
 }

@@ -2046,5 +2046,65 @@
     "was_match": false,
     "matched_keywords": [],
     "removed_at": "2026-11-24T08:33:58.461509+00:00"
+  },
+  {
+    "job_number": "261707",
+    "title": "Staff Officer (Crisis Response Operations - Resilience & Readiness)",
+    "location": "Netherlands-Brunssum",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261707",
+    "org": "Joint Force Command Brunssum (JFCBS)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-27T19:48:42.570414+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-25T19:33:39.366595+00:00"
+  },
+  {
+    "job_number": "261696",
+    "title": "Finance & Accounting Section Head (Headquarters Support)",
+    "location": "Italy-Naples",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261696",
+    "org": "Joint Force Command Naples (JFCNP)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-10-27T19:48:42.570414+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-25T19:33:39.366595+00:00"
+  },
+  {
+    "job_number": "261551",
+    "title": "Engineer (Digital Communications Services)",
+    "location": "Denmark-Haderslev",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261551",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-17T16:12:43.251198+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-25T19:33:39.366595+00:00"
+  },
+  {
+    "job_number": "261753",
+    "title": "TEMPORARY POST - Technical Assistant (Safety)",
+    "location": "Belgium-Mons",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261753",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-11-16T16:44:21.938716+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-25T19:33:39.366595+00:00"
+  },
+  {
+    "job_number": "261728",
+    "title": "Quality Assurance Analyst",
+    "location": "United States of America-Norfolk",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261728",
+    "org": "Headquarters Supreme Allied Commander Transformation (HQ SACT)",
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-03T20:45:53.686430+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-25T19:33:39.366595+00:00"
   }
 ]
