@@ -56,7 +56,7 @@ MATCH_KEYWORDS = {
 # Seules les offres situées dans ces pays comptent comme correspondance
 # (contrairement au grade et à l'organisme, qu'on garde ouverts). Le champ
 # lieu est au format "Pays-Ville" (ex. "Belgium-Brussels").
-ALLOWED_COUNTRIES = ["Belgium", "Netherlands", "Germany"]
+ALLOWED_COUNTRIES = []  # vide = tous les pays
 
 
 def score_match(title: str, location: str = ""):
