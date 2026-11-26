@@ -95,14 +95,6 @@
     "grade": "NATO Grade G15",
     "first_seen": "2026-11-16T14:06:30.731792+00:00"
   },
-  "261791": {
-    "title": "TEMPORARY POST - Staff Officer - Table Top Exercises",
-    "location": "Belgium-Mons",
-    "deadline": "25-Nov-2026, 10:59:00 PM",
-    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-    "grade": "NATO Grade G11",
-    "first_seen": "2026-11-22T21:35:12.615007+00:00"
-  },
   "261787": {
     "title": "TEMPORARY POST - Civil Engineer",
     "location": "Belgium-Mons",
@@ -215,13 +207,21 @@
     "grade": "NATO Grade G8-G10",
     "first_seen": "2026-10-16T15:11:18.015668+00:00"
   },
-  "261752": {
-    "title": "Senior Assistant (Finance)",
-    "location": "Belgium-Brussels",
-    "deadline": "25-Nov-2026, 10:59:00 PM",
+  "261847": {
+    "title": "Splunk Administrator",
+    "location": "Belgium-Mons",
+    "deadline": "10-Jan-2027, 10:59:00 PM",
     "org": "NATO Communications and Information Agency (NCIA)",
-    "grade": "NATO Grade G10",
-    "first_seen": "2026-11-11T21:43:22.804459+00:00"
+    "grade": "NATO Grade G15",
+    "first_seen": "2026-11-26T16:47:41.410296+00:00"
+  },
+  "261848": {
+    "title": "Senior Technician (multiple positions)",
+    "location": "Italy-La Spezia",
+    "deadline": "07-Jan-2027, 10:59:00 PM",
+    "org": "Centre for Maritime Research and Experimentation (CMRE)",
+    "grade": "NATO Grade G12-G14",
+    "first_seen": "2026-11-26T16:47:41.410296+00:00"
   },
   "261823": {
     "title": "Senior assistant (Finance and Accounting) - 2 posts",
@@ -351,14 +351,6 @@
     "grade": "Unclassified",
     "first_seen": "2026-11-16T14:06:30.731792+00:00"
   },
-  "261520": {
-    "title": "Head, Service Management Branch",
-    "location": "Germany-Ramstein-Miesenbach",
-    "deadline": "25-Nov-2026, 10:59:00 PM",
-    "org": "NATO Communications and Information Agency (NCIA)",
-    "grade": "NATO Grade G17",
-    "first_seen": "2026-11-04T15:03:56.834753+00:00"
-  },
   "261834": {
     "title": "Head of Procurement",
     "location": "Belgium-Brussels",
@@ -430,14 +422,6 @@
     "org": "NATO International Staff (NATO IS)",
     "grade": "NATO Grade G8-G10",
     "first_seen": "2026-11-22T21:35:12.615007+00:00"
-  },
-  "261639": {
-    "title": "Analyst (Financial Management)",
-    "location": "Belgium-Mons",
-    "deadline": "25-Nov-2026, 10:59:00 PM",
-    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-    "grade": "NATO Grade G12",
-    "first_seen": "2026-10-29T13:55:30.170116+00:00"
   },
   "261804": {
     "title": "Analyst (CIMIC Knowledge Development)",

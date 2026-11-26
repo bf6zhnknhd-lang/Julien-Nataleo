@@ -2106,5 +2106,58 @@
     "was_match": false,
     "matched_keywords": [],
     "removed_at": "2026-11-25T19:33:39.366595+00:00"
+  },
+  {
+    "job_number": "261752",
+    "title": "Senior Assistant (Finance)",
+    "location": "Belgium-Brussels",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261752",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G10",
+    "first_seen": "2026-11-11T21:43:22.804459+00:00",
+    "was_match": true,
+    "matched_keywords": [
+      "finance"
+    ],
+    "removed_at": "2026-11-26T16:47:41.410899+00:00"
+  },
+  {
+    "job_number": "261520",
+    "title": "Head, Service Management Branch",
+    "location": "Germany-Ramstein-Miesenbach",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261520",
+    "org": "NATO Communications and Information Agency (NCIA)",
+    "grade": "NATO Grade G17",
+    "first_seen": "2026-11-04T15:03:56.834753+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-26T16:47:41.410899+00:00"
+  },
+  {
+    "job_number": "261791",
+    "title": "TEMPORARY POST - Staff Officer - Table Top Exercises",
+    "location": "Belgium-Mons",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261791",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G11",
+    "first_seen": "2026-11-22T21:35:12.615007+00:00",
+    "was_match": false,
+    "matched_keywords": [],
+    "removed_at": "2026-11-26T16:47:41.410899+00:00"
+  },
+  {
+    "job_number": "261639",
+    "title": "Analyst (Financial Management)",
+    "location": "Belgium-Mons",
+    "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261639",
+    "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
+    "grade": "NATO Grade G12",
+    "first_seen": "2026-10-29T13:55:30.170116+00:00",
+    "was_match": true,
+    "matched_keywords": [
+      "financial",
+      "financial management"
+    ],
+    "removed_at": "2026-11-26T16:47:41.410899+00:00"
   }
 ]

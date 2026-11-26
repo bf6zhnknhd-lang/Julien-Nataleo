@@ -1,6 +1,34 @@
 {
-  "total": 56,
+  "total": 54,
   "jobs": [
+    {
+      "job_number": "261848",
+      "title": "Senior Technician (multiple positions)",
+      "location": "Italy-La Spezia",
+      "deadline": "07-Jan-2027, 10:59:00 PM",
+      "org": "Centre for Maritime Research and Experimentation (CMRE)",
+      "grade": "NATO Grade G12-G14",
+      "first_seen": "2026-11-26T16:47:41.410296+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261848",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261847",
+      "title": "Splunk Administrator",
+      "location": "Belgium-Mons",
+      "deadline": "10-Jan-2027, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-26T16:47:41.410296+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261847",
+      "is_new": true,
+      "match_score": 0,
+      "matched_keywords": []
+    },
     {
       "job_number": "261699",
       "title": "Director of Finance/Financial Controller",
@@ -17,23 +45,6 @@
         "financial",
         "finance",
         "controller"
-      ]
-    },
-    {
-      "job_number": "261639",
-      "title": "Analyst (Financial Management)",
-      "location": "Belgium-Mons",
-      "deadline": "25-Nov-2026, 10:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G12",
-      "first_seen": "2026-10-29T13:55:30.170116+00:00",
-      "salary": "5,393.24Euro (EUR) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261639",
-      "is_new": false,
-      "match_score": 4,
-      "matched_keywords": [
-        "financial",
-        "financial management"
       ]
     },
     {
@@ -83,22 +94,6 @@
       "match_score": 2,
       "matched_keywords": [
         "procurement"
-      ]
-    },
-    {
-      "job_number": "261752",
-      "title": "Senior Assistant (Finance)",
-      "location": "Belgium-Brussels",
-      "deadline": "25-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G10",
-      "first_seen": "2026-11-11T21:43:22.804459+00:00",
-      "salary": "4,738.84Euro (EUR) Monthly",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261752",
-      "is_new": false,
-      "match_score": 2,
-      "matched_keywords": [
-        "finance"
       ]
     },
     {
@@ -267,20 +262,6 @@
       "first_seen": "2026-11-22T21:35:12.615007+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261801",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261520",
-      "title": "Head, Service Management Branch",
-      "location": "Germany-Ramstein-Miesenbach",
-      "deadline": "25-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G17",
-      "first_seen": "2026-11-04T15:03:56.834753+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261520",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -678,20 +659,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261791",
-      "title": "TEMPORARY POST - Staff Officer - Table Top Exercises",
-      "location": "Belgium-Mons",
-      "deadline": "25-Nov-2026, 10:59:00 PM",
-      "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-      "grade": "NATO Grade G11",
-      "first_seen": "2026-11-22T21:35:12.615007+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261791",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "261799",
       "title": "TEMPORARY STAFF: ACO Fund Manager",
       "location": "Belgium-Mons",
@@ -804,5 +771,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-11-25T19:36:45.708766+00:00"
+  "generated_at": "2026-11-26T16:48:00.788540+00:00"
 }
