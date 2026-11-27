@@ -1,30 +1,30 @@
 {
-  "total": 54,
+  "total": 55,
   "jobs": [
     {
-      "job_number": "261848",
-      "title": "Senior Technician (multiple positions)",
-      "location": "Italy-La Spezia",
-      "deadline": "07-Jan-2027, 10:59:00 PM",
-      "org": "Centre for Maritime Research and Experimentation (CMRE)",
-      "grade": "NATO Grade G12-G14",
-      "first_seen": "2026-11-26T16:47:41.410296+00:00",
+      "job_number": "261773",
+      "title": "Conference Services Technician - Local Wage Rate",
+      "location": "Netherlands-Brunssum",
+      "deadline": "03-Jan-2027, 10:59:00 PM",
+      "org": "Joint Force Command Brunssum (JFCBS)",
+      "grade": "LWR",
+      "first_seen": "2026-11-27T16:32:59.762437+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261848",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261773",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
     },
     {
-      "job_number": "261847",
-      "title": "Splunk Administrator",
+      "job_number": "261815",
+      "title": "Senior Cyber Security Engineer (Linux)",
       "location": "Belgium-Mons",
-      "deadline": "10-Jan-2027, 10:59:00 PM",
+      "deadline": "20-Dec-2026, 10:59:00 PM",
       "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-26T16:47:41.410296+00:00",
+      "grade": "NATO Grade G17",
+      "first_seen": "2026-11-27T16:32:59.762437+00:00",
       "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261847",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261815",
       "is_new": true,
       "match_score": 0,
       "matched_keywords": []
@@ -100,7 +100,7 @@
       "job_number": "261774",
       "title": "TEMPORARY POST - Staff Officer (Contracting)",
       "location": "Belgium-Mons",
-      "deadline": "29-Nov-2026, 10:59:00 PM",
+      "deadline": "04-Dec-2026, 10:59:00 PM",
       "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
       "grade": "NATO Grade G15",
       "first_seen": "2026-11-16T14:06:30.731792+00:00",
@@ -463,6 +463,34 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261848",
+      "title": "Senior Technician (multiple positions)",
+      "location": "Italy-La Spezia",
+      "deadline": "07-Jan-2027, 10:59:00 PM",
+      "org": "Centre for Maritime Research and Experimentation (CMRE)",
+      "grade": "NATO Grade G12-G14",
+      "first_seen": "2026-11-26T16:47:41.410296+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261848",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
+      "job_number": "261847",
+      "title": "Splunk Administrator",
+      "location": "Belgium-Mons",
+      "deadline": "10-Jan-2027, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G15",
+      "first_seen": "2026-11-26T16:47:41.410296+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261847",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261636",
       "title": "Staff Assistant (Administration) in various areas",
       "location": "Germany-Geilenkirchen",
@@ -472,20 +500,6 @@
       "first_seen": "2026-10-16T15:11:18.015668+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261636",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261724",
-      "title": "Staff Assistant, Requirements Coordination and Inspections",
-      "location": "Italy-Naples",
-      "deadline": "26-Nov-2026, 10:59:00 PM",
-      "org": "Joint Force Command Naples (JFCNP)",
-      "grade": "NATO Grade G12",
-      "first_seen": "2026-11-02T13:57:20.892913+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261724",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -648,7 +662,7 @@
       "job_number": "261787",
       "title": "TEMPORARY POST - Civil Engineer",
       "location": "Belgium-Mons",
-      "deadline": "29-Nov-2026, 10:59:00 PM",
+      "deadline": "04-Dec-2026, 10:59:00 PM",
       "org": "Supreme Headquarters Allied Powers Europe (SHAPE)",
       "grade": "NATO Grade G17",
       "first_seen": "2026-11-16T14:06:30.731792+00:00",
@@ -771,5 +785,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-11-26T16:48:00.788540+00:00"
+  "generated_at": "2026-11-27T16:33:18.782463+00:00"
 }
