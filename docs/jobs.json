@@ -1,34 +1,6 @@
 {
-  "total": 55,
+  "total": 51,
   "jobs": [
-    {
-      "job_number": "261773",
-      "title": "Conference Services Technician - Local Wage Rate",
-      "location": "Netherlands-Brunssum",
-      "deadline": "03-Jan-2027, 10:59:00 PM",
-      "org": "Joint Force Command Brunssum (JFCBS)",
-      "grade": "LWR",
-      "first_seen": "2026-11-27T16:32:59.762437+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261773",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261815",
-      "title": "Senior Cyber Security Engineer (Linux)",
-      "location": "Belgium-Mons",
-      "deadline": "20-Dec-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G17",
-      "first_seen": "2026-11-27T16:32:59.762437+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261815",
-      "is_new": true,
-      "match_score": 0,
-      "matched_keywords": []
-    },
     {
       "job_number": "261699",
       "title": "Director of Finance/Financial Controller",
@@ -169,6 +141,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261773",
+      "title": "Conference Services Technician - Local Wage Rate",
+      "location": "Netherlands-Brunssum",
+      "deadline": "03-Jan-2027, 10:59:00 PM",
+      "org": "Joint Force Command Brunssum (JFCBS)",
+      "grade": "LWR",
+      "first_seen": "2026-11-27T16:32:59.762437+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261773",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261458",
       "title": "Cyber Security Engineer (Cryptography)",
       "location": "Belgium-Mons",
@@ -206,20 +192,6 @@
       "first_seen": "2026-11-03T14:32:08.025191+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261722",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261553",
-      "title": "Engineer (Digital Collaboration)",
-      "location": "Denmark-Haderslev",
-      "deadline": "27-Nov-2026, 10:59:00 PM",
-      "org": "NATO Communications and Information Agency (NCIA)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-22T21:35:12.615007+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261553",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -463,6 +435,20 @@
       "matched_keywords": []
     },
     {
+      "job_number": "261815",
+      "title": "Senior Cyber Security Engineer (Linux)",
+      "location": "Belgium-Mons",
+      "deadline": "20-Dec-2026, 10:59:00 PM",
+      "org": "NATO Communications and Information Agency (NCIA)",
+      "grade": "NATO Grade G17",
+      "first_seen": "2026-11-27T16:32:59.762437+00:00",
+      "salary": "",
+      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261815",
+      "is_new": false,
+      "match_score": 0,
+      "matched_keywords": []
+    },
+    {
       "job_number": "261848",
       "title": "Senior Technician (multiple positions)",
       "location": "Italy-La Spezia",
@@ -486,20 +472,6 @@
       "first_seen": "2026-11-26T16:47:41.410296+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261847",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261636",
-      "title": "Staff Assistant (Administration) in various areas",
-      "location": "Germany-Geilenkirchen",
-      "deadline": "27-Nov-2026, 10:59:00 PM",
-      "org": "HQ NAEW & C Force Geilenkirchen",
-      "grade": "NATO Grade G8-G10",
-      "first_seen": "2026-10-16T15:11:18.015668+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261636",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -570,20 +542,6 @@
       "first_seen": "2026-11-17T16:12:43.251198+00:00",
       "salary": "",
       "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261803",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
-      "job_number": "261720",
-      "title": "Staff Officer (Information Knowledge Management)",
-      "location": "Italy-Poggio Renatico",
-      "deadline": "27-Nov-2026, 10:59:00 PM",
-      "org": "Joint Force Command Naples (JFCNP)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-10-30T13:49:17.837270+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261720",
       "is_new": false,
       "match_score": 0,
       "matched_keywords": []
@@ -701,20 +659,6 @@
       "matched_keywords": []
     },
     {
-      "job_number": "261750",
-      "title": "Temporary Post - Staff Officer (Executive Coordination - PMO VEVA)",
-      "location": "Belgium-Mons",
-      "deadline": "27-Nov-2026, 10:59:00 PM",
-      "org": "NATO CIS Group (NCISG)",
-      "grade": "NATO Grade G15",
-      "first_seen": "2026-11-16T14:06:30.731792+00:00",
-      "salary": "",
-      "url": "https://nato.taleo.net/careersection/2/jobdetail.ftl?job=261750",
-      "is_new": false,
-      "match_score": 0,
-      "matched_keywords": []
-    },
-    {
       "job_number": "250739",
       "title": "Temporary Staff (DIANA)",
       "location": "United Kingdom-London, EE-Tallinn, CA-Halifax",
@@ -785,5 +729,5 @@
       "matched_keywords": []
     }
   ],
-  "generated_at": "2026-11-27T16:33:18.782463+00:00"
+  "generated_at": "2026-11-28T15:26:15.394707+00:00"
 }
